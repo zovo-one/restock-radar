@@ -1,0 +1,343 @@
+{
+  "extName": {
+    "message": "Restock Radar. Aviseringar när varan finns i lager",
+    "description": "Extension name, <=75 chars"
+  },
+  "extDesc": {
+    "message": "Bevaka valfri produktsida och få en avisering direkt när varan finns i lager igen. Inget konto, ingen spårning.",
+    "description": "Extension description, <=132 chars"
+  },
+  "brandName": {
+    "message": "Restock Radar"
+  },
+  "watchThisPage": {
+    "message": "Bevaka den här sidan"
+  },
+  "watchAdding": {
+    "message": "Lägger till…"
+  },
+  "watchingHere": {
+    "message": "Bevakar den här sidan"
+  },
+  "popupTagline": {
+    "message": "Få en avisering på skrivbordet i samma sekund som varan går att köpa igen."
+  },
+  "notProduct": {
+    "message": "Det här ser inte ut som en produktsida, men du kan ändå bevaka den."
+  },
+  "watching": {
+    "message": "Bevakar"
+  },
+  "checkingNow": {
+    "message": "kontrollerar nu"
+  },
+  "cadenceFree": {
+    "message": "var 15:e min"
+  },
+  "cadencePro": {
+    "message": "var 60:e sek"
+  },
+  "cadenceChipLabel": {
+    "message": "Kontroller"
+  },
+  "statusOut": {
+    "message": "slut i lager · bevakas"
+  },
+  "statusIn": {
+    "message": "finns redan i lager"
+  },
+  "statusTriggered": {
+    "message": "åter i lager, pausad"
+  },
+  "statusPaused": {
+    "message": "pausad"
+  },
+  "statusError": {
+    "message": "kan inte nå, försöker igen"
+  },
+  "watchesHere": {
+    "message": "Bevakningar på den här webbplatsen"
+  },
+  "noWatchesHere": {
+    "message": "Inga bevakningar på den här webbplatsen ännu."
+  },
+  "manageAll": {
+    "message": "Hantera alla bevakningar"
+  },
+  "pickSoldOut": {
+    "message": "Välj knappen Slutsåld"
+  },
+  "permNeeded": {
+    "message": "Jag behöver åtkomst till den här webbplatsen för att bevaka den."
+  },
+  "tryAgain": {
+    "message": "Försök igen"
+  },
+  "capTitle": {
+    "message": "Bevakar 3 av 3"
+  },
+  "capBody": {
+    "message": "Pro bevakar obegränsat antal produkter, kontrollerar var 60:e sek och lägger till ljudpaket."
+  },
+  "watchesNoun": {
+    "message": "bevakningar"
+  },
+  "upgrade": {
+    "message": "Uppgradera"
+  },
+  "maybeLater": {
+    "message": "Kanske senare"
+  },
+  "proLock": {
+    "message": "Pro"
+  },
+  "pwHeadline": {
+    "message": "Missa aldrig nästa gång varan kommer i lager"
+  },
+  "pwForever": {
+    "message": "En betalning låser upp Restock Radar Pro för alltid."
+  },
+  "proUnlock1": {
+    "message": "Bevaka obegränsat antal produkter, inte bara 3"
+  },
+  "proUnlock2": {
+    "message": "60-sekunderskontroller, 15 gånger snabbare än gratis"
+  },
+  "proUnlock3": {
+    "message": "Hastighetskontroll per bevakning"
+  },
+  "proUnlock4": {
+    "message": "Ljudpaket och historik per bevakning"
+  },
+  "pwCompareHead": {
+    "message": "Gratis kontra Pro"
+  },
+  "pwRowWatches": {
+    "message": "Aktiva bevakningar"
+  },
+  "pwRowCadence": {
+    "message": "Kontrollhastighet"
+  },
+  "pwRowSound": {
+    "message": "Aviseringsljud"
+  },
+  "pwFreeWatches": {
+    "message": "3"
+  },
+  "pwProWatches": {
+    "message": "Obegränsat"
+  },
+  "pwFreeCadence": {
+    "message": "15 min"
+  },
+  "pwProCadence": {
+    "message": "60 sek"
+  },
+  "pwFreeSound": {
+    "message": "1 ljudsignal"
+  },
+  "pwProSound": {
+    "message": "Ljudpaket"
+  },
+  "priceLine": {
+    "message": "$$99 för alltid · en betalning, inte en prenumeration"
+  },
+  "guaranteeLine": {
+    "message": "30 dagars pengarna-tillbaka-garanti. Inget konto, noll spårning."
+  },
+  "startTrialNoCard": {
+    "message": "Starta 7 dagars gratis provperiod, inget kort"
+  },
+  "getProCta": {
+    "message": "Skaffa Pro. $$99 för alltid"
+  },
+  "dashboardTitle": {
+    "message": "Dina bevakningar"
+  },
+  "optionsSubtitle": {
+    "message": "Allt som Restock Radar håller ett öga på."
+  },
+  "navWatches": {
+    "message": "Bevakningar"
+  },
+  "navSettings": {
+    "message": "Inställningar"
+  },
+  "navLicense": {
+    "message": "Licens"
+  },
+  "emptyTitle": {
+    "message": "Inga bevakningar ännu"
+  },
+  "emptyText": {
+    "message": "Öppna en produktsida, klicka på ikonen Restock Radar och tryck sedan på Bevaka den här sidan."
+  },
+  "settingsSound": {
+    "message": "Aviseringsljud"
+  },
+  "settingsSoundHint": {
+    "message": "Spela en ljudsignal när en bevakad produkt kommer tillbaka i lager."
+  },
+  "settingsPack": {
+    "message": "Ljudpaket"
+  },
+  "settingsPackHint": {
+    "message": "Välj aviseringsljud. Fler paket låses upp med Pro."
+  },
+  "packDefault": {
+    "message": "Standardsignal"
+  },
+  "licenseTab": {
+    "message": "Licens"
+  },
+  "licenseHeading": {
+    "message": "Ditt abonnemang"
+  },
+  "licenseKeyLabel": {
+    "message": "Licensnyckel"
+  },
+  "licenseKeyPh": {
+    "message": "ZOVO-XXXX-XXXX-XXXX"
+  },
+  "verify": {
+    "message": "Verifiera"
+  },
+  "verifying": {
+    "message": "Verifierar…"
+  },
+  "verifyOk": {
+    "message": "Pro upplåst. Tack för att du stöder Zovo."
+  },
+  "verifyBad": {
+    "message": "Den nyckeln gick inte att verifiera. Kontrollera den och försök igen."
+  },
+  "tierFree": {
+    "message": "Gratisabonnemang"
+  },
+  "tierTrial": {
+    "message": "Pro-provperiod"
+  },
+  "tierPro": {
+    "message": "Pro"
+  },
+  "trialLeft": {
+    "message": "$DAYS$ dagar kvar av din provperiod",
+    "placeholders": {
+      "days": {
+        "content": "$1",
+        "example": "6"
+      }
+    }
+  },
+  "startTrialCta": {
+    "message": "Starta 7 dagars Pro-provperiod"
+  },
+  "proPitch": {
+    "message": "Obegränsade bevakningar, 60-sekunderskontroller, hastighet per bevakning och ljudpaket."
+  },
+  "getPro": {
+    "message": "Skaffa Pro. $$99 engångsbetalning"
+  },
+  "restoreHint": {
+    "message": "Har du redan köpt Pro? Klistra in din nyckel ovan och verifiera."
+  },
+  "pauseAction": {
+    "message": "Pausa"
+  },
+  "resumeAction": {
+    "message": "Återuppta"
+  },
+  "deleteAction": {
+    "message": "Ta bort"
+  },
+  "openAction": {
+    "message": "Öppna"
+  },
+  "cadenceColLabel": {
+    "message": "Kontroller"
+  },
+  "perWatchCadenceHint": {
+    "message": "Hastighet per bevakning är en Pro-kontroll."
+  },
+  "lastChecked": {
+    "message": "kontrollerad $WHEN$",
+    "placeholders": {
+      "when": {
+        "content": "$1",
+        "example": "2 min ago"
+      }
+    }
+  },
+  "relNever": {
+    "message": "inte ännu"
+  },
+  "notifTitle": {
+    "message": "Åter i lager: $TITLE$",
+    "placeholders": {
+      "title": {
+        "content": "$1",
+        "example": "GPU model"
+      }
+    }
+  },
+  "onbEyebrow": {
+    "message": "Restock Radar"
+  },
+  "onbTitle": {
+    "message": "Bevakar du en produkt? Jag aviserar dig i samma sekund som den är tillbaka."
+  },
+  "onbTrust": {
+    "message": "Gratis. Inget konto. Ingen spårning."
+  },
+  "onbStep1t": {
+    "message": "Öppna produktsidan"
+  },
+  "onbStep1b": {
+    "message": "Vilken butik som helst, vilken vara som helst som är slutsåld just nu."
+  },
+  "onbStep2t": {
+    "message": "Klicka på Bevaka den här sidan"
+  },
+  "onbStep2b": {
+    "message": "Ett tryck från verktygsfältet. Ingen registrering, ingen inställningsskärm."
+  },
+  "onbStep3t": {
+    "message": "Bli aviserad i samma stund som den är tillbaka"
+  },
+  "onbStep3b": {
+    "message": "En avisering på skrivbordet och en ljudsignal, även med fliken stängd."
+  },
+  "onbCta": {
+    "message": "Bevaka din första produkt"
+  },
+  "onbProLine": {
+    "message": "Gratis för upp till 3 bevakningar. Pro låser upp obegränsade bevakningar, 60-sekunderskontroller och ljudpaket."
+  },
+  "onbGoPro": {
+    "message": "Se Pro"
+  },
+  "onbFooter": {
+    "message": "Skapad av Zovo · zovo.one"
+  },
+  "sbEyebrow": {
+    "message": "Pro"
+  },
+  "sbHeadline": {
+    "message": "Lås upp Pro. Betala en gång, ditt för alltid."
+  },
+  "sbCtaSub": {
+    "message": "En betalning, inte en prenumeration · 30 dagars pengarna-tillbaka-garanti"
+  },
+  "sbMore": {
+    "message": "Fler verktyg"
+  },
+  "sbMoreLink": {
+    "message": "Bläddra bland alla verktyg på zovo.one"
+  },
+  "sbHelp": {
+    "message": "Hjälp"
+  },
+  "sbPrivacy": {
+    "message": "Integritet"
+  }
+}

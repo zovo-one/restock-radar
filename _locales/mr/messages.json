@@ -1,0 +1,343 @@
+{
+  "extName": {
+    "message": "Restock Radar. पुन्हा स्टॉकमध्ये आल्याचे अलर्ट",
+    "description": "Extension name, <=75 chars"
+  },
+  "extDesc": {
+    "message": "कोणतेही उत्पादन पेज पाहा आणि ते पुन्हा स्टॉकमध्ये येताच डेस्कटॉप अलर्ट मिळवा. खाते नाही, ट्रॅकिंग नाही.",
+    "description": "Extension description, <=132 chars"
+  },
+  "brandName": {
+    "message": "Restock Radar"
+  },
+  "watchThisPage": {
+    "message": "हे पेज पाहा"
+  },
+  "watchAdding": {
+    "message": "जोडत आहे…"
+  },
+  "watchingHere": {
+    "message": "हे पेज पाहत आहे"
+  },
+  "popupTagline": {
+    "message": "ते पुन्हा खरेदीयोग्य होताच डेस्कटॉप पिंग मिळवा."
+  },
+  "notProduct": {
+    "message": "हे उत्पादन पेजसारखे दिसत नाही, पण तरीही तुम्ही ते पाहू शकता."
+  },
+  "watching": {
+    "message": "पाहत आहे"
+  },
+  "checkingNow": {
+    "message": "आता तपासत आहे"
+  },
+  "cadenceFree": {
+    "message": "दर 15 मिनिटांनी"
+  },
+  "cadencePro": {
+    "message": "दर 60 सेकंदांनी"
+  },
+  "cadenceChipLabel": {
+    "message": "तपासण्या"
+  },
+  "statusOut": {
+    "message": "स्टॉक संपला · पाहत आहे"
+  },
+  "statusIn": {
+    "message": "आधीच स्टॉकमध्ये"
+  },
+  "statusTriggered": {
+    "message": "पुन्हा स्टॉकमध्ये, थांबवले"
+  },
+  "statusPaused": {
+    "message": "थांबवले"
+  },
+  "statusError": {
+    "message": "पोहोचता येत नाही, पुन्हा प्रयत्न करत आहे"
+  },
+  "watchesHere": {
+    "message": "या साइटवर पाहत आहे"
+  },
+  "noWatchesHere": {
+    "message": "या साइटवर अद्याप कोणतीही निरीक्षणे नाहीत."
+  },
+  "manageAll": {
+    "message": "सर्व निरीक्षणे व्यवस्थापित करा"
+  },
+  "pickSoldOut": {
+    "message": "Sold-Out बटण निवडा"
+  },
+  "permNeeded": {
+    "message": "हे पाहण्यासाठी मला या साइटचा प्रवेश हवा आहे."
+  },
+  "tryAgain": {
+    "message": "पुन्हा प्रयत्न करा"
+  },
+  "capTitle": {
+    "message": "3 पैकी 3 पाहत आहे"
+  },
+  "capBody": {
+    "message": "Pro अमर्यादित उत्पादने पाहते, दर 60 सेकंदांनी तपासते आणि साउंड पॅक जोडते."
+  },
+  "watchesNoun": {
+    "message": "निरीक्षणे"
+  },
+  "upgrade": {
+    "message": "अपग्रेड करा"
+  },
+  "maybeLater": {
+    "message": "कदाचित नंतर"
+  },
+  "proLock": {
+    "message": "Pro"
+  },
+  "pwHeadline": {
+    "message": "पुढील रिस्टॉक कधीही चुकवू नका"
+  },
+  "pwForever": {
+    "message": "एका पेमेंटमध्ये Restock Radar Pro कायमचे अनलॉक होते."
+  },
+  "proUnlock1": {
+    "message": "फक्त 3 नव्हे, अमर्यादित उत्पादने पाहा"
+  },
+  "proUnlock2": {
+    "message": "60-सेकंद तपासण्या, फ्रीपेक्षा 15 पट वेगवान"
+  },
+  "proUnlock3": {
+    "message": "प्रति-निरीक्षण गती नियंत्रण"
+  },
+  "proUnlock4": {
+    "message": "साउंड पॅक आणि प्रति-निरीक्षण इतिहास"
+  },
+  "pwCompareHead": {
+    "message": "फ्री विरुद्ध Pro"
+  },
+  "pwRowWatches": {
+    "message": "सक्रिय निरीक्षणे"
+  },
+  "pwRowCadence": {
+    "message": "तपासणी गती"
+  },
+  "pwRowSound": {
+    "message": "अलर्ट ध्वनी"
+  },
+  "pwFreeWatches": {
+    "message": "3"
+  },
+  "pwProWatches": {
+    "message": "अमर्यादित"
+  },
+  "pwFreeCadence": {
+    "message": "15 मिनिटे"
+  },
+  "pwProCadence": {
+    "message": "60 सेकंद"
+  },
+  "pwFreeSound": {
+    "message": "1 चाइम"
+  },
+  "pwProSound": {
+    "message": "साउंड पॅक"
+  },
+  "priceLine": {
+    "message": "$$99 आजीवन · एक पेमेंट, सबस्क्रिप्शन नाही"
+  },
+  "guaranteeLine": {
+    "message": "30-दिवसांची पैसे-परत हमी. खाते नाही, शून्य ट्रॅकिंग."
+  },
+  "startTrialNoCard": {
+    "message": "7-दिवसांची मोफत चाचणी सुरू करा, कार्ड नको"
+  },
+  "getProCta": {
+    "message": "Pro मिळवा. $$99 आजीवन"
+  },
+  "dashboardTitle": {
+    "message": "तुमची निरीक्षणे"
+  },
+  "optionsSubtitle": {
+    "message": "Restock Radar जे काही पाहत आहे ते सर्व."
+  },
+  "navWatches": {
+    "message": "निरीक्षणे"
+  },
+  "navSettings": {
+    "message": "सेटिंग्ज"
+  },
+  "navLicense": {
+    "message": "परवाना"
+  },
+  "emptyTitle": {
+    "message": "अद्याप कोणतीही निरीक्षणे नाहीत"
+  },
+  "emptyText": {
+    "message": "उत्पादन पेज उघडा, Restock Radar आयकॉनवर क्लिक करा, नंतर हे पेज पाहा दाबा."
+  },
+  "settingsSound": {
+    "message": "अलर्ट ध्वनी"
+  },
+  "settingsSoundHint": {
+    "message": "पाहत असलेले उत्पादन पुन्हा स्टॉकमध्ये आल्यावर चाइम वाजवा."
+  },
+  "settingsPack": {
+    "message": "साउंड पॅक"
+  },
+  "settingsPackHint": {
+    "message": "अलर्ट ध्वनी निवडा. अधिक पॅक Pro सह अनलॉक होतात."
+  },
+  "packDefault": {
+    "message": "डीफॉल्ट चाइम"
+  },
+  "licenseTab": {
+    "message": "परवाना"
+  },
+  "licenseHeading": {
+    "message": "तुमची योजना"
+  },
+  "licenseKeyLabel": {
+    "message": "परवाना की"
+  },
+  "licenseKeyPh": {
+    "message": "ZOVO-XXXX-XXXX-XXXX"
+  },
+  "verify": {
+    "message": "पडताळणी करा"
+  },
+  "verifying": {
+    "message": "पडताळणी करत आहे…"
+  },
+  "verifyOk": {
+    "message": "Pro अनलॉक झाले. Zovo ला पाठिंबा दिल्याबद्दल धन्यवाद."
+  },
+  "verifyBad": {
+    "message": "ती की पडताळता आली नाही. ती तपासा आणि पुन्हा प्रयत्न करा."
+  },
+  "tierFree": {
+    "message": "फ्री योजना"
+  },
+  "tierTrial": {
+    "message": "Pro चाचणी"
+  },
+  "tierPro": {
+    "message": "Pro"
+  },
+  "trialLeft": {
+    "message": "तुमच्या चाचणीत $DAYS$ दिवस शिल्लक",
+    "placeholders": {
+      "days": {
+        "content": "$1",
+        "example": "6"
+      }
+    }
+  },
+  "startTrialCta": {
+    "message": "7-दिवसांची Pro चाचणी सुरू करा"
+  },
+  "proPitch": {
+    "message": "अमर्यादित निरीक्षणे, 60-सेकंद तपासण्या, प्रति-निरीक्षण गती आणि साउंड पॅक."
+  },
+  "getPro": {
+    "message": "Pro मिळवा. $$99 एकवेळ"
+  },
+  "restoreHint": {
+    "message": "आधीच Pro खरेदी केले? तुमची की वर पेस्ट करा आणि पडताळणी करा."
+  },
+  "pauseAction": {
+    "message": "थांबवा"
+  },
+  "resumeAction": {
+    "message": "पुन्हा सुरू करा"
+  },
+  "deleteAction": {
+    "message": "हटवा"
+  },
+  "openAction": {
+    "message": "उघडा"
+  },
+  "cadenceColLabel": {
+    "message": "तपासण्या"
+  },
+  "perWatchCadenceHint": {
+    "message": "प्रति-निरीक्षण गती हे Pro नियंत्रण आहे."
+  },
+  "lastChecked": {
+    "message": "$WHEN$ तपासले",
+    "placeholders": {
+      "when": {
+        "content": "$1",
+        "example": "2 min ago"
+      }
+    }
+  },
+  "relNever": {
+    "message": "अद्याप नाही"
+  },
+  "notifTitle": {
+    "message": "पुन्हा स्टॉकमध्ये: $TITLE$",
+    "placeholders": {
+      "title": {
+        "content": "$1",
+        "example": "GPU model"
+      }
+    }
+  },
+  "onbEyebrow": {
+    "message": "Restock Radar"
+  },
+  "onbTitle": {
+    "message": "एखादे उत्पादन पाहत आहात? ते पुन्हा येताच मी तुम्हाला पिंग करेन."
+  },
+  "onbTrust": {
+    "message": "मोफत. खाते नाही. ट्रॅकिंग नाही."
+  },
+  "onbStep1t": {
+    "message": "उत्पादन पेज उघडा"
+  },
+  "onbStep1b": {
+    "message": "कोणतेही स्टोअर, आत्ता स्टॉक संपलेली कोणतीही वस्तू."
+  },
+  "onbStep2t": {
+    "message": "हे पेज पाहा वर क्लिक करा"
+  },
+  "onbStep2b": {
+    "message": "टूलबारवरून एका टॅपमध्ये. साइन-अप नाही, सेटअप स्क्रीन नाही."
+  },
+  "onbStep3t": {
+    "message": "ते परत येताच पिंग मिळवा"
+  },
+  "onbStep3b": {
+    "message": "टॅब बंद असतानाही डेस्कटॉप अलर्ट आणि चाइम."
+  },
+  "onbCta": {
+    "message": "तुमचे पहिले उत्पादन पाहा"
+  },
+  "onbProLine": {
+    "message": "3 निरीक्षणांपर्यंत मोफत. Pro अमर्यादित निरीक्षणे, 60-सेकंद तपासण्या आणि साउंड पॅक अनलॉक करते."
+  },
+  "onbGoPro": {
+    "message": "Pro पाहा"
+  },
+  "onbFooter": {
+    "message": "Zovo द्वारे निर्मित · zovo.one"
+  },
+  "sbEyebrow": {
+    "message": "Pro"
+  },
+  "sbHeadline": {
+    "message": "Pro अनलॉक करा. एकदा पैसे द्या, कायमचे तुमचे."
+  },
+  "sbCtaSub": {
+    "message": "एक पेमेंट, सबस्क्रिप्शन नाही · 30-दिवसांची पैसे-परत हमी"
+  },
+  "sbMore": {
+    "message": "अधिक साधने"
+  },
+  "sbMoreLink": {
+    "message": "zovo.one वर सर्व साधने पाहा"
+  },
+  "sbHelp": {
+    "message": "मदत"
+  },
+  "sbPrivacy": {
+    "message": "गोपनीयता"
+  }
+}

@@ -1,0 +1,343 @@
+{
+  "extName": {
+    "message": "Restock Radar. Alertas de reposição de stock",
+    "description": "Extension name, <=75 chars"
+  },
+  "extDesc": {
+    "message": "Vigie qualquer página de produto e receba um alerta no ecrã assim que voltar ao stock. Sem conta, sem rastreio.",
+    "description": "Extension description, <=132 chars"
+  },
+  "brandName": {
+    "message": "Restock Radar"
+  },
+  "watchThisPage": {
+    "message": "Vigiar esta página"
+  },
+  "watchAdding": {
+    "message": "A adicionar…"
+  },
+  "watchingHere": {
+    "message": "A vigiar esta página"
+  },
+  "popupTagline": {
+    "message": "Receba um alerta no ambiente de trabalho assim que voltar a estar disponível."
+  },
+  "notProduct": {
+    "message": "Isto não parece uma página de produto, mas pode vigiá-la à mesma."
+  },
+  "watching": {
+    "message": "A vigiar"
+  },
+  "checkingNow": {
+    "message": "a verificar agora"
+  },
+  "cadenceFree": {
+    "message": "a cada 15 min"
+  },
+  "cadencePro": {
+    "message": "a cada 60s"
+  },
+  "cadenceChipLabel": {
+    "message": "Verificações"
+  },
+  "statusOut": {
+    "message": "esgotado · a vigiar"
+  },
+  "statusIn": {
+    "message": "já em stock"
+  },
+  "statusTriggered": {
+    "message": "de volta ao stock, em pausa"
+  },
+  "statusPaused": {
+    "message": "em pausa"
+  },
+  "statusError": {
+    "message": "sem acesso, a tentar de novo"
+  },
+  "watchesHere": {
+    "message": "A vigiar neste site"
+  },
+  "noWatchesHere": {
+    "message": "Ainda não há vigilâncias neste site."
+  },
+  "manageAll": {
+    "message": "Gerir todas as vigilâncias"
+  },
+  "pickSoldOut": {
+    "message": "Escolha o botão Esgotado"
+  },
+  "permNeeded": {
+    "message": "Preciso de acesso a este site para o vigiar."
+  },
+  "tryAgain": {
+    "message": "Tentar de novo"
+  },
+  "capTitle": {
+    "message": "A vigiar 3 de 3"
+  },
+  "capBody": {
+    "message": "O Pro vigia produtos ilimitados, verifica a cada 60s e adiciona pacotes de som."
+  },
+  "watchesNoun": {
+    "message": "vigilâncias"
+  },
+  "upgrade": {
+    "message": "Atualizar"
+  },
+  "maybeLater": {
+    "message": "Talvez mais tarde"
+  },
+  "proLock": {
+    "message": "Pro"
+  },
+  "pwHeadline": {
+    "message": "Nunca perca a próxima reposição"
+  },
+  "pwForever": {
+    "message": "Um único pagamento desbloqueia o Restock Radar Pro para sempre."
+  },
+  "proUnlock1": {
+    "message": "Vigie produtos ilimitados, não apenas 3"
+  },
+  "proUnlock2": {
+    "message": "Verificações de 60 segundos, 15x mais rápidas do que o plano gratuito"
+  },
+  "proUnlock3": {
+    "message": "Controlo de velocidade por vigilância"
+  },
+  "proUnlock4": {
+    "message": "Pacotes de som e histórico por vigilância"
+  },
+  "pwCompareHead": {
+    "message": "Gratuito vs Pro"
+  },
+  "pwRowWatches": {
+    "message": "Vigilâncias ativas"
+  },
+  "pwRowCadence": {
+    "message": "Velocidade de verificação"
+  },
+  "pwRowSound": {
+    "message": "Sons de alerta"
+  },
+  "pwFreeWatches": {
+    "message": "3"
+  },
+  "pwProWatches": {
+    "message": "Ilimitadas"
+  },
+  "pwFreeCadence": {
+    "message": "15 min"
+  },
+  "pwProCadence": {
+    "message": "60 seg"
+  },
+  "pwFreeSound": {
+    "message": "1 toque"
+  },
+  "pwProSound": {
+    "message": "Pacotes de som"
+  },
+  "priceLine": {
+    "message": "$$99 vitalício · um pagamento, não uma subscrição"
+  },
+  "guaranteeLine": {
+    "message": "Garantia de reembolso de 30 dias. Sem conta, zero rastreio."
+  },
+  "startTrialNoCard": {
+    "message": "Comece a avaliação gratuita de 7 dias, sem cartão"
+  },
+  "getProCta": {
+    "message": "Obtenha o Pro. $$99 vitalício"
+  },
+  "dashboardTitle": {
+    "message": "As suas vigilâncias"
+  },
+  "optionsSubtitle": {
+    "message": "Tudo o que o Restock Radar está a monitorizar."
+  },
+  "navWatches": {
+    "message": "Vigilâncias"
+  },
+  "navSettings": {
+    "message": "Definições"
+  },
+  "navLicense": {
+    "message": "Licença"
+  },
+  "emptyTitle": {
+    "message": "Ainda sem vigilâncias"
+  },
+  "emptyText": {
+    "message": "Abra uma página de produto, clique no ícone do Restock Radar e depois em Vigiar esta página."
+  },
+  "settingsSound": {
+    "message": "Som de alerta"
+  },
+  "settingsSoundHint": {
+    "message": "Reproduzir um toque quando um produto vigiado voltar ao stock."
+  },
+  "settingsPack": {
+    "message": "Pacote de som"
+  },
+  "settingsPackHint": {
+    "message": "Escolha o som de alerta. Mais pacotes desbloqueiam-se com o Pro."
+  },
+  "packDefault": {
+    "message": "Toque predefinido"
+  },
+  "licenseTab": {
+    "message": "Licença"
+  },
+  "licenseHeading": {
+    "message": "O seu plano"
+  },
+  "licenseKeyLabel": {
+    "message": "Chave de licença"
+  },
+  "licenseKeyPh": {
+    "message": "ZOVO-XXXX-XXXX-XXXX"
+  },
+  "verify": {
+    "message": "Verificar"
+  },
+  "verifying": {
+    "message": "A verificar…"
+  },
+  "verifyOk": {
+    "message": "Pro desbloqueado. Obrigado por apoiar a Zovo."
+  },
+  "verifyBad": {
+    "message": "Essa chave não foi validada. Verifique-a e tente de novo."
+  },
+  "tierFree": {
+    "message": "Plano gratuito"
+  },
+  "tierTrial": {
+    "message": "Avaliação Pro"
+  },
+  "tierPro": {
+    "message": "Pro"
+  },
+  "trialLeft": {
+    "message": "$DAYS$ dias restantes na sua avaliação",
+    "placeholders": {
+      "days": {
+        "content": "$1",
+        "example": "6"
+      }
+    }
+  },
+  "startTrialCta": {
+    "message": "Iniciar avaliação Pro de 7 dias"
+  },
+  "proPitch": {
+    "message": "Vigilâncias ilimitadas, verificações de 60 segundos, velocidade por vigilância e pacotes de som."
+  },
+  "getPro": {
+    "message": "Obtenha o Pro. $$99 pagamento único"
+  },
+  "restoreHint": {
+    "message": "Já comprou o Pro? Cole a sua chave acima e verifique."
+  },
+  "pauseAction": {
+    "message": "Pausar"
+  },
+  "resumeAction": {
+    "message": "Retomar"
+  },
+  "deleteAction": {
+    "message": "Eliminar"
+  },
+  "openAction": {
+    "message": "Abrir"
+  },
+  "cadenceColLabel": {
+    "message": "Verificações"
+  },
+  "perWatchCadenceHint": {
+    "message": "A velocidade por vigilância é um controlo Pro."
+  },
+  "lastChecked": {
+    "message": "verificado $WHEN$",
+    "placeholders": {
+      "when": {
+        "content": "$1",
+        "example": "2 min ago"
+      }
+    }
+  },
+  "relNever": {
+    "message": "ainda não"
+  },
+  "notifTitle": {
+    "message": "De volta ao stock: $TITLE$",
+    "placeholders": {
+      "title": {
+        "content": "$1",
+        "example": "GPU model"
+      }
+    }
+  },
+  "onbEyebrow": {
+    "message": "Restock Radar"
+  },
+  "onbTitle": {
+    "message": "A vigiar um produto? Aviso-o assim que voltar."
+  },
+  "onbTrust": {
+    "message": "Gratuito. Sem conta. Sem rastreio."
+  },
+  "onbStep1t": {
+    "message": "Abra a página do produto"
+  },
+  "onbStep1b": {
+    "message": "Qualquer loja, qualquer artigo que esteja esgotado neste momento."
+  },
+  "onbStep2t": {
+    "message": "Clique em Vigiar esta página"
+  },
+  "onbStep2b": {
+    "message": "Um toque na barra de ferramentas. Sem registo, sem ecrã de configuração."
+  },
+  "onbStep3t": {
+    "message": "Seja avisado assim que voltar"
+  },
+  "onbStep3b": {
+    "message": "Um alerta no ambiente de trabalho e um toque, mesmo com o separador fechado."
+  },
+  "onbCta": {
+    "message": "Vigie o seu primeiro produto"
+  },
+  "onbProLine": {
+    "message": "Gratuito até 3 vigilâncias. O Pro desbloqueia vigilâncias ilimitadas, verificações de 60 segundos e pacotes de som."
+  },
+  "onbGoPro": {
+    "message": "Ver Pro"
+  },
+  "onbFooter": {
+    "message": "Feito pela Zovo · zovo.one"
+  },
+  "sbEyebrow": {
+    "message": "Pro"
+  },
+  "sbHeadline": {
+    "message": "Desbloqueie o Pro. Pague uma vez, seu para sempre."
+  },
+  "sbCtaSub": {
+    "message": "Um pagamento, não uma subscrição · garantia de reembolso de 30 dias"
+  },
+  "sbMore": {
+    "message": "Mais ferramentas"
+  },
+  "sbMoreLink": {
+    "message": "Explore todas as ferramentas em zovo.one"
+  },
+  "sbHelp": {
+    "message": "Ajuda"
+  },
+  "sbPrivacy": {
+    "message": "Privacidade"
+  }
+}

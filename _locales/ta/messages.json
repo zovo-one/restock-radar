@@ -1,0 +1,343 @@
+{
+  "extName": {
+    "message": "Restock Radar. மீண்டும் கிடைத்ததும் அறிவிப்பு",
+    "description": "Extension name, <=75 chars"
+  },
+  "extDesc": {
+    "message": "எந்தப் பொருள் பக்கத்தையும் கண்காணித்து, மீண்டும் கிடைத்த நொடியில் டெஸ்க்டாப் அறிவிப்பு பெறுங்கள். கணக்கு இல்லை, கண்காணிப்பு இல்லை.",
+    "description": "Extension description, <=132 chars"
+  },
+  "brandName": {
+    "message": "Restock Radar"
+  },
+  "watchThisPage": {
+    "message": "இந்தப் பக்கத்தைக் கண்காணி"
+  },
+  "watchAdding": {
+    "message": "சேர்க்கிறது…"
+  },
+  "watchingHere": {
+    "message": "இந்தப் பக்கம் கண்காணிக்கப்படுகிறது"
+  },
+  "popupTagline": {
+    "message": "மீண்டும் வாங்கக்கூடிய நொடியில் டெஸ்க்டாப் அறிவிப்பு பெறுங்கள்."
+  },
+  "notProduct": {
+    "message": "இது பொருள் பக்கமாகத் தெரியவில்லை, ஆனாலும் நீங்கள் இதைக் கண்காணிக்கலாம்."
+  },
+  "watching": {
+    "message": "கண்காணிக்கிறது"
+  },
+  "checkingNow": {
+    "message": "இப்போது சரிபார்க்கிறது"
+  },
+  "cadenceFree": {
+    "message": "ஒவ்வொரு 15 நிமிடம்"
+  },
+  "cadencePro": {
+    "message": "ஒவ்வொரு 60வி"
+  },
+  "cadenceChipLabel": {
+    "message": "சரிபார்ப்புகள்"
+  },
+  "statusOut": {
+    "message": "இருப்பில் இல்லை · கண்காணிக்கிறது"
+  },
+  "statusIn": {
+    "message": "ஏற்கனவே இருப்பில் உள்ளது"
+  },
+  "statusTriggered": {
+    "message": "மீண்டும் இருப்பில் உள்ளது, இடைநிறுத்தப்பட்டது"
+  },
+  "statusPaused": {
+    "message": "இடைநிறுத்தப்பட்டது"
+  },
+  "statusError": {
+    "message": "அணுக முடியவில்லை, மீண்டும் முயல்கிறது"
+  },
+  "watchesHere": {
+    "message": "இந்தத் தளத்தில் கண்காணிப்பு"
+  },
+  "noWatchesHere": {
+    "message": "இந்தத் தளத்தில் இன்னும் கண்காணிப்புகள் இல்லை."
+  },
+  "manageAll": {
+    "message": "அனைத்துக் கண்காணிப்புகளையும் நிர்வகி"
+  },
+  "pickSoldOut": {
+    "message": "விற்றுத் தீர்ந்தது பொத்தானைத் தேர்ந்தெடு"
+  },
+  "permNeeded": {
+    "message": "இதைக் கண்காணிக்க இந்தத் தளத்திற்கான அணுகல் தேவை."
+  },
+  "tryAgain": {
+    "message": "மீண்டும் முயற்சி செய்"
+  },
+  "capTitle": {
+    "message": "3 இல் 3 கண்காணிக்கிறது"
+  },
+  "capBody": {
+    "message": "Pro வரம்பற்ற பொருட்களைக் கண்காணிக்கிறது, ஒவ்வொரு 60விக்கும் சரிபார்க்கிறது, ஒலித் தொகுப்புகளையும் சேர்க்கிறது."
+  },
+  "watchesNoun": {
+    "message": "கண்காணிப்புகள்"
+  },
+  "upgrade": {
+    "message": "மேம்படுத்து"
+  },
+  "maybeLater": {
+    "message": "பிறகு பார்க்கலாம்"
+  },
+  "proLock": {
+    "message": "Pro"
+  },
+  "pwHeadline": {
+    "message": "அடுத்த மறு-இருப்பைத் தவறவிடாதீர்கள்"
+  },
+  "pwForever": {
+    "message": "ஒரே கட்டணத்தில் Restock Radar Pro நிரந்தரமாகத் திறக்கப்படும்."
+  },
+  "proUnlock1": {
+    "message": "3 மட்டுமல்ல, வரம்பற்ற பொருட்களைக் கண்காணி"
+  },
+  "proUnlock2": {
+    "message": "60 வினாடி சரிபார்ப்புகள், இலவசத்தை விட 15 மடங்கு வேகம்"
+  },
+  "proUnlock3": {
+    "message": "ஒவ்வொரு கண்காணிப்புக்கும் வேகக் கட்டுப்பாடு"
+  },
+  "proUnlock4": {
+    "message": "ஒலித் தொகுப்புகள் மற்றும் ஒவ்வொரு கண்காணிப்பு வரலாறு"
+  },
+  "pwCompareHead": {
+    "message": "இலவசம் vs Pro"
+  },
+  "pwRowWatches": {
+    "message": "செயலில் உள்ள கண்காணிப்புகள்"
+  },
+  "pwRowCadence": {
+    "message": "சரிபார்ப்பு வேகம்"
+  },
+  "pwRowSound": {
+    "message": "அறிவிப்பு ஒலிகள்"
+  },
+  "pwFreeWatches": {
+    "message": "3"
+  },
+  "pwProWatches": {
+    "message": "வரம்பற்றது"
+  },
+  "pwFreeCadence": {
+    "message": "15 நிமிடம்"
+  },
+  "pwProCadence": {
+    "message": "60 வினாடி"
+  },
+  "pwFreeSound": {
+    "message": "1 ஒலி"
+  },
+  "pwProSound": {
+    "message": "ஒலித் தொகுப்புகள்"
+  },
+  "priceLine": {
+    "message": "$$99 வாழ்நாள் · ஒரே கட்டணம், சந்தா அல்ல"
+  },
+  "guaranteeLine": {
+    "message": "30-நாள் பணத்திரும்பப் பெறும் உத்தரவாதம். கணக்கு இல்லை, கண்காணிப்பு இல்லை."
+  },
+  "startTrialNoCard": {
+    "message": "7-நாள் இலவச சோதனையைத் தொடங்கு, அட்டை தேவையில்லை"
+  },
+  "getProCta": {
+    "message": "Pro பெறு. $$99 வாழ்நாள்"
+  },
+  "dashboardTitle": {
+    "message": "உங்கள் கண்காணிப்புகள்"
+  },
+  "optionsSubtitle": {
+    "message": "Restock Radar கண்காணிக்கும் அனைத்தும்."
+  },
+  "navWatches": {
+    "message": "கண்காணிப்புகள்"
+  },
+  "navSettings": {
+    "message": "அமைப்புகள்"
+  },
+  "navLicense": {
+    "message": "உரிமம்"
+  },
+  "emptyTitle": {
+    "message": "இன்னும் கண்காணிப்புகள் இல்லை"
+  },
+  "emptyText": {
+    "message": "பொருள் பக்கத்தைத் திற, Restock Radar ஐகானைக் கிளிக் செய், பிறகு இந்தப் பக்கத்தைக் கண்காணி என்பதை அழுத்து."
+  },
+  "settingsSound": {
+    "message": "அறிவிப்பு ஒலி"
+  },
+  "settingsSoundHint": {
+    "message": "கண்காணிக்கப்படும் பொருள் மீண்டும் இருப்புக்கு வரும்போது ஒலி எழுப்பு."
+  },
+  "settingsPack": {
+    "message": "ஒலித் தொகுப்பு"
+  },
+  "settingsPackHint": {
+    "message": "அறிவிப்பு ஒலியைத் தேர்ந்தெடு. மேலும் தொகுப்புகள் Pro உடன் திறக்கப்படும்."
+  },
+  "packDefault": {
+    "message": "இயல்பு ஒலி"
+  },
+  "licenseTab": {
+    "message": "உரிமம்"
+  },
+  "licenseHeading": {
+    "message": "உங்கள் திட்டம்"
+  },
+  "licenseKeyLabel": {
+    "message": "உரிமச் சாவி"
+  },
+  "licenseKeyPh": {
+    "message": "ZOVO-XXXX-XXXX-XXXX"
+  },
+  "verify": {
+    "message": "சரிபார்"
+  },
+  "verifying": {
+    "message": "சரிபார்க்கிறது…"
+  },
+  "verifyOk": {
+    "message": "Pro திறக்கப்பட்டது. Zovo ஐ ஆதரித்ததற்கு நன்றி."
+  },
+  "verifyBad": {
+    "message": "அந்தச் சாவி சரிபார்க்கப்படவில்லை. சரிபார்த்து மீண்டும் முயற்சி செய்."
+  },
+  "tierFree": {
+    "message": "இலவசத் திட்டம்"
+  },
+  "tierTrial": {
+    "message": "Pro சோதனை"
+  },
+  "tierPro": {
+    "message": "Pro"
+  },
+  "trialLeft": {
+    "message": "உங்கள் சோதனையில் $DAYS$ நாட்கள் மீதம்",
+    "placeholders": {
+      "days": {
+        "content": "$1",
+        "example": "6"
+      }
+    }
+  },
+  "startTrialCta": {
+    "message": "7-நாள் Pro சோதனையைத் தொடங்கு"
+  },
+  "proPitch": {
+    "message": "வரம்பற்ற கண்காணிப்புகள், 60 வினாடி சரிபார்ப்புகள், ஒவ்வொரு கண்காணிப்பு வேகம் மற்றும் ஒலித் தொகுப்புகள்."
+  },
+  "getPro": {
+    "message": "Pro பெறு. $$99 ஒருமுறை"
+  },
+  "restoreHint": {
+    "message": "ஏற்கனவே Pro வாங்கிவிட்டீர்களா? உங்கள் சாவியை மேலே ஒட்டி சரிபார்க்கவும்."
+  },
+  "pauseAction": {
+    "message": "இடைநிறுத்து"
+  },
+  "resumeAction": {
+    "message": "மீண்டும் தொடங்கு"
+  },
+  "deleteAction": {
+    "message": "நீக்கு"
+  },
+  "openAction": {
+    "message": "திற"
+  },
+  "cadenceColLabel": {
+    "message": "சரிபார்ப்புகள்"
+  },
+  "perWatchCadenceHint": {
+    "message": "ஒவ்வொரு கண்காணிப்பு வேகம் ஒரு Pro கட்டுப்பாடு."
+  },
+  "lastChecked": {
+    "message": "$WHEN$ சரிபார்க்கப்பட்டது",
+    "placeholders": {
+      "when": {
+        "content": "$1",
+        "example": "2 min ago"
+      }
+    }
+  },
+  "relNever": {
+    "message": "இன்னும் இல்லை"
+  },
+  "notifTitle": {
+    "message": "மீண்டும் இருப்பில்: $TITLE$",
+    "placeholders": {
+      "title": {
+        "content": "$1",
+        "example": "GPU model"
+      }
+    }
+  },
+  "onbEyebrow": {
+    "message": "Restock Radar"
+  },
+  "onbTitle": {
+    "message": "ஒரு பொருளைக் கண்காணிக்கிறீர்களா? மீண்டும் வந்த நொடியில் அறிவிக்கிறேன்."
+  },
+  "onbTrust": {
+    "message": "இலவசம். கணக்கு இல்லை. கண்காணிப்பு இல்லை."
+  },
+  "onbStep1t": {
+    "message": "பொருள் பக்கத்தைத் திற"
+  },
+  "onbStep1b": {
+    "message": "எந்தக் கடையிலும், இப்போது விற்றுத் தீர்ந்த எந்தப் பொருளும்."
+  },
+  "onbStep2t": {
+    "message": "இந்தப் பக்கத்தைக் கண்காணி என்பதைக் கிளிக் செய்"
+  },
+  "onbStep2b": {
+    "message": "கருவிப்பட்டியில் ஒரே தட்டு. பதிவு இல்லை, அமைப்புத் திரை இல்லை."
+  },
+  "onbStep3t": {
+    "message": "மீண்டும் வந்த நொடியில் அறிவிப்பு பெறு"
+  },
+  "onbStep3b": {
+    "message": "தாவல் மூடப்பட்டிருந்தாலும் டெஸ்க்டாப் அறிவிப்பும் ஒலியும்."
+  },
+  "onbCta": {
+    "message": "உங்கள் முதல் பொருளைக் கண்காணி"
+  },
+  "onbProLine": {
+    "message": "3 கண்காணிப்புகள் வரை இலவசம். Pro வரம்பற்ற கண்காணிப்புகள், 60 வினாடி சரிபார்ப்புகள் மற்றும் ஒலித் தொகுப்புகளைத் திறக்கிறது."
+  },
+  "onbGoPro": {
+    "message": "Pro ஐப் பார்"
+  },
+  "onbFooter": {
+    "message": "Zovo உருவாக்கியது · zovo.one"
+  },
+  "sbEyebrow": {
+    "message": "Pro"
+  },
+  "sbHeadline": {
+    "message": "Pro ஐத் திற. ஒருமுறை செலுத்து, என்றென்றும் உங்களுடையது."
+  },
+  "sbCtaSub": {
+    "message": "ஒரே கட்டணம், சந்தா அல்ல · 30-நாள் பணத்திரும்பப் பெறும் உத்தரவாதம்"
+  },
+  "sbMore": {
+    "message": "மேலும் கருவிகள்"
+  },
+  "sbMoreLink": {
+    "message": "zovo.one இல் அனைத்துக் கருவிகளையும் உலாவு"
+  },
+  "sbHelp": {
+    "message": "உதவி"
+  },
+  "sbPrivacy": {
+    "message": "தனியுரிமை"
+  }
+}

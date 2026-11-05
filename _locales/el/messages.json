@@ -1,0 +1,343 @@
+{
+  "extName": {
+    "message": "Restock Radar. Ειδοποιήσεις διαθεσιμότητας",
+    "description": "Extension name, <=75 chars"
+  },
+  "extDesc": {
+    "message": "Παρακολουθήστε οποιαδήποτε σελίδα προϊόντος και λάβετε ειδοποίηση μόλις επιστρέψει σε απόθεμα. Χωρίς λογαριασμό ή παρακολούθηση.",
+    "description": "Extension description, <=132 chars"
+  },
+  "brandName": {
+    "message": "Restock Radar"
+  },
+  "watchThisPage": {
+    "message": "Παρακολούθηση αυτής της σελίδας"
+  },
+  "watchAdding": {
+    "message": "Προσθήκη…"
+  },
+  "watchingHere": {
+    "message": "Παρακολούθηση αυτής της σελίδας"
+  },
+  "popupTagline": {
+    "message": "Λάβετε ειδοποίηση επιφάνειας εργασίας μόλις γίνει ξανά διαθέσιμο."
+  },
+  "notProduct": {
+    "message": "Αυτή δεν μοιάζει με σελίδα προϊόντος, αλλά μπορείτε να την παρακολουθήσετε."
+  },
+  "watching": {
+    "message": "Παρακολούθηση"
+  },
+  "checkingNow": {
+    "message": "έλεγχος τώρα"
+  },
+  "cadenceFree": {
+    "message": "κάθε 15 λεπτά"
+  },
+  "cadencePro": {
+    "message": "κάθε 60 δευτ."
+  },
+  "cadenceChipLabel": {
+    "message": "Έλεγχοι"
+  },
+  "statusOut": {
+    "message": "εξαντλημένο · παρακολούθηση"
+  },
+  "statusIn": {
+    "message": "ήδη σε απόθεμα"
+  },
+  "statusTriggered": {
+    "message": "ξανά σε απόθεμα, σε παύση"
+  },
+  "statusPaused": {
+    "message": "σε παύση"
+  },
+  "statusError": {
+    "message": "χωρίς πρόσβαση, νέα προσπάθεια"
+  },
+  "watchesHere": {
+    "message": "Παρακολούθηση σε αυτόν τον ιστότοπο"
+  },
+  "noWatchesHere": {
+    "message": "Δεν υπάρχουν ακόμη παρακολουθήσεις σε αυτόν τον ιστότοπο."
+  },
+  "manageAll": {
+    "message": "Διαχείριση όλων των παρακολουθήσεων"
+  },
+  "pickSoldOut": {
+    "message": "Επιλέξτε το κουμπί Εξαντλημένο"
+  },
+  "permNeeded": {
+    "message": "Χρειάζομαι πρόσβαση σε αυτόν τον ιστότοπο για να τον παρακολουθήσω."
+  },
+  "tryAgain": {
+    "message": "Δοκιμάστε ξανά"
+  },
+  "capTitle": {
+    "message": "Παρακολούθηση 3 από 3"
+  },
+  "capBody": {
+    "message": "Το Pro παρακολουθεί απεριόριστα προϊόντα, ελέγχει κάθε 60 δευτ. και προσθέτει πακέτα ήχων."
+  },
+  "watchesNoun": {
+    "message": "παρακολουθήσεις"
+  },
+  "upgrade": {
+    "message": "Αναβάθμιση"
+  },
+  "maybeLater": {
+    "message": "Ίσως αργότερα"
+  },
+  "proLock": {
+    "message": "Pro"
+  },
+  "pwHeadline": {
+    "message": "Μη χάσετε ποτέ την επόμενη αναπλήρωση"
+  },
+  "pwForever": {
+    "message": "Μία πληρωμή ξεκλειδώνει το Restock Radar Pro για πάντα."
+  },
+  "proUnlock1": {
+    "message": "Παρακολουθήστε απεριόριστα προϊόντα, όχι μόνο 3"
+  },
+  "proUnlock2": {
+    "message": "Έλεγχοι 60 δευτερολέπτων, 15x ταχύτεροι από το δωρεάν"
+  },
+  "proUnlock3": {
+    "message": "Έλεγχος ταχύτητας ανά παρακολούθηση"
+  },
+  "proUnlock4": {
+    "message": "Πακέτα ήχων και ιστορικό ανά παρακολούθηση"
+  },
+  "pwCompareHead": {
+    "message": "Δωρεάν vs Pro"
+  },
+  "pwRowWatches": {
+    "message": "Ενεργές παρακολουθήσεις"
+  },
+  "pwRowCadence": {
+    "message": "Ταχύτητα ελέγχου"
+  },
+  "pwRowSound": {
+    "message": "Ήχοι ειδοποίησης"
+  },
+  "pwFreeWatches": {
+    "message": "3"
+  },
+  "pwProWatches": {
+    "message": "Απεριόριστες"
+  },
+  "pwFreeCadence": {
+    "message": "15 λεπτά"
+  },
+  "pwProCadence": {
+    "message": "60 δευτ."
+  },
+  "pwFreeSound": {
+    "message": "1 ήχος"
+  },
+  "pwProSound": {
+    "message": "Πακέτα ήχων"
+  },
+  "priceLine": {
+    "message": "$$99 εφ' όρου ζωής · μία πληρωμή, όχι συνδρομή"
+  },
+  "guaranteeLine": {
+    "message": "Εγγύηση επιστροφής χρημάτων 30 ημερών. Χωρίς λογαριασμό, μηδενική παρακολούθηση."
+  },
+  "startTrialNoCard": {
+    "message": "Ξεκινήστε δωρεάν δοκιμή 7 ημερών, χωρίς κάρτα"
+  },
+  "getProCta": {
+    "message": "Αποκτήστε Pro. $$99 εφ' όρου ζωής"
+  },
+  "dashboardTitle": {
+    "message": "Οι παρακολουθήσεις σας"
+  },
+  "optionsSubtitle": {
+    "message": "Όλα όσα παρακολουθεί το Restock Radar."
+  },
+  "navWatches": {
+    "message": "Παρακολουθήσεις"
+  },
+  "navSettings": {
+    "message": "Ρυθμίσεις"
+  },
+  "navLicense": {
+    "message": "Άδεια"
+  },
+  "emptyTitle": {
+    "message": "Καμία παρακολούθηση ακόμη"
+  },
+  "emptyText": {
+    "message": "Ανοίξτε μια σελίδα προϊόντος, κάντε κλικ στο εικονίδιο Restock Radar και πατήστε Παρακολούθηση αυτής της σελίδας."
+  },
+  "settingsSound": {
+    "message": "Ήχος ειδοποίησης"
+  },
+  "settingsSoundHint": {
+    "message": "Αναπαραγωγή ήχου όταν ένα προϊόν επιστρέψει σε απόθεμα."
+  },
+  "settingsPack": {
+    "message": "Πακέτο ήχων"
+  },
+  "settingsPackHint": {
+    "message": "Επιλέξτε τον ήχο ειδοποίησης. Περισσότερα πακέτα ξεκλειδώνουν με το Pro."
+  },
+  "packDefault": {
+    "message": "Προεπιλεγμένος ήχος"
+  },
+  "licenseTab": {
+    "message": "Άδεια"
+  },
+  "licenseHeading": {
+    "message": "Το πρόγραμμά σας"
+  },
+  "licenseKeyLabel": {
+    "message": "Κλειδί άδειας"
+  },
+  "licenseKeyPh": {
+    "message": "ZOVO-XXXX-XXXX-XXXX"
+  },
+  "verify": {
+    "message": "Επαλήθευση"
+  },
+  "verifying": {
+    "message": "Επαλήθευση…"
+  },
+  "verifyOk": {
+    "message": "Το Pro ξεκλειδώθηκε. Ευχαριστούμε που στηρίζετε τη Zovo."
+  },
+  "verifyBad": {
+    "message": "Το κλειδί δεν επαληθεύτηκε. Ελέγξτε το και δοκιμάστε ξανά."
+  },
+  "tierFree": {
+    "message": "Δωρεάν πρόγραμμα"
+  },
+  "tierTrial": {
+    "message": "Δοκιμή Pro"
+  },
+  "tierPro": {
+    "message": "Pro"
+  },
+  "trialLeft": {
+    "message": "Απομένουν $DAYS$ ημέρες στη δοκιμή σας",
+    "placeholders": {
+      "days": {
+        "content": "$1",
+        "example": "6"
+      }
+    }
+  },
+  "startTrialCta": {
+    "message": "Ξεκινήστε δοκιμή Pro 7 ημερών"
+  },
+  "proPitch": {
+    "message": "Απεριόριστες παρακολουθήσεις, έλεγχοι 60 δευτ., ταχύτητα ανά παρακολούθηση και πακέτα ήχων."
+  },
+  "getPro": {
+    "message": "Αποκτήστε Pro. $$99 εφάπαξ"
+  },
+  "restoreHint": {
+    "message": "Αγοράσατε ήδη το Pro; Επικολλήστε το κλειδί σας παραπάνω και επαληθεύστε."
+  },
+  "pauseAction": {
+    "message": "Παύση"
+  },
+  "resumeAction": {
+    "message": "Συνέχεια"
+  },
+  "deleteAction": {
+    "message": "Διαγραφή"
+  },
+  "openAction": {
+    "message": "Άνοιγμα"
+  },
+  "cadenceColLabel": {
+    "message": "Έλεγχοι"
+  },
+  "perWatchCadenceHint": {
+    "message": "Η ταχύτητα ανά παρακολούθηση είναι έλεγχος Pro."
+  },
+  "lastChecked": {
+    "message": "ελέγχθηκε $WHEN$",
+    "placeholders": {
+      "when": {
+        "content": "$1",
+        "example": "2 min ago"
+      }
+    }
+  },
+  "relNever": {
+    "message": "όχι ακόμη"
+  },
+  "notifTitle": {
+    "message": "Ξανά σε απόθεμα: $TITLE$",
+    "placeholders": {
+      "title": {
+        "content": "$1",
+        "example": "GPU model"
+      }
+    }
+  },
+  "onbEyebrow": {
+    "message": "Restock Radar"
+  },
+  "onbTitle": {
+    "message": "Παρακολουθείτε ένα προϊόν; Θα σας ειδοποιήσω μόλις επιστρέψει."
+  },
+  "onbTrust": {
+    "message": "Δωρεάν. Χωρίς λογαριασμό. Χωρίς παρακολούθηση."
+  },
+  "onbStep1t": {
+    "message": "Ανοίξτε τη σελίδα προϊόντος"
+  },
+  "onbStep1b": {
+    "message": "Οποιοδήποτε κατάστημα, οποιοδήποτε εξαντλημένο προϊόν."
+  },
+  "onbStep2t": {
+    "message": "Κάντε κλικ στο Παρακολούθηση αυτής της σελίδας"
+  },
+  "onbStep2b": {
+    "message": "Ένα πάτημα από τη γραμμή εργαλείων. Χωρίς εγγραφή, χωρίς οθόνη ρυθμίσεων."
+  },
+  "onbStep3t": {
+    "message": "Ειδοποιείστε μόλις επιστρέψει"
+  },
+  "onbStep3b": {
+    "message": "Ειδοποίηση επιφάνειας εργασίας και ήχος, ακόμη κι αν η καρτέλα είναι κλειστή."
+  },
+  "onbCta": {
+    "message": "Παρακολουθήστε το πρώτο σας προϊόν"
+  },
+  "onbProLine": {
+    "message": "Δωρεάν για έως 3 παρακολουθήσεις. Το Pro ξεκλειδώνει απεριόριστες παρακολουθήσεις, ελέγχους 60 δευτ. και πακέτα ήχων."
+  },
+  "onbGoPro": {
+    "message": "Δείτε το Pro"
+  },
+  "onbFooter": {
+    "message": "Από τη Zovo · zovo.one"
+  },
+  "sbEyebrow": {
+    "message": "Pro"
+  },
+  "sbHeadline": {
+    "message": "Ξεκλειδώστε το Pro. Πληρώστε μία φορά, δικό σας για πάντα."
+  },
+  "sbCtaSub": {
+    "message": "Μία πληρωμή, όχι συνδρομή · εγγύηση επιστροφής χρημάτων 30 ημερών"
+  },
+  "sbMore": {
+    "message": "Περισσότερα εργαλεία"
+  },
+  "sbMoreLink": {
+    "message": "Δείτε όλα τα εργαλεία στο zovo.one"
+  },
+  "sbHelp": {
+    "message": "Βοήθεια"
+  },
+  "sbPrivacy": {
+    "message": "Απόρρητο"
+  }
+}

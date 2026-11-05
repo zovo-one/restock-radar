@@ -1,0 +1,343 @@
+{
+  "extName": {
+    "message": "Restock Radar 补货雷达。到货提醒",
+    "description": "Extension name, <=75 chars"
+  },
+  "extDesc": {
+    "message": "监控任意商品页面，一有货立即弹出桌面提醒。无需账号，不做追踪。",
+    "description": "Extension description, <=132 chars"
+  },
+  "brandName": {
+    "message": "Restock Radar"
+  },
+  "watchThisPage": {
+    "message": "监控此页面"
+  },
+  "watchAdding": {
+    "message": "添加中…"
+  },
+  "watchingHere": {
+    "message": "正在监控此页面"
+  },
+  "popupTagline": {
+    "message": "一旦重新可购买，立即向你发送桌面提醒。"
+  },
+  "notProduct": {
+    "message": "这看起来不像商品页面，但你仍然可以监控它。"
+  },
+  "watching": {
+    "message": "监控中"
+  },
+  "checkingNow": {
+    "message": "正在检查"
+  },
+  "cadenceFree": {
+    "message": "每 15 分钟"
+  },
+  "cadencePro": {
+    "message": "每 60 秒"
+  },
+  "cadenceChipLabel": {
+    "message": "检查频率"
+  },
+  "statusOut": {
+    "message": "缺货 · 监控中"
+  },
+  "statusIn": {
+    "message": "已有货"
+  },
+  "statusTriggered": {
+    "message": "已到货，已暂停"
+  },
+  "statusPaused": {
+    "message": "已暂停"
+  },
+  "statusError": {
+    "message": "无法访问，重试中"
+  },
+  "watchesHere": {
+    "message": "正在监控此网站"
+  },
+  "noWatchesHere": {
+    "message": "此网站暂无监控。"
+  },
+  "manageAll": {
+    "message": "管理所有监控"
+  },
+  "pickSoldOut": {
+    "message": "选择“已售罄”按钮"
+  },
+  "permNeeded": {
+    "message": "我需要访问此网站才能监控它。"
+  },
+  "tryAgain": {
+    "message": "重试"
+  },
+  "capTitle": {
+    "message": "已监控 3 个，共 3 个"
+  },
+  "capBody": {
+    "message": "Pro 可无限监控商品、每 60 秒检查一次，并新增音效包。"
+  },
+  "watchesNoun": {
+    "message": "个监控"
+  },
+  "upgrade": {
+    "message": "升级"
+  },
+  "maybeLater": {
+    "message": "以后再说"
+  },
+  "proLock": {
+    "message": "Pro"
+  },
+  "pwHeadline": {
+    "message": "绝不错过下一次补货"
+  },
+  "pwForever": {
+    "message": "一次付费，永久解锁 Restock Radar Pro。"
+  },
+  "proUnlock1": {
+    "message": "无限监控商品，不再限于 3 个"
+  },
+  "proUnlock2": {
+    "message": "60 秒检查一次，比免费版快 15 倍"
+  },
+  "proUnlock3": {
+    "message": "逐个监控设置检查速度"
+  },
+  "proUnlock4": {
+    "message": "音效包与逐个监控历史记录"
+  },
+  "pwCompareHead": {
+    "message": "免费版与 Pro 对比"
+  },
+  "pwRowWatches": {
+    "message": "活跃监控"
+  },
+  "pwRowCadence": {
+    "message": "检查速度"
+  },
+  "pwRowSound": {
+    "message": "提醒音效"
+  },
+  "pwFreeWatches": {
+    "message": "3"
+  },
+  "pwProWatches": {
+    "message": "无限"
+  },
+  "pwFreeCadence": {
+    "message": "15 分钟"
+  },
+  "pwProCadence": {
+    "message": "60 秒"
+  },
+  "pwFreeSound": {
+    "message": "1 种提示音"
+  },
+  "pwProSound": {
+    "message": "音效包"
+  },
+  "priceLine": {
+    "message": "$$99 永久 · 一次付费，非订阅"
+  },
+  "guaranteeLine": {
+    "message": "30 天退款保证。无需账号，零追踪。"
+  },
+  "startTrialNoCard": {
+    "message": "开始 7 天免费试用，无需银行卡"
+  },
+  "getProCta": {
+    "message": "获取 Pro。$$99 永久"
+  },
+  "dashboardTitle": {
+    "message": "你的监控"
+  },
+  "optionsSubtitle": {
+    "message": "Restock Radar 正在为你留意的一切。"
+  },
+  "navWatches": {
+    "message": "监控"
+  },
+  "navSettings": {
+    "message": "设置"
+  },
+  "navLicense": {
+    "message": "许可证"
+  },
+  "emptyTitle": {
+    "message": "暂无监控"
+  },
+  "emptyText": {
+    "message": "打开商品页面，点击 Restock Radar 图标，然后点“监控此页面”。"
+  },
+  "settingsSound": {
+    "message": "提醒音效"
+  },
+  "settingsSoundHint": {
+    "message": "当被监控的商品重新有货时播放提示音。"
+  },
+  "settingsPack": {
+    "message": "音效包"
+  },
+  "settingsPackHint": {
+    "message": "选择提醒音效。升级 Pro 可解锁更多音效包。"
+  },
+  "packDefault": {
+    "message": "默认提示音"
+  },
+  "licenseTab": {
+    "message": "许可证"
+  },
+  "licenseHeading": {
+    "message": "你的方案"
+  },
+  "licenseKeyLabel": {
+    "message": "许可证密钥"
+  },
+  "licenseKeyPh": {
+    "message": "ZOVO-XXXX-XXXX-XXXX"
+  },
+  "verify": {
+    "message": "验证"
+  },
+  "verifying": {
+    "message": "验证中…"
+  },
+  "verifyOk": {
+    "message": "Pro 已解锁。感谢你支持 Zovo。"
+  },
+  "verifyBad": {
+    "message": "该密钥未通过验证。请检查后重试。"
+  },
+  "tierFree": {
+    "message": "免费方案"
+  },
+  "tierTrial": {
+    "message": "Pro 试用"
+  },
+  "tierPro": {
+    "message": "Pro"
+  },
+  "trialLeft": {
+    "message": "试用还剩 $DAYS$ 天",
+    "placeholders": {
+      "days": {
+        "content": "$1",
+        "example": "6"
+      }
+    }
+  },
+  "startTrialCta": {
+    "message": "开始 7 天 Pro 试用"
+  },
+  "proPitch": {
+    "message": "无限监控、60 秒检查、逐个监控设置速度与音效包。"
+  },
+  "getPro": {
+    "message": "获取 Pro。$$99 一次付费"
+  },
+  "restoreHint": {
+    "message": "已购买 Pro？在上方粘贴你的密钥并验证。"
+  },
+  "pauseAction": {
+    "message": "暂停"
+  },
+  "resumeAction": {
+    "message": "恢复"
+  },
+  "deleteAction": {
+    "message": "删除"
+  },
+  "openAction": {
+    "message": "打开"
+  },
+  "cadenceColLabel": {
+    "message": "检查频率"
+  },
+  "perWatchCadenceHint": {
+    "message": "逐个监控设置速度是 Pro 功能。"
+  },
+  "lastChecked": {
+    "message": "检查于 $WHEN$",
+    "placeholders": {
+      "when": {
+        "content": "$1",
+        "example": "2 min ago"
+      }
+    }
+  },
+  "relNever": {
+    "message": "尚未检查"
+  },
+  "notifTitle": {
+    "message": "已到货：$TITLE$",
+    "placeholders": {
+      "title": {
+        "content": "$1",
+        "example": "GPU model"
+      }
+    }
+  },
+  "onbEyebrow": {
+    "message": "Restock Radar"
+  },
+  "onbTitle": {
+    "message": "在监控某件商品？一旦到货我会立即提醒你。"
+  },
+  "onbTrust": {
+    "message": "免费。无需账号。不做追踪。"
+  },
+  "onbStep1t": {
+    "message": "打开商品页面"
+  },
+  "onbStep1b": {
+    "message": "任意商店、任意当前售罄的商品。"
+  },
+  "onbStep2t": {
+    "message": "点击“监控此页面”"
+  },
+  "onbStep2b": {
+    "message": "从工具栏一键操作。无需注册，无需设置界面。"
+  },
+  "onbStep3t": {
+    "message": "一到货就收到提醒"
+  },
+  "onbStep3b": {
+    "message": "即使标签页已关闭，也会有桌面提醒和提示音。"
+  },
+  "onbCta": {
+    "message": "监控你的第一件商品"
+  },
+  "onbProLine": {
+    "message": "免费版最多监控 3 个。Pro 可无限监控、60 秒检查并解锁音效包。"
+  },
+  "onbGoPro": {
+    "message": "了解 Pro"
+  },
+  "onbFooter": {
+    "message": "由 Zovo 打造 · zovo.one"
+  },
+  "sbEyebrow": {
+    "message": "Pro"
+  },
+  "sbHeadline": {
+    "message": "解锁 Pro。一次付费，永久拥有。"
+  },
+  "sbCtaSub": {
+    "message": "一次付费，非订阅 · 30 天退款保证"
+  },
+  "sbMore": {
+    "message": "更多工具"
+  },
+  "sbMoreLink": {
+    "message": "在 zovo.one 浏览所有工具"
+  },
+  "sbHelp": {
+    "message": "帮助"
+  },
+  "sbPrivacy": {
+    "message": "隐私"
+  }
+}

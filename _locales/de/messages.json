@@ -1,0 +1,343 @@
+{
+  "extName": {
+    "message": "Restock Radar. Wieder-auf-Lager-Alarme",
+    "description": "Extension name, <=75 chars"
+  },
+  "extDesc": {
+    "message": "Beobachte jede Produktseite und erhalte sofort eine Desktop-Meldung, sobald es wieder auf Lager ist. Kein Konto, kein Tracking.",
+    "description": "Extension description, <=132 chars"
+  },
+  "brandName": {
+    "message": "Restock Radar"
+  },
+  "watchThisPage": {
+    "message": "Diese Seite beobachten"
+  },
+  "watchAdding": {
+    "message": "Wird hinzugefügt…"
+  },
+  "watchingHere": {
+    "message": "Diese Seite wird beobachtet"
+  },
+  "popupTagline": {
+    "message": "Erhalte sofort eine Desktop-Meldung, sobald es wieder kaufbar ist."
+  },
+  "notProduct": {
+    "message": "Das sieht nicht nach einer Produktseite aus, du kannst sie aber trotzdem beobachten."
+  },
+  "watching": {
+    "message": "Wird beobachtet"
+  },
+  "checkingNow": {
+    "message": "wird jetzt geprüft"
+  },
+  "cadenceFree": {
+    "message": "alle 15 Min."
+  },
+  "cadencePro": {
+    "message": "alle 60 Sek."
+  },
+  "cadenceChipLabel": {
+    "message": "Prüfungen"
+  },
+  "statusOut": {
+    "message": "nicht auf Lager · wird beobachtet"
+  },
+  "statusIn": {
+    "message": "bereits auf Lager"
+  },
+  "statusTriggered": {
+    "message": "wieder auf Lager, pausiert"
+  },
+  "statusPaused": {
+    "message": "pausiert"
+  },
+  "statusError": {
+    "message": "nicht erreichbar, erneuter Versuch"
+  },
+  "watchesHere": {
+    "message": "Beobachtungen auf dieser Website"
+  },
+  "noWatchesHere": {
+    "message": "Noch keine Beobachtungen auf dieser Website."
+  },
+  "manageAll": {
+    "message": "Alle Beobachtungen verwalten"
+  },
+  "pickSoldOut": {
+    "message": "Wähle die Ausverkauft-Schaltfläche"
+  },
+  "permNeeded": {
+    "message": "Ich benötige Zugriff auf diese Website, um sie zu beobachten."
+  },
+  "tryAgain": {
+    "message": "Erneut versuchen"
+  },
+  "capTitle": {
+    "message": "3 von 3 werden beobachtet"
+  },
+  "capBody": {
+    "message": "Pro beobachtet unbegrenzt viele Produkte, prüft alle 60 Sek. und fügt Soundpakete hinzu."
+  },
+  "watchesNoun": {
+    "message": "Beobachtungen"
+  },
+  "upgrade": {
+    "message": "Upgrade"
+  },
+  "maybeLater": {
+    "message": "Vielleicht später"
+  },
+  "proLock": {
+    "message": "Pro"
+  },
+  "pwHeadline": {
+    "message": "Verpasse nie wieder den nächsten Restock"
+  },
+  "pwForever": {
+    "message": "Eine Zahlung schaltet Restock Radar Pro für immer frei."
+  },
+  "proUnlock1": {
+    "message": "Beobachte unbegrenzt viele Produkte, nicht nur 3"
+  },
+  "proUnlock2": {
+    "message": "Prüfungen alle 60 Sekunden, 15-mal schneller als Gratis"
+  },
+  "proUnlock3": {
+    "message": "Geschwindigkeit pro Beobachtung einstellbar"
+  },
+  "proUnlock4": {
+    "message": "Soundpakete und Verlauf pro Beobachtung"
+  },
+  "pwCompareHead": {
+    "message": "Gratis vs. Pro"
+  },
+  "pwRowWatches": {
+    "message": "Aktive Beobachtungen"
+  },
+  "pwRowCadence": {
+    "message": "Prüfgeschwindigkeit"
+  },
+  "pwRowSound": {
+    "message": "Alarmtöne"
+  },
+  "pwFreeWatches": {
+    "message": "3"
+  },
+  "pwProWatches": {
+    "message": "Unbegrenzt"
+  },
+  "pwFreeCadence": {
+    "message": "15 Min."
+  },
+  "pwProCadence": {
+    "message": "60 Sek."
+  },
+  "pwFreeSound": {
+    "message": "1 Ton"
+  },
+  "pwProSound": {
+    "message": "Soundpakete"
+  },
+  "priceLine": {
+    "message": "$$99 einmalig · eine Zahlung, kein Abo"
+  },
+  "guaranteeLine": {
+    "message": "30 Tage Geld-zurück-Garantie. Kein Konto, kein Tracking."
+  },
+  "startTrialNoCard": {
+    "message": "7-tägige Gratis-Testphase starten, keine Karte"
+  },
+  "getProCta": {
+    "message": "Pro holen. $$99 einmalig"
+  },
+  "dashboardTitle": {
+    "message": "Deine Beobachtungen"
+  },
+  "optionsSubtitle": {
+    "message": "Alles, was Restock Radar für dich im Blick behält."
+  },
+  "navWatches": {
+    "message": "Beobachtungen"
+  },
+  "navSettings": {
+    "message": "Einstellungen"
+  },
+  "navLicense": {
+    "message": "Lizenz"
+  },
+  "emptyTitle": {
+    "message": "Noch keine Beobachtungen"
+  },
+  "emptyText": {
+    "message": "Öffne eine Produktseite, klicke auf das Restock-Radar-Symbol und dann auf Diese Seite beobachten."
+  },
+  "settingsSound": {
+    "message": "Alarmton"
+  },
+  "settingsSoundHint": {
+    "message": "Spiele einen Ton ab, wenn ein beobachtetes Produkt wieder auf Lager ist."
+  },
+  "settingsPack": {
+    "message": "Soundpaket"
+  },
+  "settingsPackHint": {
+    "message": "Wähle den Alarmton. Weitere Pakete werden mit Pro freigeschaltet."
+  },
+  "packDefault": {
+    "message": "Standardton"
+  },
+  "licenseTab": {
+    "message": "Lizenz"
+  },
+  "licenseHeading": {
+    "message": "Dein Tarif"
+  },
+  "licenseKeyLabel": {
+    "message": "Lizenzschlüssel"
+  },
+  "licenseKeyPh": {
+    "message": "ZOVO-XXXX-XXXX-XXXX"
+  },
+  "verify": {
+    "message": "Prüfen"
+  },
+  "verifying": {
+    "message": "Wird geprüft…"
+  },
+  "verifyOk": {
+    "message": "Pro freigeschaltet. Danke, dass du Zovo unterstützt."
+  },
+  "verifyBad": {
+    "message": "Dieser Schlüssel war ungültig. Prüfe ihn und versuche es erneut."
+  },
+  "tierFree": {
+    "message": "Gratis-Tarif"
+  },
+  "tierTrial": {
+    "message": "Pro-Testphase"
+  },
+  "tierPro": {
+    "message": "Pro"
+  },
+  "trialLeft": {
+    "message": "Noch $DAYS$ Tage in deiner Testphase",
+    "placeholders": {
+      "days": {
+        "content": "$1",
+        "example": "6"
+      }
+    }
+  },
+  "startTrialCta": {
+    "message": "7-tägige Pro-Testphase starten"
+  },
+  "proPitch": {
+    "message": "Unbegrenzte Beobachtungen, Prüfungen alle 60 Sekunden, Geschwindigkeit pro Beobachtung und Soundpakete."
+  },
+  "getPro": {
+    "message": "Pro holen. $$99 einmalig"
+  },
+  "restoreHint": {
+    "message": "Pro schon gekauft? Füge oben deinen Schlüssel ein und prüfe ihn."
+  },
+  "pauseAction": {
+    "message": "Pausieren"
+  },
+  "resumeAction": {
+    "message": "Fortsetzen"
+  },
+  "deleteAction": {
+    "message": "Löschen"
+  },
+  "openAction": {
+    "message": "Öffnen"
+  },
+  "cadenceColLabel": {
+    "message": "Prüfungen"
+  },
+  "perWatchCadenceHint": {
+    "message": "Die Geschwindigkeit pro Beobachtung ist eine Pro-Funktion."
+  },
+  "lastChecked": {
+    "message": "geprüft $WHEN$",
+    "placeholders": {
+      "when": {
+        "content": "$1",
+        "example": "2 min ago"
+      }
+    }
+  },
+  "relNever": {
+    "message": "noch nicht"
+  },
+  "notifTitle": {
+    "message": "Wieder auf Lager: $TITLE$",
+    "placeholders": {
+      "title": {
+        "content": "$1",
+        "example": "GPU model"
+      }
+    }
+  },
+  "onbEyebrow": {
+    "message": "Restock Radar"
+  },
+  "onbTitle": {
+    "message": "Ein Produkt im Blick? Ich melde mich, sobald es wieder da ist."
+  },
+  "onbTrust": {
+    "message": "Gratis. Kein Konto. Kein Tracking."
+  },
+  "onbStep1t": {
+    "message": "Öffne die Produktseite"
+  },
+  "onbStep1b": {
+    "message": "Jeder Shop, jeder Artikel, der gerade ausverkauft ist."
+  },
+  "onbStep2t": {
+    "message": "Klicke auf Diese Seite beobachten"
+  },
+  "onbStep2b": {
+    "message": "Ein Klick in der Symbolleiste. Keine Anmeldung, kein Einrichtungsbildschirm."
+  },
+  "onbStep3t": {
+    "message": "Werde benachrichtigt, sobald es wieder da ist"
+  },
+  "onbStep3b": {
+    "message": "Eine Desktop-Meldung und ein Ton, selbst bei geschlossenem Tab."
+  },
+  "onbCta": {
+    "message": "Beobachte dein erstes Produkt"
+  },
+  "onbProLine": {
+    "message": "Gratis für bis zu 3 Beobachtungen. Pro schaltet unbegrenzte Beobachtungen, Prüfungen alle 60 Sekunden und Soundpakete frei."
+  },
+  "onbGoPro": {
+    "message": "Pro ansehen"
+  },
+  "onbFooter": {
+    "message": "Von Zovo · zovo.one"
+  },
+  "sbEyebrow": {
+    "message": "Pro"
+  },
+  "sbHeadline": {
+    "message": "Pro freischalten. Einmal zahlen, für immer deins."
+  },
+  "sbCtaSub": {
+    "message": "Eine Zahlung, kein Abo · 30 Tage Geld-zurück-Garantie"
+  },
+  "sbMore": {
+    "message": "Weitere Tools"
+  },
+  "sbMoreLink": {
+    "message": "Alle Tools auf zovo.one entdecken"
+  },
+  "sbHelp": {
+    "message": "Hilfe"
+  },
+  "sbPrivacy": {
+    "message": "Datenschutz"
+  }
+}

@@ -1,0 +1,167 @@
+/* ============================================================================
+ * popup.css — Restock Radar popup surface. Loads AFTER zovo-base.css; uses only
+ * brand tokens so light/dark + reduced-motion come for free. One hero (the
+ * current product + the Watch CTA); everything else is quiet supporting rhythm.
+ * ========================================================================== */
+
+.zovo-popup { display: flex; flex-direction: column; }
+
+/* ---- status dot (shared vocabulary with options) -------------------------- */
+.rr-dot {
+  flex: none;
+  width: 9px; height: 9px; border-radius: 999px;
+  background: var(--zovo-text-secondary);
+  box-shadow: 0 0 0 3px color-mix(in srgb, var(--zovo-text-secondary) 18%, transparent);
+}
+.rr-dot--live {
+  background: var(--zovo-primary);
+  box-shadow: 0 0 0 3px var(--zovo-primary-50);
+  animation: rr-pulse 1.8s ease-in-out infinite;
+}
+.rr-dot--in    { background: var(--zovo-accent);  box-shadow: 0 0 0 3px color-mix(in srgb, var(--zovo-accent) 22%, transparent); }
+.rr-dot--ok    { background: var(--zovo-success); box-shadow: 0 0 0 3px color-mix(in srgb, var(--zovo-success) 22%, transparent); }
+.rr-dot--paused{ background: var(--zovo-text-secondary); box-shadow: none; opacity: 0.7; }
+.rr-dot--error { background: var(--zovo-error);   box-shadow: 0 0 0 3px color-mix(in srgb, var(--zovo-error) 20%, transparent); }
+@keyframes rr-pulse { 0%,100% { opacity: 1; } 50% { opacity: 0.45; } }
+
+/* ---- hero: the ONE thing — current product + Watch CTA -------------------- */
+.rr-hero {
+  padding: var(--zovo-space-6) var(--zovo-space-5) var(--zovo-space-5);
+  background: var(--zovo-bg);
+  border-bottom: 1px solid var(--zovo-border);
+}
+.rr-hero__host { margin-bottom: var(--zovo-space-1); }
+.rr-hero__title {
+  margin: 0;
+  font-size: var(--zovo-fs-subheading);
+  font-weight: var(--zovo-fw-heading);
+  line-height: 1.3;
+  letter-spacing: -0.01em;
+  color: var(--zovo-text);
+  /* keep long product titles to two calm lines */
+  display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden;
+}
+.rr-hero__sub { margin: var(--zovo-space-2) 0 var(--zovo-space-4); font-size: var(--zovo-fs-caption); }
+.rr-cta { margin-top: var(--zovo-space-2); font-weight: var(--zovo-fw-heading); }
+.rr-hero__foot { display: flex; justify-content: center; margin-top: var(--zovo-space-3); }
+.rr-hero--empty { padding: var(--zovo-space-6) var(--zovo-space-4); }
+
+.rr-watching-badge {
+  display: flex; align-items: center; justify-content: center; gap: var(--zovo-space-2);
+  margin-top: var(--zovo-space-2); padding: 12px;
+  border: 1px solid var(--zovo-border); border-radius: var(--zovo-radius-btn);
+  background: var(--zovo-surface);
+  font-weight: var(--zovo-fw-medium); color: var(--zovo-text);
+}
+
+/* ---- cadence chip (visible-but-locked in free) ---------------------------- */
+.rr-chip {
+  display: inline-flex; align-items: center; gap: 6px;
+  padding: 5px 10px; border-radius: var(--zovo-radius-pill);
+  background: var(--zovo-surface); border: 1px solid var(--zovo-border);
+  font-size: var(--zovo-fs-caption); color: var(--zovo-text);
+  font-family: inherit;
+}
+.rr-chip__k { color: var(--zovo-text-secondary); }
+.rr-chip--locked { cursor: pointer; transition: border-color var(--zovo-transition), background var(--zovo-transition); }
+.rr-chip--locked:hover { border-color: var(--zovo-pro); background: color-mix(in srgb, var(--zovo-pro) 8%, var(--zovo-bg)); }
+.rr-chip--locked:focus-visible { outline: none; box-shadow: 0 0 0 3px color-mix(in srgb, var(--zovo-pro) 30%, transparent); }
+.rr-chip__lock { margin-left: 2px; }
+
+/* ---- permission-denied inline recovery ------------------------------------ */
+.rr-permerr { margin-top: var(--zovo-space-3); justify-content: space-between; }
+.rr-permerr__btn { flex: none; min-height: 32px; padding: 6px 12px; }
+
+/* ---- this-site watch list -------------------------------------------------- */
+.rr-here { padding: var(--zovo-space-4) var(--zovo-space-5) var(--zovo-space-3); }
+.rr-wlist { list-style: none; margin: 0; padding: 0; display: flex; flex-direction: column; gap: 2px; }
+.rr-wrow {
+  display: flex; align-items: center; gap: var(--zovo-space-3);
+  padding: var(--zovo-space-2) var(--zovo-space-2);
+  border-radius: var(--zovo-radius-btn);
+  transition: background var(--zovo-transition);
+}
+.rr-wrow:hover { background: var(--zovo-primary-50); }
+.rr-wrow__body { flex: 1; min-width: 0; display: flex; flex-direction: column; }
+.rr-wrow__title {
+  font-size: var(--zovo-fs-body); color: var(--zovo-text);
+  white-space: nowrap; overflow: hidden; text-overflow: ellipsis;
+}
+.rr-wrow__meta { font-size: 11px; color: var(--zovo-text-secondary); }
+.rr-wrow__open { flex: none; min-height: 30px; padding: 5px 10px; }
+
+/* ---- cap paywall (the SELL — MONETIZE-STANDARD §4) ------------------------- */
+.rr-paywall {
+  position: fixed; inset: 0; z-index: 10;
+  display: flex; align-items: flex-start; justify-content: center;
+  padding: var(--zovo-space-4);
+  overflow-y: auto;
+  background: color-mix(in srgb, var(--zovo-text) 55%, transparent);
+  backdrop-filter: blur(2px);
+  animation: rr-fade var(--zovo-transition) ease-out;
+}
+.rr-paywall__card {
+  position: relative;
+  width: 100%; max-width: 340px; text-align: center;
+  display: flex; flex-direction: column; gap: var(--zovo-space-2);
+  padding: var(--zovo-space-5);
+  box-shadow: var(--zovo-shadow-lg);
+}
+.rr-paywall__x {
+  position: absolute; top: 8px; right: 10px;
+  width: 28px; height: 28px; border: none; border-radius: 999px;
+  background: transparent; color: var(--zovo-text-secondary);
+  font-size: 20px; line-height: 1; cursor: pointer;
+}
+.rr-paywall__x:hover { background: var(--zovo-surface); color: var(--zovo-text); }
+.rr-paywall__x:focus-visible { outline: none; box-shadow: 0 0 0 3px var(--zovo-primary-50); }
+.rr-paywall__badge { align-self: center; }
+.rr-paywall__title { margin: var(--zovo-space-1) 0 0; font-size: var(--zovo-fs-heading); font-weight: 700; letter-spacing: -0.01em; }
+.rr-paywall__lead { margin: 0 0 var(--zovo-space-1); font-size: var(--zovo-fs-body); }
+
+/* value stack */
+.rr-pw-stack { list-style: none; margin: 0; padding: 0; text-align: left; display: flex; flex-direction: column; gap: 7px; }
+.rr-pw-stack__item { display: flex; align-items: flex-start; gap: 9px; font-size: var(--zovo-fs-body); color: var(--zovo-text); }
+.rr-pw-stack__tick {
+  flex: none; width: 16px; height: 16px; margin-top: 2px; border-radius: 999px;
+  background: color-mix(in srgb, var(--zovo-pro) 20%, transparent);
+  position: relative;
+}
+.rr-pw-stack__tick::after {
+  content: ""; position: absolute; left: 5px; top: 3px;
+  width: 4px; height: 8px; border: solid var(--zovo-pro-dark, var(--zovo-pro));
+  border-width: 0 2px 2px 0; transform: rotate(45deg);
+}
+
+/* free vs pro mini-table */
+.rr-pw-compare {
+  margin-top: var(--zovo-space-2);
+  border: 1px solid var(--zovo-border); border-radius: var(--zovo-radius-card);
+  overflow: hidden; font-size: var(--zovo-fs-caption);
+}
+.rr-pw-compare__head, .rr-pw-compare__row {
+  display: grid; grid-template-columns: 1.3fr 1fr 1fr; align-items: center;
+  padding: 7px 10px;
+}
+.rr-pw-compare__head { background: var(--zovo-surface); font-weight: var(--zovo-fw-heading); }
+.rr-pw-compare__row + .rr-pw-compare__row, .rr-pw-compare__row:first-of-type { border-top: 1px solid var(--zovo-border); }
+.rr-pw-compare__k { text-align: left; color: var(--zovo-text-secondary); }
+.rr-pw-compare__free { text-align: center; color: var(--zovo-text-secondary); }
+.rr-pw-compare__pro { text-align: center; color: var(--zovo-text); font-weight: var(--zovo-fw-medium); }
+
+.rr-pw-price { margin: var(--zovo-space-2) 0 0; font-weight: var(--zovo-fw-heading); color: var(--zovo-text); font-size: var(--zovo-fs-body); }
+.rr-pw-forever { margin: 0; font-size: var(--zovo-fs-caption); }
+.rr-pw-cta { margin-top: var(--zovo-space-1); font-weight: var(--zovo-fw-heading); }
+.rr-pw-guarantee { margin: var(--zovo-space-1) 0 0; font-size: 11px; }
+.rr-pw-later {
+  margin-top: 2px; border: none; background: none; cursor: pointer;
+  color: var(--zovo-text-secondary); font-family: inherit; font-size: var(--zovo-fs-caption);
+  text-decoration: underline;
+}
+.rr-pw-later:hover { color: var(--zovo-text); }
+@keyframes rr-fade { from { opacity: 0; } to { opacity: 1; } }
+
+@media (prefers-reduced-motion: reduce) {
+  .rr-dot--live { animation: none; }
+  .rr-paywall { animation: none; }
+}

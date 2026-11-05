@@ -1,0 +1,343 @@
+{
+  "extName": {
+    "message": "Restock Radar. Opozorila o vrnitvi zaloge",
+    "description": "Extension name, <=75 chars"
+  },
+  "extDesc": {
+    "message": "Spremljajte katero koli stran izdelka in prejmite namizno opozorilo takoj, ko je spet na zalogi. Brez računa, brez sledenja.",
+    "description": "Extension description, <=132 chars"
+  },
+  "brandName": {
+    "message": "Restock Radar"
+  },
+  "watchThisPage": {
+    "message": "Spremljaj to stran"
+  },
+  "watchAdding": {
+    "message": "Dodajanje…"
+  },
+  "watchingHere": {
+    "message": "Spremljam to stran"
+  },
+  "popupTagline": {
+    "message": "Prejmite namizno obvestilo v trenutku, ko je spet na voljo za nakup."
+  },
+  "notProduct": {
+    "message": "To ni videti kot stran izdelka, a jo lahko vseeno spremljate."
+  },
+  "watching": {
+    "message": "Spremljam"
+  },
+  "checkingNow": {
+    "message": "preverjam zdaj"
+  },
+  "cadenceFree": {
+    "message": "vsakih 15 min"
+  },
+  "cadencePro": {
+    "message": "vsakih 60 s"
+  },
+  "cadenceChipLabel": {
+    "message": "Preverjanja"
+  },
+  "statusOut": {
+    "message": "ni na zalogi · spremljam"
+  },
+  "statusIn": {
+    "message": "že na zalogi"
+  },
+  "statusTriggered": {
+    "message": "spet na zalogi, začasno ustavljeno"
+  },
+  "statusPaused": {
+    "message": "začasno ustavljeno"
+  },
+  "statusError": {
+    "message": "ni dosegljivo, poskušam znova"
+  },
+  "watchesHere": {
+    "message": "Spremljanja na tem spletnem mestu"
+  },
+  "noWatchesHere": {
+    "message": "Na tem spletnem mestu še ni spremljanj."
+  },
+  "manageAll": {
+    "message": "Upravljaj vsa spremljanja"
+  },
+  "pickSoldOut": {
+    "message": "Izberite gumb Razprodano"
+  },
+  "permNeeded": {
+    "message": "Za spremljanje tega spletnega mesta potrebujem dostop do njega."
+  },
+  "tryAgain": {
+    "message": "Poskusi znova"
+  },
+  "capTitle": {
+    "message": "Spremljam 3 od 3"
+  },
+  "capBody": {
+    "message": "Pro spremlja neomejeno izdelkov, preverja vsakih 60 s in dodaja zvočne pakete."
+  },
+  "watchesNoun": {
+    "message": "spremljanja"
+  },
+  "upgrade": {
+    "message": "Nadgradi"
+  },
+  "maybeLater": {
+    "message": "Mogoče pozneje"
+  },
+  "proLock": {
+    "message": "Pro"
+  },
+  "pwHeadline": {
+    "message": "Nikoli ne zamudite naslednje obnovitve zaloge"
+  },
+  "pwForever": {
+    "message": "Eno plačilo za vedno odklene Restock Radar Pro."
+  },
+  "proUnlock1": {
+    "message": "Spremljajte neomejeno izdelkov, ne le 3"
+  },
+  "proUnlock2": {
+    "message": "Preverjanja vsakih 60 sekund, 15-krat hitreje kot brezplačno"
+  },
+  "proUnlock3": {
+    "message": "Nadzor hitrosti za posamezno spremljanje"
+  },
+  "proUnlock4": {
+    "message": "Zvočni paketi in zgodovina za posamezno spremljanje"
+  },
+  "pwCompareHead": {
+    "message": "Brezplačno v primerjavi s Pro"
+  },
+  "pwRowWatches": {
+    "message": "Aktivna spremljanja"
+  },
+  "pwRowCadence": {
+    "message": "Hitrost preverjanja"
+  },
+  "pwRowSound": {
+    "message": "Zvoki opozoril"
+  },
+  "pwFreeWatches": {
+    "message": "3"
+  },
+  "pwProWatches": {
+    "message": "Neomejeno"
+  },
+  "pwFreeCadence": {
+    "message": "15 min"
+  },
+  "pwProCadence": {
+    "message": "60 s"
+  },
+  "pwFreeSound": {
+    "message": "1 zvonjenje"
+  },
+  "pwProSound": {
+    "message": "Zvočni paketi"
+  },
+  "priceLine": {
+    "message": "$$99 doživljenjsko · eno plačilo, ne naročnina"
+  },
+  "guaranteeLine": {
+    "message": "30-dnevno jamstvo za vračilo denarja. Brez računa, brez sledenja."
+  },
+  "startTrialNoCard": {
+    "message": "Začnite 7-dnevni brezplačni preizkus, brez kartice"
+  },
+  "getProCta": {
+    "message": "Pridobi Pro. $$99 doživljenjsko"
+  },
+  "dashboardTitle": {
+    "message": "Vaša spremljanja"
+  },
+  "optionsSubtitle": {
+    "message": "Vse, kar Restock Radar spremlja."
+  },
+  "navWatches": {
+    "message": "Spremljanja"
+  },
+  "navSettings": {
+    "message": "Nastavitve"
+  },
+  "navLicense": {
+    "message": "Licenca"
+  },
+  "emptyTitle": {
+    "message": "Še ni spremljanj"
+  },
+  "emptyText": {
+    "message": "Odprite stran izdelka, kliknite ikono Restock Radar in nato pritisnite Spremljaj to stran."
+  },
+  "settingsSound": {
+    "message": "Zvok opozorila"
+  },
+  "settingsSoundHint": {
+    "message": "Predvajaj zvonjenje, ko je spremljani izdelek spet na zalogi."
+  },
+  "settingsPack": {
+    "message": "Zvočni paket"
+  },
+  "settingsPackHint": {
+    "message": "Izberite zvok opozorila. Več paketov odklenete s Pro."
+  },
+  "packDefault": {
+    "message": "Privzeto zvonjenje"
+  },
+  "licenseTab": {
+    "message": "Licenca"
+  },
+  "licenseHeading": {
+    "message": "Vaš paket"
+  },
+  "licenseKeyLabel": {
+    "message": "Licenčni ključ"
+  },
+  "licenseKeyPh": {
+    "message": "ZOVO-XXXX-XXXX-XXXX"
+  },
+  "verify": {
+    "message": "Preveri"
+  },
+  "verifying": {
+    "message": "Preverjam…"
+  },
+  "verifyOk": {
+    "message": "Pro odklenjen. Hvala, ker podpirate Zovo."
+  },
+  "verifyBad": {
+    "message": "Ta ključ ni bil veljaven. Preverite ga in poskusite znova."
+  },
+  "tierFree": {
+    "message": "Brezplačni paket"
+  },
+  "tierTrial": {
+    "message": "Preizkus Pro"
+  },
+  "tierPro": {
+    "message": "Pro"
+  },
+  "trialLeft": {
+    "message": "Do konca preizkusa je še $DAYS$ dni",
+    "placeholders": {
+      "days": {
+        "content": "$1",
+        "example": "6"
+      }
+    }
+  },
+  "startTrialCta": {
+    "message": "Začni 7-dnevni preizkus Pro"
+  },
+  "proPitch": {
+    "message": "Neomejeno spremljanj, preverjanja vsakih 60 sekund, hitrost za posamezno spremljanje in zvočni paketi."
+  },
+  "getPro": {
+    "message": "Pridobi Pro. $$99 enkratno"
+  },
+  "restoreHint": {
+    "message": "Ste že kupili Pro? Prilepite svoj ključ zgoraj in preverite."
+  },
+  "pauseAction": {
+    "message": "Začasno ustavi"
+  },
+  "resumeAction": {
+    "message": "Nadaljuj"
+  },
+  "deleteAction": {
+    "message": "Izbriši"
+  },
+  "openAction": {
+    "message": "Odpri"
+  },
+  "cadenceColLabel": {
+    "message": "Preverjanja"
+  },
+  "perWatchCadenceHint": {
+    "message": "Hitrost za posamezno spremljanje je funkcija Pro."
+  },
+  "lastChecked": {
+    "message": "preverjeno $WHEN$",
+    "placeholders": {
+      "when": {
+        "content": "$1",
+        "example": "2 min ago"
+      }
+    }
+  },
+  "relNever": {
+    "message": "še ne"
+  },
+  "notifTitle": {
+    "message": "Spet na zalogi: $TITLE$",
+    "placeholders": {
+      "title": {
+        "content": "$1",
+        "example": "GPU model"
+      }
+    }
+  },
+  "onbEyebrow": {
+    "message": "Restock Radar"
+  },
+  "onbTitle": {
+    "message": "Spremljate izdelek? Obvestim vas v trenutku, ko je spet na voljo."
+  },
+  "onbTrust": {
+    "message": "Brezplačno. Brez računa. Brez sledenja."
+  },
+  "onbStep1t": {
+    "message": "Odprite stran izdelka"
+  },
+  "onbStep1b": {
+    "message": "Katera koli trgovina, kateri koli izdelek, ki je trenutno razprodan."
+  },
+  "onbStep2t": {
+    "message": "Kliknite Spremljaj to stran"
+  },
+  "onbStep2b": {
+    "message": "En klik v orodni vrstici. Brez registracije, brez zaslona za nastavitve."
+  },
+  "onbStep3t": {
+    "message": "Prejmite obvestilo v trenutku, ko je spet na voljo"
+  },
+  "onbStep3b": {
+    "message": "Namizno opozorilo in zvonjenje, tudi ko je zavihek zaprt."
+  },
+  "onbCta": {
+    "message": "Spremljajte svoj prvi izdelek"
+  },
+  "onbProLine": {
+    "message": "Brezplačno za do 3 spremljanja. Pro odklene neomejeno spremljanj, preverjanja vsakih 60 sekund in zvočne pakete."
+  },
+  "onbGoPro": {
+    "message": "Oglejte si Pro"
+  },
+  "onbFooter": {
+    "message": "Izdelal Zovo · zovo.one"
+  },
+  "sbEyebrow": {
+    "message": "Pro"
+  },
+  "sbHeadline": {
+    "message": "Odklenite Pro. Plačajte enkrat, vaše za vedno."
+  },
+  "sbCtaSub": {
+    "message": "Eno plačilo, ne naročnina · 30-dnevno jamstvo za vračilo denarja"
+  },
+  "sbMore": {
+    "message": "Več orodij"
+  },
+  "sbMoreLink": {
+    "message": "Prebrskajte vsa orodja na zovo.one"
+  },
+  "sbHelp": {
+    "message": "Pomoč"
+  },
+  "sbPrivacy": {
+    "message": "Zasebnost"
+  }
+}

@@ -1,0 +1,343 @@
+{
+  "extName": {
+    "message": "Restock Radar. Varsler når varen er på lager",
+    "description": "Extension name, <=75 chars"
+  },
+  "extDesc": {
+    "message": "Overvåk enhver produktside og få et skrivebordsvarsel i det varen er på lager igjen. Ingen konto, ingen sporing.",
+    "description": "Extension description, <=132 chars"
+  },
+  "brandName": {
+    "message": "Restock Radar"
+  },
+  "watchThisPage": {
+    "message": "Overvåk denne siden"
+  },
+  "watchAdding": {
+    "message": "Legger til…"
+  },
+  "watchingHere": {
+    "message": "Overvåker denne siden"
+  },
+  "popupTagline": {
+    "message": "Få et skrivebordsvarsel i det varen kan kjøpes igjen."
+  },
+  "notProduct": {
+    "message": "Dette ser ikke ut som en produktside, men du kan likevel overvåke den."
+  },
+  "watching": {
+    "message": "Overvåker"
+  },
+  "checkingNow": {
+    "message": "sjekker nå"
+  },
+  "cadenceFree": {
+    "message": "hvert 15. minutt"
+  },
+  "cadencePro": {
+    "message": "hvert 60. sek"
+  },
+  "cadenceChipLabel": {
+    "message": "Sjekker"
+  },
+  "statusOut": {
+    "message": "utsolgt · overvåker"
+  },
+  "statusIn": {
+    "message": "allerede på lager"
+  },
+  "statusTriggered": {
+    "message": "på lager igjen, satt på pause"
+  },
+  "statusPaused": {
+    "message": "på pause"
+  },
+  "statusError": {
+    "message": "får ikke kontakt, prøver igjen"
+  },
+  "watchesHere": {
+    "message": "Overvåker på dette nettstedet"
+  },
+  "noWatchesHere": {
+    "message": "Ingen overvåkinger på dette nettstedet ennå."
+  },
+  "manageAll": {
+    "message": "Administrer alle overvåkinger"
+  },
+  "pickSoldOut": {
+    "message": "Velg Utsolgt-knappen"
+  },
+  "permNeeded": {
+    "message": "Jeg trenger tilgang til dette nettstedet for å overvåke det."
+  },
+  "tryAgain": {
+    "message": "Prøv igjen"
+  },
+  "capTitle": {
+    "message": "Overvåker 3 av 3"
+  },
+  "capBody": {
+    "message": "Pro overvåker ubegrenset antall produkter, sjekker hvert 60. sekund og legger til lydpakker."
+  },
+  "watchesNoun": {
+    "message": "overvåkinger"
+  },
+  "upgrade": {
+    "message": "Oppgrader"
+  },
+  "maybeLater": {
+    "message": "Kanskje senere"
+  },
+  "proLock": {
+    "message": "Pro"
+  },
+  "pwHeadline": {
+    "message": "Aldri gå glipp av neste påfyll"
+  },
+  "pwForever": {
+    "message": "Én betaling låser opp Restock Radar Pro for alltid."
+  },
+  "proUnlock1": {
+    "message": "Overvåk ubegrenset antall produkter, ikke bare 3"
+  },
+  "proUnlock2": {
+    "message": "Sjekker hvert 60. sekund, 15 ganger raskere enn gratis"
+  },
+  "proUnlock3": {
+    "message": "Hastighetskontroll per overvåking"
+  },
+  "proUnlock4": {
+    "message": "Lydpakker og historikk per overvåking"
+  },
+  "pwCompareHead": {
+    "message": "Gratis mot Pro"
+  },
+  "pwRowWatches": {
+    "message": "Aktive overvåkinger"
+  },
+  "pwRowCadence": {
+    "message": "Sjekkehastighet"
+  },
+  "pwRowSound": {
+    "message": "Varsellyder"
+  },
+  "pwFreeWatches": {
+    "message": "3"
+  },
+  "pwProWatches": {
+    "message": "Ubegrenset"
+  },
+  "pwFreeCadence": {
+    "message": "15 min"
+  },
+  "pwProCadence": {
+    "message": "60 sek"
+  },
+  "pwFreeSound": {
+    "message": "1 klang"
+  },
+  "pwProSound": {
+    "message": "Lydpakker"
+  },
+  "priceLine": {
+    "message": "$$99 for alltid · én betaling, ikke et abonnement"
+  },
+  "guaranteeLine": {
+    "message": "30 dagers pengene-tilbake-garanti. Ingen konto, null sporing."
+  },
+  "startTrialNoCard": {
+    "message": "Start 7-dagers gratis prøveperiode, uten kort"
+  },
+  "getProCta": {
+    "message": "Få Pro. $$99 for alltid"
+  },
+  "dashboardTitle": {
+    "message": "Dine overvåkinger"
+  },
+  "optionsSubtitle": {
+    "message": "Alt Restock Radar holder øye med."
+  },
+  "navWatches": {
+    "message": "Overvåkinger"
+  },
+  "navSettings": {
+    "message": "Innstillinger"
+  },
+  "navLicense": {
+    "message": "Lisens"
+  },
+  "emptyTitle": {
+    "message": "Ingen overvåkinger ennå"
+  },
+  "emptyText": {
+    "message": "Åpne en produktside, klikk på Restock Radar-ikonet, og trykk deretter Overvåk denne siden."
+  },
+  "settingsSound": {
+    "message": "Varsellyd"
+  },
+  "settingsSoundHint": {
+    "message": "Spill av en lyd når et overvåket produkt er på lager igjen."
+  },
+  "settingsPack": {
+    "message": "Lydpakke"
+  },
+  "settingsPackHint": {
+    "message": "Velg varsellyden. Flere pakker låses opp med Pro."
+  },
+  "packDefault": {
+    "message": "Standardlyd"
+  },
+  "licenseTab": {
+    "message": "Lisens"
+  },
+  "licenseHeading": {
+    "message": "Din plan"
+  },
+  "licenseKeyLabel": {
+    "message": "Lisensnøkkel"
+  },
+  "licenseKeyPh": {
+    "message": "ZOVO-XXXX-XXXX-XXXX"
+  },
+  "verify": {
+    "message": "Bekreft"
+  },
+  "verifying": {
+    "message": "Bekrefter…"
+  },
+  "verifyOk": {
+    "message": "Pro er låst opp. Takk for at du støtter Zovo."
+  },
+  "verifyBad": {
+    "message": "Den nøkkelen ble ikke godkjent. Sjekk den og prøv igjen."
+  },
+  "tierFree": {
+    "message": "Gratisplan"
+  },
+  "tierTrial": {
+    "message": "Pro-prøveperiode"
+  },
+  "tierPro": {
+    "message": "Pro"
+  },
+  "trialLeft": {
+    "message": "$DAYS$ dager igjen av prøveperioden",
+    "placeholders": {
+      "days": {
+        "content": "$1",
+        "example": "6"
+      }
+    }
+  },
+  "startTrialCta": {
+    "message": "Start 7-dagers Pro-prøveperiode"
+  },
+  "proPitch": {
+    "message": "Ubegrensede overvåkinger, sjekker hvert 60. sekund, hastighet per overvåking og lydpakker."
+  },
+  "getPro": {
+    "message": "Få Pro. $$99 engangsbetaling"
+  },
+  "restoreHint": {
+    "message": "Har du allerede kjøpt Pro? Lim inn nøkkelen ovenfor og bekreft."
+  },
+  "pauseAction": {
+    "message": "Pause"
+  },
+  "resumeAction": {
+    "message": "Gjenoppta"
+  },
+  "deleteAction": {
+    "message": "Slett"
+  },
+  "openAction": {
+    "message": "Åpne"
+  },
+  "cadenceColLabel": {
+    "message": "Sjekker"
+  },
+  "perWatchCadenceHint": {
+    "message": "Hastighet per overvåking er en Pro-funksjon."
+  },
+  "lastChecked": {
+    "message": "sjekket $WHEN$",
+    "placeholders": {
+      "when": {
+        "content": "$1",
+        "example": "2 min ago"
+      }
+    }
+  },
+  "relNever": {
+    "message": "ikke ennå"
+  },
+  "notifTitle": {
+    "message": "På lager igjen: $TITLE$",
+    "placeholders": {
+      "title": {
+        "content": "$1",
+        "example": "GPU model"
+      }
+    }
+  },
+  "onbEyebrow": {
+    "message": "Restock Radar"
+  },
+  "onbTitle": {
+    "message": "Overvåker du et produkt? Jeg varsler deg i det øyeblikket det er på lager igjen."
+  },
+  "onbTrust": {
+    "message": "Gratis. Ingen konto. Ingen sporing."
+  },
+  "onbStep1t": {
+    "message": "Åpne produktsiden"
+  },
+  "onbStep1b": {
+    "message": "Enhver butikk, enhver vare som er utsolgt akkurat nå."
+  },
+  "onbStep2t": {
+    "message": "Klikk Overvåk denne siden"
+  },
+  "onbStep2b": {
+    "message": "Ett trykk fra verktøylinjen. Ingen registrering, ingen oppsettskjerm."
+  },
+  "onbStep3t": {
+    "message": "Bli varslet i det øyeblikket den er på lager igjen"
+  },
+  "onbStep3b": {
+    "message": "Et skrivebordsvarsel og en lyd, selv når fanen er lukket."
+  },
+  "onbCta": {
+    "message": "Overvåk ditt første produkt"
+  },
+  "onbProLine": {
+    "message": "Gratis for opptil 3 overvåkinger. Pro låser opp ubegrensede overvåkinger, sjekker hvert 60. sekund og lydpakker."
+  },
+  "onbGoPro": {
+    "message": "Se Pro"
+  },
+  "onbFooter": {
+    "message": "Laget av Zovo · zovo.one"
+  },
+  "sbEyebrow": {
+    "message": "Pro"
+  },
+  "sbHeadline": {
+    "message": "Lås opp Pro. Betal én gang, din for alltid."
+  },
+  "sbCtaSub": {
+    "message": "Én betaling, ikke et abonnement · 30 dagers pengene-tilbake-garanti"
+  },
+  "sbMore": {
+    "message": "Flere verktøy"
+  },
+  "sbMoreLink": {
+    "message": "Bla gjennom alle verktøy på zovo.one"
+  },
+  "sbHelp": {
+    "message": "Hjelp"
+  },
+  "sbPrivacy": {
+    "message": "Personvern"
+  }
+}

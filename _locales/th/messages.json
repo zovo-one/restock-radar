@@ -1,0 +1,343 @@
+{
+  "extName": {
+    "message": "Restock Radar. แจ้งเตือนเมื่อสินค้ากลับมามีสต็อก",
+    "description": "Extension name, <=75 chars"
+  },
+  "extDesc": {
+    "message": "เฝ้าดูหน้าสินค้าใดก็ได้ และรับการแจ้งเตือนบนเดสก์ท็อปทันทีที่กลับมามีสต็อก ไม่ต้องมีบัญชี ไม่มีการติดตาม",
+    "description": "Extension description, <=132 chars"
+  },
+  "brandName": {
+    "message": "Restock Radar"
+  },
+  "watchThisPage": {
+    "message": "เฝ้าดูหน้านี้"
+  },
+  "watchAdding": {
+    "message": "กำลังเพิ่ม…"
+  },
+  "watchingHere": {
+    "message": "กำลังเฝ้าดูหน้านี้"
+  },
+  "popupTagline": {
+    "message": "รับการแจ้งเตือนบนเดสก์ท็อปทันทีที่ซื้อได้อีกครั้ง"
+  },
+  "notProduct": {
+    "message": "หน้านี้ดูไม่เหมือนหน้าสินค้า แต่คุณยังเฝ้าดูได้"
+  },
+  "watching": {
+    "message": "กำลังเฝ้าดู"
+  },
+  "checkingNow": {
+    "message": "กำลังตรวจสอบ"
+  },
+  "cadenceFree": {
+    "message": "ทุก 15 นาที"
+  },
+  "cadencePro": {
+    "message": "ทุก 60 วินาที"
+  },
+  "cadenceChipLabel": {
+    "message": "การตรวจสอบ"
+  },
+  "statusOut": {
+    "message": "สินค้าหมด · กำลังเฝ้าดู"
+  },
+  "statusIn": {
+    "message": "มีสต็อกอยู่แล้ว"
+  },
+  "statusTriggered": {
+    "message": "กลับมามีสต็อก หยุดชั่วคราว"
+  },
+  "statusPaused": {
+    "message": "หยุดชั่วคราว"
+  },
+  "statusError": {
+    "message": "เข้าถึงไม่ได้ กำลังลองใหม่"
+  },
+  "watchesHere": {
+    "message": "กำลังเฝ้าดูบนเว็บไซต์นี้"
+  },
+  "noWatchesHere": {
+    "message": "ยังไม่มีการเฝ้าดูบนเว็บไซต์นี้"
+  },
+  "manageAll": {
+    "message": "จัดการการเฝ้าดูทั้งหมด"
+  },
+  "pickSoldOut": {
+    "message": "เลือกปุ่มสินค้าหมด"
+  },
+  "permNeeded": {
+    "message": "ฉันต้องการสิทธิ์เข้าถึงเว็บไซต์นี้เพื่อเฝ้าดู"
+  },
+  "tryAgain": {
+    "message": "ลองอีกครั้ง"
+  },
+  "capTitle": {
+    "message": "กำลังเฝ้าดู 3 จาก 3"
+  },
+  "capBody": {
+    "message": "Pro เฝ้าดูสินค้าได้ไม่จำกัด ตรวจสอบทุก 60 วินาที และเพิ่มชุดเสียง"
+  },
+  "watchesNoun": {
+    "message": "การเฝ้าดู"
+  },
+  "upgrade": {
+    "message": "อัปเกรด"
+  },
+  "maybeLater": {
+    "message": "ไว้ทีหลัง"
+  },
+  "proLock": {
+    "message": "Pro"
+  },
+  "pwHeadline": {
+    "message": "ไม่พลาดการเติมสต็อกครั้งต่อไป"
+  },
+  "pwForever": {
+    "message": "จ่ายครั้งเดียว ปลดล็อก Restock Radar Pro ตลอดไป"
+  },
+  "proUnlock1": {
+    "message": "เฝ้าดูสินค้าได้ไม่จำกัด ไม่ใช่แค่ 3 รายการ"
+  },
+  "proUnlock2": {
+    "message": "ตรวจสอบทุก 60 วินาที เร็วกว่าฟรี 15 เท่า"
+  },
+  "proUnlock3": {
+    "message": "ควบคุมความเร็วรายการเฝ้าดูแต่ละรายการ"
+  },
+  "proUnlock4": {
+    "message": "ชุดเสียงและประวัติของแต่ละการเฝ้าดู"
+  },
+  "pwCompareHead": {
+    "message": "ฟรี vs Pro"
+  },
+  "pwRowWatches": {
+    "message": "การเฝ้าดูที่ใช้งานอยู่"
+  },
+  "pwRowCadence": {
+    "message": "ความเร็วการตรวจสอบ"
+  },
+  "pwRowSound": {
+    "message": "เสียงแจ้งเตือน"
+  },
+  "pwFreeWatches": {
+    "message": "3"
+  },
+  "pwProWatches": {
+    "message": "ไม่จำกัด"
+  },
+  "pwFreeCadence": {
+    "message": "15 นาที"
+  },
+  "pwProCadence": {
+    "message": "60 วินาที"
+  },
+  "pwFreeSound": {
+    "message": "เสียงกริ่ง 1 เสียง"
+  },
+  "pwProSound": {
+    "message": "ชุดเสียง"
+  },
+  "priceLine": {
+    "message": "$$99 ตลอดชีพ · จ่ายครั้งเดียว ไม่ใช่การสมัครสมาชิก"
+  },
+  "guaranteeLine": {
+    "message": "รับประกันคืนเงินภายใน 30 วัน ไม่ต้องมีบัญชี ไม่มีการติดตาม"
+  },
+  "startTrialNoCard": {
+    "message": "เริ่มทดลองใช้ฟรี 7 วัน ไม่ต้องใช้บัตร"
+  },
+  "getProCta": {
+    "message": "รับ Pro $$99 ตลอดชีพ"
+  },
+  "dashboardTitle": {
+    "message": "การเฝ้าดูของคุณ"
+  },
+  "optionsSubtitle": {
+    "message": "ทุกอย่างที่ Restock Radar กำลังจับตาดูอยู่"
+  },
+  "navWatches": {
+    "message": "การเฝ้าดู"
+  },
+  "navSettings": {
+    "message": "การตั้งค่า"
+  },
+  "navLicense": {
+    "message": "ใบอนุญาต"
+  },
+  "emptyTitle": {
+    "message": "ยังไม่มีการเฝ้าดู"
+  },
+  "emptyText": {
+    "message": "เปิดหน้าสินค้า คลิกไอคอน Restock Radar แล้วกดเฝ้าดูหน้านี้"
+  },
+  "settingsSound": {
+    "message": "เสียงแจ้งเตือน"
+  },
+  "settingsSoundHint": {
+    "message": "เล่นเสียงกริ่งเมื่อสินค้าที่เฝ้าดูกลับมามีสต็อก"
+  },
+  "settingsPack": {
+    "message": "ชุดเสียง"
+  },
+  "settingsPackHint": {
+    "message": "เลือกเสียงแจ้งเตือน ปลดล็อกชุดเสียงเพิ่มเติมด้วย Pro"
+  },
+  "packDefault": {
+    "message": "เสียงกริ่งเริ่มต้น"
+  },
+  "licenseTab": {
+    "message": "ใบอนุญาต"
+  },
+  "licenseHeading": {
+    "message": "แผนของคุณ"
+  },
+  "licenseKeyLabel": {
+    "message": "คีย์ใบอนุญาต"
+  },
+  "licenseKeyPh": {
+    "message": "ZOVO-XXXX-XXXX-XXXX"
+  },
+  "verify": {
+    "message": "ยืนยัน"
+  },
+  "verifying": {
+    "message": "กำลังยืนยัน…"
+  },
+  "verifyOk": {
+    "message": "ปลดล็อก Pro แล้ว ขอบคุณที่สนับสนุน Zovo"
+  },
+  "verifyBad": {
+    "message": "คีย์นี้ใช้ไม่ได้ ตรวจสอบแล้วลองอีกครั้ง"
+  },
+  "tierFree": {
+    "message": "แผนฟรี"
+  },
+  "tierTrial": {
+    "message": "ทดลองใช้ Pro"
+  },
+  "tierPro": {
+    "message": "Pro"
+  },
+  "trialLeft": {
+    "message": "เหลืออีก $DAYS$ วันในช่วงทดลองใช้",
+    "placeholders": {
+      "days": {
+        "content": "$1",
+        "example": "6"
+      }
+    }
+  },
+  "startTrialCta": {
+    "message": "เริ่มทดลองใช้ Pro 7 วัน"
+  },
+  "proPitch": {
+    "message": "เฝ้าดูได้ไม่จำกัด ตรวจสอบทุก 60 วินาที ควบคุมความเร็วแต่ละรายการ และชุดเสียง"
+  },
+  "getPro": {
+    "message": "รับ Pro $$99 ครั้งเดียว"
+  },
+  "restoreHint": {
+    "message": "ซื้อ Pro แล้ว? วางคีย์ของคุณด้านบนแล้วยืนยัน"
+  },
+  "pauseAction": {
+    "message": "หยุดชั่วคราว"
+  },
+  "resumeAction": {
+    "message": "ดำเนินการต่อ"
+  },
+  "deleteAction": {
+    "message": "ลบ"
+  },
+  "openAction": {
+    "message": "เปิด"
+  },
+  "cadenceColLabel": {
+    "message": "การตรวจสอบ"
+  },
+  "perWatchCadenceHint": {
+    "message": "การควบคุมความเร็วแต่ละรายการเป็นฟีเจอร์ของ Pro"
+  },
+  "lastChecked": {
+    "message": "ตรวจสอบ $WHEN$",
+    "placeholders": {
+      "when": {
+        "content": "$1",
+        "example": "2 min ago"
+      }
+    }
+  },
+  "relNever": {
+    "message": "ยังไม่ได้"
+  },
+  "notifTitle": {
+    "message": "กลับมามีสต็อก: $TITLE$",
+    "placeholders": {
+      "title": {
+        "content": "$1",
+        "example": "GPU model"
+      }
+    }
+  },
+  "onbEyebrow": {
+    "message": "Restock Radar"
+  },
+  "onbTitle": {
+    "message": "กำลังเฝ้าดูสินค้าอยู่? ฉันจะแจ้งเตือนคุณทันทีที่กลับมามีสต็อก"
+  },
+  "onbTrust": {
+    "message": "ฟรี ไม่ต้องมีบัญชี ไม่มีการติดตาม"
+  },
+  "onbStep1t": {
+    "message": "เปิดหน้าสินค้า"
+  },
+  "onbStep1b": {
+    "message": "ร้านค้าใดก็ได้ สินค้าใดก็ได้ที่หมดสต็อกอยู่ตอนนี้"
+  },
+  "onbStep2t": {
+    "message": "คลิกเฝ้าดูหน้านี้"
+  },
+  "onbStep2b": {
+    "message": "แตะเดียวจากแถบเครื่องมือ ไม่ต้องสมัคร ไม่มีหน้าจอตั้งค่า"
+  },
+  "onbStep3t": {
+    "message": "รับการแจ้งเตือนทันทีที่กลับมามีสต็อก"
+  },
+  "onbStep3b": {
+    "message": "การแจ้งเตือนบนเดสก์ท็อปและเสียงกริ่ง แม้ปิดแท็บแล้ว"
+  },
+  "onbCta": {
+    "message": "เฝ้าดูสินค้าชิ้นแรกของคุณ"
+  },
+  "onbProLine": {
+    "message": "ฟรีสูงสุด 3 การเฝ้าดู Pro ปลดล็อกการเฝ้าดูไม่จำกัด ตรวจสอบทุก 60 วินาที และชุดเสียง"
+  },
+  "onbGoPro": {
+    "message": "ดู Pro"
+  },
+  "onbFooter": {
+    "message": "สร้างโดย Zovo · zovo.one"
+  },
+  "sbEyebrow": {
+    "message": "Pro"
+  },
+  "sbHeadline": {
+    "message": "ปลดล็อก Pro จ่ายครั้งเดียว เป็นของคุณตลอดไป"
+  },
+  "sbCtaSub": {
+    "message": "จ่ายครั้งเดียว ไม่ใช่การสมัครสมาชิก · รับประกันคืนเงินภายใน 30 วัน"
+  },
+  "sbMore": {
+    "message": "เครื่องมือเพิ่มเติม"
+  },
+  "sbMoreLink": {
+    "message": "เรียกดูเครื่องมือทั้งหมดที่ zovo.one"
+  },
+  "sbHelp": {
+    "message": "ช่วยเหลือ"
+  },
+  "sbPrivacy": {
+    "message": "ความเป็นส่วนตัว"
+  }
+}

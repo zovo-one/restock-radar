@@ -1,0 +1,343 @@
+{
+  "extName": {
+    "message": "Restock Radar. Cảnh báo có hàng trở lại",
+    "description": "Extension name, <=75 chars"
+  },
+  "extDesc": {
+    "message": "Theo dõi mọi trang sản phẩm và nhận cảnh báo trên máy ngay khi có hàng trở lại. Không tài khoản, không theo dõi.",
+    "description": "Extension description, <=132 chars"
+  },
+  "brandName": {
+    "message": "Restock Radar"
+  },
+  "watchThisPage": {
+    "message": "Theo dõi trang này"
+  },
+  "watchAdding": {
+    "message": "Đang thêm…"
+  },
+  "watchingHere": {
+    "message": "Đang theo dõi trang này"
+  },
+  "popupTagline": {
+    "message": "Nhận thông báo trên máy ngay khi có thể mua lại."
+  },
+  "notProduct": {
+    "message": "Đây có vẻ không phải trang sản phẩm, nhưng bạn vẫn có thể theo dõi."
+  },
+  "watching": {
+    "message": "Đang theo dõi"
+  },
+  "checkingNow": {
+    "message": "đang kiểm tra"
+  },
+  "cadenceFree": {
+    "message": "mỗi 15 phút"
+  },
+  "cadencePro": {
+    "message": "mỗi 60 giây"
+  },
+  "cadenceChipLabel": {
+    "message": "Kiểm tra"
+  },
+  "statusOut": {
+    "message": "hết hàng · đang theo dõi"
+  },
+  "statusIn": {
+    "message": "đã có hàng"
+  },
+  "statusTriggered": {
+    "message": "đã có hàng, tạm dừng"
+  },
+  "statusPaused": {
+    "message": "đã tạm dừng"
+  },
+  "statusError": {
+    "message": "không kết nối được, đang thử lại"
+  },
+  "watchesHere": {
+    "message": "Đang theo dõi trên trang này"
+  },
+  "noWatchesHere": {
+    "message": "Chưa theo dõi gì trên trang này."
+  },
+  "manageAll": {
+    "message": "Quản lý tất cả mục theo dõi"
+  },
+  "pickSoldOut": {
+    "message": "Chọn nút Hết hàng"
+  },
+  "permNeeded": {
+    "message": "Tôi cần quyền truy cập trang này để theo dõi."
+  },
+  "tryAgain": {
+    "message": "Thử lại"
+  },
+  "capTitle": {
+    "message": "Đang theo dõi 3 trên 3"
+  },
+  "capBody": {
+    "message": "Pro theo dõi không giới hạn sản phẩm, kiểm tra mỗi 60 giây và thêm gói âm thanh."
+  },
+  "watchesNoun": {
+    "message": "mục theo dõi"
+  },
+  "upgrade": {
+    "message": "Nâng cấp"
+  },
+  "maybeLater": {
+    "message": "Để sau"
+  },
+  "proLock": {
+    "message": "Pro"
+  },
+  "pwHeadline": {
+    "message": "Không bao giờ bỏ lỡ lần có hàng tiếp theo"
+  },
+  "pwForever": {
+    "message": "Một lần thanh toán mở khóa Restock Radar Pro vĩnh viễn."
+  },
+  "proUnlock1": {
+    "message": "Theo dõi không giới hạn sản phẩm, không chỉ 3"
+  },
+  "proUnlock2": {
+    "message": "Kiểm tra mỗi 60 giây, nhanh gấp 15 lần bản miễn phí"
+  },
+  "proUnlock3": {
+    "message": "Điều chỉnh tốc độ cho từng mục theo dõi"
+  },
+  "proUnlock4": {
+    "message": "Gói âm thanh và lịch sử cho từng mục theo dõi"
+  },
+  "pwCompareHead": {
+    "message": "Miễn phí so với Pro"
+  },
+  "pwRowWatches": {
+    "message": "Mục theo dõi đang hoạt động"
+  },
+  "pwRowCadence": {
+    "message": "Tốc độ kiểm tra"
+  },
+  "pwRowSound": {
+    "message": "Âm thanh cảnh báo"
+  },
+  "pwFreeWatches": {
+    "message": "3"
+  },
+  "pwProWatches": {
+    "message": "Không giới hạn"
+  },
+  "pwFreeCadence": {
+    "message": "15 phút"
+  },
+  "pwProCadence": {
+    "message": "60 giây"
+  },
+  "pwFreeSound": {
+    "message": "1 chuông"
+  },
+  "pwProSound": {
+    "message": "Gói âm thanh"
+  },
+  "priceLine": {
+    "message": "$$99 trọn đời · một lần thanh toán, không phải đăng ký"
+  },
+  "guaranteeLine": {
+    "message": "Đảm bảo hoàn tiền trong 30 ngày. Không tài khoản, không theo dõi."
+  },
+  "startTrialNoCard": {
+    "message": "Bắt đầu dùng thử 7 ngày miễn phí, không cần thẻ"
+  },
+  "getProCta": {
+    "message": "Mua Pro. $$99 trọn đời"
+  },
+  "dashboardTitle": {
+    "message": "Mục theo dõi của bạn"
+  },
+  "optionsSubtitle": {
+    "message": "Mọi thứ Restock Radar đang để mắt tới."
+  },
+  "navWatches": {
+    "message": "Mục theo dõi"
+  },
+  "navSettings": {
+    "message": "Cài đặt"
+  },
+  "navLicense": {
+    "message": "Giấy phép"
+  },
+  "emptyTitle": {
+    "message": "Chưa có mục theo dõi nào"
+  },
+  "emptyText": {
+    "message": "Mở một trang sản phẩm, nhấn biểu tượng Restock Radar, rồi nhấn Theo dõi trang này."
+  },
+  "settingsSound": {
+    "message": "Âm thanh cảnh báo"
+  },
+  "settingsSoundHint": {
+    "message": "Phát chuông khi sản phẩm được theo dõi có hàng trở lại."
+  },
+  "settingsPack": {
+    "message": "Gói âm thanh"
+  },
+  "settingsPackHint": {
+    "message": "Chọn âm thanh cảnh báo. Mở khóa thêm nhiều gói với Pro."
+  },
+  "packDefault": {
+    "message": "Chuông mặc định"
+  },
+  "licenseTab": {
+    "message": "Giấy phép"
+  },
+  "licenseHeading": {
+    "message": "Gói của bạn"
+  },
+  "licenseKeyLabel": {
+    "message": "Mã giấy phép"
+  },
+  "licenseKeyPh": {
+    "message": "ZOVO-XXXX-XXXX-XXXX"
+  },
+  "verify": {
+    "message": "Xác minh"
+  },
+  "verifying": {
+    "message": "Đang xác minh…"
+  },
+  "verifyOk": {
+    "message": "Đã mở khóa Pro. Cảm ơn bạn đã ủng hộ Zovo."
+  },
+  "verifyBad": {
+    "message": "Mã đó không hợp lệ. Hãy kiểm tra lại và thử lần nữa."
+  },
+  "tierFree": {
+    "message": "Gói miễn phí"
+  },
+  "tierTrial": {
+    "message": "Dùng thử Pro"
+  },
+  "tierPro": {
+    "message": "Pro"
+  },
+  "trialLeft": {
+    "message": "Còn $DAYS$ ngày dùng thử",
+    "placeholders": {
+      "days": {
+        "content": "$1",
+        "example": "6"
+      }
+    }
+  },
+  "startTrialCta": {
+    "message": "Bắt đầu dùng thử Pro 7 ngày"
+  },
+  "proPitch": {
+    "message": "Theo dõi không giới hạn, kiểm tra mỗi 60 giây, tốc độ từng mục và gói âm thanh."
+  },
+  "getPro": {
+    "message": "Mua Pro. $$99 một lần"
+  },
+  "restoreHint": {
+    "message": "Đã mua Pro? Dán mã của bạn ở trên và xác minh."
+  },
+  "pauseAction": {
+    "message": "Tạm dừng"
+  },
+  "resumeAction": {
+    "message": "Tiếp tục"
+  },
+  "deleteAction": {
+    "message": "Xóa"
+  },
+  "openAction": {
+    "message": "Mở"
+  },
+  "cadenceColLabel": {
+    "message": "Kiểm tra"
+  },
+  "perWatchCadenceHint": {
+    "message": "Tốc độ cho từng mục theo dõi là tính năng Pro."
+  },
+  "lastChecked": {
+    "message": "đã kiểm tra $WHEN$",
+    "placeholders": {
+      "when": {
+        "content": "$1",
+        "example": "2 min ago"
+      }
+    }
+  },
+  "relNever": {
+    "message": "chưa có"
+  },
+  "notifTitle": {
+    "message": "Có hàng trở lại: $TITLE$",
+    "placeholders": {
+      "title": {
+        "content": "$1",
+        "example": "GPU model"
+      }
+    }
+  },
+  "onbEyebrow": {
+    "message": "Restock Radar"
+  },
+  "onbTitle": {
+    "message": "Đang theo dõi một sản phẩm? Tôi sẽ báo bạn ngay khi có hàng."
+  },
+  "onbTrust": {
+    "message": "Miễn phí. Không tài khoản. Không theo dõi."
+  },
+  "onbStep1t": {
+    "message": "Mở trang sản phẩm"
+  },
+  "onbStep1b": {
+    "message": "Bất kỳ cửa hàng nào, bất kỳ mặt hàng nào đang hết hàng."
+  },
+  "onbStep2t": {
+    "message": "Nhấn Theo dõi trang này"
+  },
+  "onbStep2b": {
+    "message": "Một chạm từ thanh công cụ. Không đăng ký, không màn hình cài đặt."
+  },
+  "onbStep3t": {
+    "message": "Được báo ngay khoảnh khắc có hàng trở lại"
+  },
+  "onbStep3b": {
+    "message": "Cảnh báo trên máy và tiếng chuông, ngay cả khi đã đóng tab."
+  },
+  "onbCta": {
+    "message": "Theo dõi sản phẩm đầu tiên"
+  },
+  "onbProLine": {
+    "message": "Miễn phí tối đa 3 mục theo dõi. Pro mở khóa theo dõi không giới hạn, kiểm tra mỗi 60 giây và gói âm thanh."
+  },
+  "onbGoPro": {
+    "message": "Xem Pro"
+  },
+  "onbFooter": {
+    "message": "Được tạo bởi Zovo · zovo.one"
+  },
+  "sbEyebrow": {
+    "message": "Pro"
+  },
+  "sbHeadline": {
+    "message": "Mở khóa Pro. Thanh toán một lần, sở hữu vĩnh viễn."
+  },
+  "sbCtaSub": {
+    "message": "Một lần thanh toán, không phải đăng ký · đảm bảo hoàn tiền trong 30 ngày"
+  },
+  "sbMore": {
+    "message": "Thêm công cụ"
+  },
+  "sbMoreLink": {
+    "message": "Xem tất cả công cụ tại zovo.one"
+  },
+  "sbHelp": {
+    "message": "Trợ giúp"
+  },
+  "sbPrivacy": {
+    "message": "Quyền riêng tư"
+  }
+}

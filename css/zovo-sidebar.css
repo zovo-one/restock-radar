@@ -1,0 +1,46 @@
+/* ============================================================================
+ * zovo-sidebar.css — the conversion rail in the options page (MONETIZE-STANDARD §5).
+ * Ported from engine/5-design-ux-ui-monetization/monetization/zovo-sidebar.css to the
+ * Restock Radar brand tokens (zovo-base.css). Sells ONLY this extension's Pro; NO
+ * sibling cross-sell, NO fabricated proof, NO review solicitation (CWS §A/§B).
+ * Light + dark come free from the tokens.
+ * ========================================================================== */
+.zovo-sidebar { display: flex; flex-direction: column; gap: var(--zovo-space-4); width: 280px; flex: none; }
+
+.zs-card {
+  background: var(--zovo-bg);
+  border: 1px solid var(--zovo-border);
+  border-radius: var(--zovo-radius-card);
+  padding: var(--zovo-space-4);
+}
+.zs-card--pro {
+  background: linear-gradient(160deg, var(--zovo-primary) 0%, var(--zovo-primary-dark) 100%);
+  border: none; color: #fff;
+  box-shadow: var(--zovo-shadow);
+}
+.zs-card--pro .zs-eyebrow { opacity: 0.9; }
+.zs-card--pro .zs-sub { color: rgba(255, 255, 255, 0.85); }
+
+.zs-eyebrow { font-size: 10.5px; text-transform: uppercase; letter-spacing: 0.09em; font-weight: 700; opacity: 0.8; margin-bottom: 6px; }
+.zs-h { font-size: var(--zovo-fs-subheading); font-weight: 700; letter-spacing: -0.01em; margin: 0 0 10px; line-height: 1.25; }
+.zs-stack { list-style: none; margin: 0 0 var(--zovo-space-3); padding: 0; display: flex; flex-direction: column; gap: 7px; font-size: var(--zovo-fs-caption); }
+.zs-stack li { padding-left: 20px; position: relative; }
+.zs-stack li::before { content: "\2713"; position: absolute; left: 0; font-weight: 800; }
+.zs-price { margin: var(--zovo-space-2) 0 0; font-weight: 700; font-size: var(--zovo-fs-body); }
+.zs-sub { font-size: 11.5px; margin: 8px 0 0; text-align: center; opacity: 0.9; }
+
+.zs-x {
+  display: flex; align-items: center; justify-content: space-between; gap: 8px;
+  padding: 9px 2px; border-bottom: 1px solid var(--zovo-border);
+  text-decoration: none; color: var(--zovo-text); font-size: var(--zovo-fs-caption);
+}
+.zs-x:last-of-type { border-bottom: none; }
+.zs-x:hover .zs-x__nm { color: var(--zovo-primary); }
+.zs-x__go { color: var(--zovo-text-secondary); }
+
+.zs-foot { display: flex; gap: var(--zovo-space-3); justify-content: center; font-size: 11.5px; }
+.zs-foot a { color: var(--zovo-text-secondary); text-decoration: none; }
+.zs-foot a:hover { color: var(--zovo-primary); }
+.zs-card--pro a:focus-visible, .zs-x:focus-visible, .zs-foot a:focus-visible {
+  outline: none; box-shadow: 0 0 0 3px var(--zovo-primary-50); border-radius: var(--zovo-radius-btn);
+}

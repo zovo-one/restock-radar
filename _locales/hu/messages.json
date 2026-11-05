@@ -1,0 +1,343 @@
+{
+  "extName": {
+    "message": "Restock Radar. Készleten értesítések",
+    "description": "Extension name, <=75 chars"
+  },
+  "extDesc": {
+    "message": "Figyeljen bármely termékoldalt, és kapjon asztali értesítést, amint újra készleten van. Fiók nélkül, követés nélkül.",
+    "description": "Extension description, <=132 chars"
+  },
+  "brandName": {
+    "message": "Restock Radar"
+  },
+  "watchThisPage": {
+    "message": "Oldal figyelése"
+  },
+  "watchAdding": {
+    "message": "Hozzáadás…"
+  },
+  "watchingHere": {
+    "message": "Ezt az oldalt figyeli"
+  },
+  "popupTagline": {
+    "message": "Kapjon asztali értesítést, amint újra megvásárolható."
+  },
+  "notProduct": {
+    "message": "Ez nem tűnik termékoldalnak, de akkor is figyelheti."
+  },
+  "watching": {
+    "message": "Figyelés"
+  },
+  "checkingNow": {
+    "message": "ellenőrzés most"
+  },
+  "cadenceFree": {
+    "message": "15 percenként"
+  },
+  "cadencePro": {
+    "message": "60 mp-enként"
+  },
+  "cadenceChipLabel": {
+    "message": "Ellenőrzések"
+  },
+  "statusOut": {
+    "message": "elfogyott · figyelés"
+  },
+  "statusIn": {
+    "message": "már készleten"
+  },
+  "statusTriggered": {
+    "message": "újra készleten, szüneteltetve"
+  },
+  "statusPaused": {
+    "message": "szüneteltetve"
+  },
+  "statusError": {
+    "message": "nem elérhető, újrapróbálkozás"
+  },
+  "watchesHere": {
+    "message": "Figyelés ezen az oldalon"
+  },
+  "noWatchesHere": {
+    "message": "Még nincs figyelés ezen az oldalon."
+  },
+  "manageAll": {
+    "message": "Összes figyelés kezelése"
+  },
+  "pickSoldOut": {
+    "message": "Válassza az Elfogyott gombot"
+  },
+  "permNeeded": {
+    "message": "Hozzáférés kell ehhez az oldalhoz a figyeléshez."
+  },
+  "tryAgain": {
+    "message": "Próbálja újra"
+  },
+  "capTitle": {
+    "message": "3 / 3 figyelése"
+  },
+  "capBody": {
+    "message": "A Pro korlátlan terméket figyel, 60 mp-enként ellenőriz, és hangcsomagokat ad hozzá."
+  },
+  "watchesNoun": {
+    "message": "figyelés"
+  },
+  "upgrade": {
+    "message": "Frissítés"
+  },
+  "maybeLater": {
+    "message": "Talán később"
+  },
+  "proLock": {
+    "message": "Pro"
+  },
+  "pwHeadline": {
+    "message": "Ne maradjon le a következő feltöltésről"
+  },
+  "pwForever": {
+    "message": "Egy fizetés örökre feloldja a Restock Radar Prót."
+  },
+  "proUnlock1": {
+    "message": "Korlátlan termék figyelése, nem csak 3"
+  },
+  "proUnlock2": {
+    "message": "60 másodperces ellenőrzések, 15x gyorsabb az ingyenesnél"
+  },
+  "proUnlock3": {
+    "message": "Figyelésenkénti sebességvezérlés"
+  },
+  "proUnlock4": {
+    "message": "Hangcsomagok és figyelésenkénti előzmények"
+  },
+  "pwCompareHead": {
+    "message": "Ingyenes vs Pro"
+  },
+  "pwRowWatches": {
+    "message": "Aktív figyelések"
+  },
+  "pwRowCadence": {
+    "message": "Ellenőrzési sebesség"
+  },
+  "pwRowSound": {
+    "message": "Értesítési hangok"
+  },
+  "pwFreeWatches": {
+    "message": "3"
+  },
+  "pwProWatches": {
+    "message": "Korlátlan"
+  },
+  "pwFreeCadence": {
+    "message": "15 perc"
+  },
+  "pwProCadence": {
+    "message": "60 mp"
+  },
+  "pwFreeSound": {
+    "message": "1 hang"
+  },
+  "pwProSound": {
+    "message": "Hangcsomagok"
+  },
+  "priceLine": {
+    "message": "$$99 örökre · egy fizetés, nem előfizetés"
+  },
+  "guaranteeLine": {
+    "message": "30 napos pénzvisszafizetési garancia. Fiók nélkül, nulla követés."
+  },
+  "startTrialNoCard": {
+    "message": "Indítson 7 napos ingyenes próbát, kártya nélkül"
+  },
+  "getProCta": {
+    "message": "Szerezze meg a Prót. $$99 örökre"
+  },
+  "dashboardTitle": {
+    "message": "Az Ön figyelései"
+  },
+  "optionsSubtitle": {
+    "message": "Minden, amit a Restock Radar figyel."
+  },
+  "navWatches": {
+    "message": "Figyelések"
+  },
+  "navSettings": {
+    "message": "Beállítások"
+  },
+  "navLicense": {
+    "message": "Licenc"
+  },
+  "emptyTitle": {
+    "message": "Még nincs figyelés"
+  },
+  "emptyText": {
+    "message": "Nyisson meg egy termékoldalt, kattintson a Restock Radar ikonra, majd nyomja meg az Oldal figyelése gombot."
+  },
+  "settingsSound": {
+    "message": "Értesítési hang"
+  },
+  "settingsSoundHint": {
+    "message": "Játsszon le egy hangot, amikor egy figyelt termék újra készleten van."
+  },
+  "settingsPack": {
+    "message": "Hangcsomag"
+  },
+  "settingsPackHint": {
+    "message": "Válassza ki az értesítési hangot. További csomagok a Próval oldódnak fel."
+  },
+  "packDefault": {
+    "message": "Alapértelmezett hang"
+  },
+  "licenseTab": {
+    "message": "Licenc"
+  },
+  "licenseHeading": {
+    "message": "Az Ön csomagja"
+  },
+  "licenseKeyLabel": {
+    "message": "Licenckulcs"
+  },
+  "licenseKeyPh": {
+    "message": "ZOVO-XXXX-XXXX-XXXX"
+  },
+  "verify": {
+    "message": "Ellenőrzés"
+  },
+  "verifying": {
+    "message": "Ellenőrzés…"
+  },
+  "verifyOk": {
+    "message": "Pro feloldva. Köszönjük, hogy támogatja a Zovót."
+  },
+  "verifyBad": {
+    "message": "A kulcs nem ellenőrizhető. Ellenőrizze, és próbálja újra."
+  },
+  "tierFree": {
+    "message": "Ingyenes csomag"
+  },
+  "tierTrial": {
+    "message": "Pro próba"
+  },
+  "tierPro": {
+    "message": "Pro"
+  },
+  "trialLeft": {
+    "message": "$DAYS$ nap van hátra a próbából",
+    "placeholders": {
+      "days": {
+        "content": "$1",
+        "example": "6"
+      }
+    }
+  },
+  "startTrialCta": {
+    "message": "Indítson 7 napos Pro próbát"
+  },
+  "proPitch": {
+    "message": "Korlátlan figyelés, 60 mp-es ellenőrzések, figyelésenkénti sebesség és hangcsomagok."
+  },
+  "getPro": {
+    "message": "Szerezze meg a Prót. $$99 egyszeri"
+  },
+  "restoreHint": {
+    "message": "Már megvette a Prót? Illessze be a kulcsát fent, és ellenőrizze."
+  },
+  "pauseAction": {
+    "message": "Szünet"
+  },
+  "resumeAction": {
+    "message": "Folytatás"
+  },
+  "deleteAction": {
+    "message": "Törlés"
+  },
+  "openAction": {
+    "message": "Megnyitás"
+  },
+  "cadenceColLabel": {
+    "message": "Ellenőrzések"
+  },
+  "perWatchCadenceHint": {
+    "message": "A figyelésenkénti sebesség Pro vezérlő."
+  },
+  "lastChecked": {
+    "message": "ellenőrizve $WHEN$",
+    "placeholders": {
+      "when": {
+        "content": "$1",
+        "example": "2 min ago"
+      }
+    }
+  },
+  "relNever": {
+    "message": "még nem"
+  },
+  "notifTitle": {
+    "message": "Újra készleten: $TITLE$",
+    "placeholders": {
+      "title": {
+        "content": "$1",
+        "example": "GPU model"
+      }
+    }
+  },
+  "onbEyebrow": {
+    "message": "Restock Radar"
+  },
+  "onbTitle": {
+    "message": "Figyel egy terméket? Értesítem, amint újra elérhető."
+  },
+  "onbTrust": {
+    "message": "Ingyenes. Fiók nélkül. Követés nélkül."
+  },
+  "onbStep1t": {
+    "message": "Nyissa meg a termékoldalt"
+  },
+  "onbStep1b": {
+    "message": "Bármely bolt, bármely most elfogyott termék."
+  },
+  "onbStep2t": {
+    "message": "Kattintson az Oldal figyelése gombra"
+  },
+  "onbStep2b": {
+    "message": "Egy koppintás az eszköztárról. Nincs regisztráció, nincs beállító képernyő."
+  },
+  "onbStep3t": {
+    "message": "Kapjon értesítést, amint újra elérhető"
+  },
+  "onbStep3b": {
+    "message": "Asztali értesítés és hang, akkor is, ha a lap zárva van."
+  },
+  "onbCta": {
+    "message": "Figyelje az első termékét"
+  },
+  "onbProLine": {
+    "message": "Ingyenes akár 3 figyelésig. A Pro korlátlan figyelést, 60 mp-es ellenőrzéseket és hangcsomagokat old fel."
+  },
+  "onbGoPro": {
+    "message": "Pro megtekintése"
+  },
+  "onbFooter": {
+    "message": "Készítette a Zovo · zovo.one"
+  },
+  "sbEyebrow": {
+    "message": "Pro"
+  },
+  "sbHeadline": {
+    "message": "Oldja fel a Prót. Fizessen egyszer, örökre az Öné."
+  },
+  "sbCtaSub": {
+    "message": "Egy fizetés, nem előfizetés · 30 napos pénzvisszafizetési garancia"
+  },
+  "sbMore": {
+    "message": "További eszközök"
+  },
+  "sbMoreLink": {
+    "message": "Böngésszen minden eszközt a zovo.one oldalon"
+  },
+  "sbHelp": {
+    "message": "Súgó"
+  },
+  "sbPrivacy": {
+    "message": "Adatvédelem"
+  }
+}

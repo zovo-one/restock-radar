@@ -1,0 +1,343 @@
+{
+  "extName": {
+    "message": "Restock Radar. Alerte când revine în stoc",
+    "description": "Extension name, <=75 chars"
+  },
+  "extDesc": {
+    "message": "Urmărește orice pagină de produs și primești o alertă pe desktop imediat ce revine în stoc. Fără cont, fără urmărire.",
+    "description": "Extension description, <=132 chars"
+  },
+  "brandName": {
+    "message": "Restock Radar"
+  },
+  "watchThisPage": {
+    "message": "Urmărește această pagină"
+  },
+  "watchAdding": {
+    "message": "Se adaugă…"
+  },
+  "watchingHere": {
+    "message": "Urmărești această pagină"
+  },
+  "popupTagline": {
+    "message": "Primești o notificare pe desktop imediat ce poate fi cumpărat din nou."
+  },
+  "notProduct": {
+    "message": "Aceasta nu pare o pagină de produs, dar o poți urmări oricum."
+  },
+  "watching": {
+    "message": "Se urmărește"
+  },
+  "checkingNow": {
+    "message": "se verifică acum"
+  },
+  "cadenceFree": {
+    "message": "la fiecare 15 min"
+  },
+  "cadencePro": {
+    "message": "la fiecare 60s"
+  },
+  "cadenceChipLabel": {
+    "message": "Verificări"
+  },
+  "statusOut": {
+    "message": "stoc epuizat · se urmărește"
+  },
+  "statusIn": {
+    "message": "deja în stoc"
+  },
+  "statusTriggered": {
+    "message": "din nou în stoc, pe pauză"
+  },
+  "statusPaused": {
+    "message": "pe pauză"
+  },
+  "statusError": {
+    "message": "inaccesibil, se reîncearcă"
+  },
+  "watchesHere": {
+    "message": "Urmăriri pe acest site"
+  },
+  "noWatchesHere": {
+    "message": "Nicio urmărire pe acest site încă."
+  },
+  "manageAll": {
+    "message": "Gestionează toate urmăririle"
+  },
+  "pickSoldOut": {
+    "message": "Alege butonul Stoc epuizat"
+  },
+  "permNeeded": {
+    "message": "Am nevoie de acces la acest site pentru a-l urmări."
+  },
+  "tryAgain": {
+    "message": "Încearcă din nou"
+  },
+  "capTitle": {
+    "message": "Urmărești 3 din 3"
+  },
+  "capBody": {
+    "message": "Pro urmărește produse nelimitate, verifică la fiecare 60s și adaugă pachete de sunete."
+  },
+  "watchesNoun": {
+    "message": "urmăriri"
+  },
+  "upgrade": {
+    "message": "Fă upgrade"
+  },
+  "maybeLater": {
+    "message": "Poate mai târziu"
+  },
+  "proLock": {
+    "message": "Pro"
+  },
+  "pwHeadline": {
+    "message": "Nu rata următoarea reaprovizionare"
+  },
+  "pwForever": {
+    "message": "O singură plată deblochează Restock Radar Pro pentru totdeauna."
+  },
+  "proUnlock1": {
+    "message": "Urmărește produse nelimitate, nu doar 3"
+  },
+  "proUnlock2": {
+    "message": "Verificări la 60 de secunde, de 15 ori mai rapide decât gratuit"
+  },
+  "proUnlock3": {
+    "message": "Control al vitezei pentru fiecare urmărire"
+  },
+  "proUnlock4": {
+    "message": "Pachete de sunete și istoric pentru fiecare urmărire"
+  },
+  "pwCompareHead": {
+    "message": "Gratuit vs Pro"
+  },
+  "pwRowWatches": {
+    "message": "Urmăriri active"
+  },
+  "pwRowCadence": {
+    "message": "Viteza de verificare"
+  },
+  "pwRowSound": {
+    "message": "Sunete de alertă"
+  },
+  "pwFreeWatches": {
+    "message": "3"
+  },
+  "pwProWatches": {
+    "message": "Nelimitat"
+  },
+  "pwFreeCadence": {
+    "message": "15 min"
+  },
+  "pwProCadence": {
+    "message": "60 sec"
+  },
+  "pwFreeSound": {
+    "message": "1 sunet"
+  },
+  "pwProSound": {
+    "message": "Pachete de sunete"
+  },
+  "priceLine": {
+    "message": "$$99 pe viață · o singură plată, nu un abonament"
+  },
+  "guaranteeLine": {
+    "message": "Garanție de rambursare în 30 de zile. Fără cont, zero urmărire."
+  },
+  "startTrialNoCard": {
+    "message": "Începe perioada gratuită de 7 zile, fără card"
+  },
+  "getProCta": {
+    "message": "Obține Pro. $$99 pe viață"
+  },
+  "dashboardTitle": {
+    "message": "Urmăririle tale"
+  },
+  "optionsSubtitle": {
+    "message": "Tot ce ține sub observație Restock Radar."
+  },
+  "navWatches": {
+    "message": "Urmăriri"
+  },
+  "navSettings": {
+    "message": "Setări"
+  },
+  "navLicense": {
+    "message": "Licență"
+  },
+  "emptyTitle": {
+    "message": "Nicio urmărire încă"
+  },
+  "emptyText": {
+    "message": "Deschide o pagină de produs, apasă pictograma Restock Radar, apoi apasă Urmărește această pagină."
+  },
+  "settingsSound": {
+    "message": "Sunet de alertă"
+  },
+  "settingsSoundHint": {
+    "message": "Redă un sunet când un produs urmărit revine în stoc."
+  },
+  "settingsPack": {
+    "message": "Pachet de sunete"
+  },
+  "settingsPackHint": {
+    "message": "Alege sunetul de alertă. Mai multe pachete se deblochează cu Pro."
+  },
+  "packDefault": {
+    "message": "Sunet implicit"
+  },
+  "licenseTab": {
+    "message": "Licență"
+  },
+  "licenseHeading": {
+    "message": "Planul tău"
+  },
+  "licenseKeyLabel": {
+    "message": "Cheie de licență"
+  },
+  "licenseKeyPh": {
+    "message": "ZOVO-XXXX-XXXX-XXXX"
+  },
+  "verify": {
+    "message": "Verifică"
+  },
+  "verifying": {
+    "message": "Se verifică…"
+  },
+  "verifyOk": {
+    "message": "Pro deblocat. Îți mulțumim că susții Zovo."
+  },
+  "verifyBad": {
+    "message": "Cheia nu a fost validă. Verific-o și încearcă din nou."
+  },
+  "tierFree": {
+    "message": "Plan gratuit"
+  },
+  "tierTrial": {
+    "message": "Perioadă de probă Pro"
+  },
+  "tierPro": {
+    "message": "Pro"
+  },
+  "trialLeft": {
+    "message": "$DAYS$ zile rămase din perioada de probă",
+    "placeholders": {
+      "days": {
+        "content": "$1",
+        "example": "6"
+      }
+    }
+  },
+  "startTrialCta": {
+    "message": "Începe perioada de probă Pro de 7 zile"
+  },
+  "proPitch": {
+    "message": "Urmăriri nelimitate, verificări la 60 de secunde, viteză pentru fiecare urmărire și pachete de sunete."
+  },
+  "getPro": {
+    "message": "Obține Pro. $$99 o singură dată"
+  },
+  "restoreHint": {
+    "message": "Ai cumpărat deja Pro? Lipește cheia mai sus și verifică."
+  },
+  "pauseAction": {
+    "message": "Pauză"
+  },
+  "resumeAction": {
+    "message": "Reia"
+  },
+  "deleteAction": {
+    "message": "Șterge"
+  },
+  "openAction": {
+    "message": "Deschide"
+  },
+  "cadenceColLabel": {
+    "message": "Verificări"
+  },
+  "perWatchCadenceHint": {
+    "message": "Viteza pentru fiecare urmărire este o funcție Pro."
+  },
+  "lastChecked": {
+    "message": "verificat $WHEN$",
+    "placeholders": {
+      "when": {
+        "content": "$1",
+        "example": "2 min ago"
+      }
+    }
+  },
+  "relNever": {
+    "message": "încă nu"
+  },
+  "notifTitle": {
+    "message": "Din nou în stoc: $TITLE$",
+    "placeholders": {
+      "title": {
+        "content": "$1",
+        "example": "GPU model"
+      }
+    }
+  },
+  "onbEyebrow": {
+    "message": "Restock Radar"
+  },
+  "onbTitle": {
+    "message": "Urmărești un produs? Te anunț imediat ce revine."
+  },
+  "onbTrust": {
+    "message": "Gratuit. Fără cont. Fără urmărire."
+  },
+  "onbStep1t": {
+    "message": "Deschide pagina produsului"
+  },
+  "onbStep1b": {
+    "message": "Orice magazin, orice produs epuizat în acest moment."
+  },
+  "onbStep2t": {
+    "message": "Apasă Urmărește această pagină"
+  },
+  "onbStep2b": {
+    "message": "O apăsare din bara de instrumente. Fără înregistrare, fără ecran de configurare."
+  },
+  "onbStep3t": {
+    "message": "Ești anunțat imediat ce revine"
+  },
+  "onbStep3b": {
+    "message": "O alertă pe desktop și un sunet, chiar și cu fila închisă."
+  },
+  "onbCta": {
+    "message": "Urmărește primul tău produs"
+  },
+  "onbProLine": {
+    "message": "Gratuit pentru până la 3 urmăriri. Pro deblochează urmăriri nelimitate, verificări la 60 de secunde și pachete de sunete."
+  },
+  "onbGoPro": {
+    "message": "Vezi Pro"
+  },
+  "onbFooter": {
+    "message": "Creat de Zovo · zovo.one"
+  },
+  "sbEyebrow": {
+    "message": "Pro"
+  },
+  "sbHeadline": {
+    "message": "Deblochează Pro. Plătești o dată, e al tău pentru totdeauna."
+  },
+  "sbCtaSub": {
+    "message": "O singură plată, nu un abonament · garanție de rambursare în 30 de zile"
+  },
+  "sbMore": {
+    "message": "Mai multe instrumente"
+  },
+  "sbMoreLink": {
+    "message": "Descoperă toate instrumentele pe zovo.one"
+  },
+  "sbHelp": {
+    "message": "Ajutor"
+  },
+  "sbPrivacy": {
+    "message": "Confidențialitate"
+  }
+}

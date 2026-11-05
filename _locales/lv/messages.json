@@ -1,0 +1,343 @@
+{
+  "extName": {
+    "message": "Restock Radar. Brīdinājumi par preču atgriešanos",
+    "description": "Extension name, <=75 chars"
+  },
+  "extDesc": {
+    "message": "Vēro jebkuru preces lapu un saņem darbvirsmas brīdinājumu tiklīdz tā atkal pieejama. Bez konta, bez izsekošanas.",
+    "description": "Extension description, <=132 chars"
+  },
+  "brandName": {
+    "message": "Restock Radar"
+  },
+  "watchThisPage": {
+    "message": "Vērot šo lapu"
+  },
+  "watchAdding": {
+    "message": "Pievieno…"
+  },
+  "watchingHere": {
+    "message": "Vēro šo lapu"
+  },
+  "popupTagline": {
+    "message": "Saņem darbvirsmas signālu tiklīdz to atkal var iegādāties."
+  },
+  "notProduct": {
+    "message": "Šī neizskatās pēc preces lapas, bet tu joprojām vari to vērot."
+  },
+  "watching": {
+    "message": "Vēro"
+  },
+  "checkingNow": {
+    "message": "pārbauda tagad"
+  },
+  "cadenceFree": {
+    "message": "ik pēc 15 min"
+  },
+  "cadencePro": {
+    "message": "ik pēc 60 s"
+  },
+  "cadenceChipLabel": {
+    "message": "Pārbaudes"
+  },
+  "statusOut": {
+    "message": "nav noliktavā · vēro"
+  },
+  "statusIn": {
+    "message": "jau pieejams"
+  },
+  "statusTriggered": {
+    "message": "atkal pieejams, pauzēts"
+  },
+  "statusPaused": {
+    "message": "pauzēts"
+  },
+  "statusError": {
+    "message": "nevar sasniegt, mēģina vēlreiz"
+  },
+  "watchesHere": {
+    "message": "Vēro šajā vietnē"
+  },
+  "noWatchesHere": {
+    "message": "Šajā vietnē vēl nav vērojumu."
+  },
+  "manageAll": {
+    "message": "Pārvaldīt visus vērojumus"
+  },
+  "pickSoldOut": {
+    "message": "Izvēlies pogu Izpārdots"
+  },
+  "permNeeded": {
+    "message": "Man nepieciešama piekļuve šai vietnei, lai to vērotu."
+  },
+  "tryAgain": {
+    "message": "Mēģināt vēlreiz"
+  },
+  "capTitle": {
+    "message": "Vēro 3 no 3"
+  },
+  "capBody": {
+    "message": "Pro vēro neierobežotu preču skaitu, pārbauda ik pēc 60 s un pievieno skaņu paketes."
+  },
+  "watchesNoun": {
+    "message": "vērojumi"
+  },
+  "upgrade": {
+    "message": "Jaunināt"
+  },
+  "maybeLater": {
+    "message": "Varbūt vēlāk"
+  },
+  "proLock": {
+    "message": "Pro"
+  },
+  "pwHeadline": {
+    "message": "Nekad nepalaid garām nākamo preču papildināšanu"
+  },
+  "pwForever": {
+    "message": "Viens maksājums atbloķē Restock Radar Pro uz visiem laikiem."
+  },
+  "proUnlock1": {
+    "message": "Vēro neierobežotu preču skaitu, ne tikai 3"
+  },
+  "proUnlock2": {
+    "message": "60 sekunžu pārbaudes, 15x ātrāk nekā bez maksas"
+  },
+  "proUnlock3": {
+    "message": "Ātruma vadība katram vērojumam"
+  },
+  "proUnlock4": {
+    "message": "Skaņu paketes un katra vērojuma vēsture"
+  },
+  "pwCompareHead": {
+    "message": "Bezmaksas pret Pro"
+  },
+  "pwRowWatches": {
+    "message": "Aktīvie vērojumi"
+  },
+  "pwRowCadence": {
+    "message": "Pārbaudes ātrums"
+  },
+  "pwRowSound": {
+    "message": "Brīdinājuma skaņas"
+  },
+  "pwFreeWatches": {
+    "message": "3"
+  },
+  "pwProWatches": {
+    "message": "Neierobežoti"
+  },
+  "pwFreeCadence": {
+    "message": "15 min"
+  },
+  "pwProCadence": {
+    "message": "60 sek"
+  },
+  "pwFreeSound": {
+    "message": "1 zvans"
+  },
+  "pwProSound": {
+    "message": "Skaņu paketes"
+  },
+  "priceLine": {
+    "message": "$$99 uz mūžu · viens maksājums, nevis abonements"
+  },
+  "guaranteeLine": {
+    "message": "30 dienu naudas atmaksas garantija. Bez konta, nulle izsekošanas."
+  },
+  "startTrialNoCard": {
+    "message": "Sāc 7 dienu bezmaksas izmēģinājumu, bez kartes"
+  },
+  "getProCta": {
+    "message": "Iegādāties Pro. $$99 uz mūžu"
+  },
+  "dashboardTitle": {
+    "message": "Tavi vērojumi"
+  },
+  "optionsSubtitle": {
+    "message": "Viss, ko Restock Radar patur acīs."
+  },
+  "navWatches": {
+    "message": "Vērojumi"
+  },
+  "navSettings": {
+    "message": "Iestatījumi"
+  },
+  "navLicense": {
+    "message": "Licence"
+  },
+  "emptyTitle": {
+    "message": "Vēl nav vērojumu"
+  },
+  "emptyText": {
+    "message": "Atver preces lapu, noklikšķini uz Restock Radar ikonas, tad nospied Vērot šo lapu."
+  },
+  "settingsSound": {
+    "message": "Brīdinājuma skaņa"
+  },
+  "settingsSoundHint": {
+    "message": "Atskaņo zvanu, kad vērotā prece atkal ir pieejama."
+  },
+  "settingsPack": {
+    "message": "Skaņu pakete"
+  },
+  "settingsPackHint": {
+    "message": "Izvēlies brīdinājuma skaņu. Vairāk pakešu atbloķējas ar Pro."
+  },
+  "packDefault": {
+    "message": "Noklusējuma zvans"
+  },
+  "licenseTab": {
+    "message": "Licence"
+  },
+  "licenseHeading": {
+    "message": "Tavs plāns"
+  },
+  "licenseKeyLabel": {
+    "message": "Licences atslēga"
+  },
+  "licenseKeyPh": {
+    "message": "ZOVO-XXXX-XXXX-XXXX"
+  },
+  "verify": {
+    "message": "Pārbaudīt"
+  },
+  "verifying": {
+    "message": "Pārbauda…"
+  },
+  "verifyOk": {
+    "message": "Pro atbloķēts. Paldies, ka atbalsti Zovo."
+  },
+  "verifyBad": {
+    "message": "Šī atslēga neizdevās. Pārbaudi to un mēģini vēlreiz."
+  },
+  "tierFree": {
+    "message": "Bezmaksas plāns"
+  },
+  "tierTrial": {
+    "message": "Pro izmēģinājums"
+  },
+  "tierPro": {
+    "message": "Pro"
+  },
+  "trialLeft": {
+    "message": "$DAYS$ dienas atlikušas tavā izmēģinājumā",
+    "placeholders": {
+      "days": {
+        "content": "$1",
+        "example": "6"
+      }
+    }
+  },
+  "startTrialCta": {
+    "message": "Sāc 7 dienu Pro izmēģinājumu"
+  },
+  "proPitch": {
+    "message": "Neierobežoti vērojumi, 60 sekunžu pārbaudes, katra vērojuma ātrums un skaņu paketes."
+  },
+  "getPro": {
+    "message": "Iegādāties Pro. $$99 vienreizēji"
+  },
+  "restoreHint": {
+    "message": "Jau iegādājies Pro? Ielīmē savu atslēgu augšā un pārbaudi."
+  },
+  "pauseAction": {
+    "message": "Pauzēt"
+  },
+  "resumeAction": {
+    "message": "Atsākt"
+  },
+  "deleteAction": {
+    "message": "Dzēst"
+  },
+  "openAction": {
+    "message": "Atvērt"
+  },
+  "cadenceColLabel": {
+    "message": "Pārbaudes"
+  },
+  "perWatchCadenceHint": {
+    "message": "Katra vērojuma ātrums ir Pro vadība."
+  },
+  "lastChecked": {
+    "message": "pārbaudīts $WHEN$",
+    "placeholders": {
+      "when": {
+        "content": "$1",
+        "example": "2 min ago"
+      }
+    }
+  },
+  "relNever": {
+    "message": "vēl nav"
+  },
+  "notifTitle": {
+    "message": "Atkal pieejams: $TITLE$",
+    "placeholders": {
+      "title": {
+        "content": "$1",
+        "example": "GPU model"
+      }
+    }
+  },
+  "onbEyebrow": {
+    "message": "Restock Radar"
+  },
+  "onbTitle": {
+    "message": "Vēro preci? Es tev paziņošu tiklīdz tā atgriezīsies."
+  },
+  "onbTrust": {
+    "message": "Bez maksas. Bez konta. Bez izsekošanas."
+  },
+  "onbStep1t": {
+    "message": "Atver preces lapu"
+  },
+  "onbStep1b": {
+    "message": "Jebkurš veikals, jebkura prece, kas šobrīd ir izpārdota."
+  },
+  "onbStep2t": {
+    "message": "Noklikšķini Vērot šo lapu"
+  },
+  "onbStep2b": {
+    "message": "Viens pieskāriens no rīkjoslas. Bez reģistrācijas, bez iestatīšanas ekrāna."
+  },
+  "onbStep3t": {
+    "message": "Saņem paziņojumu tiklīdz tā atgriežas"
+  },
+  "onbStep3b": {
+    "message": "Darbvirsmas brīdinājums un zvans, pat ar aizvērtu cilni."
+  },
+  "onbCta": {
+    "message": "Vēro savu pirmo preci"
+  },
+  "onbProLine": {
+    "message": "Bez maksas līdz 3 vērojumiem. Pro atbloķē neierobežotus vērojumus, 60 sekunžu pārbaudes un skaņu paketes."
+  },
+  "onbGoPro": {
+    "message": "Skatīt Pro"
+  },
+  "onbFooter": {
+    "message": "Izveidojis Zovo · zovo.one"
+  },
+  "sbEyebrow": {
+    "message": "Pro"
+  },
+  "sbHeadline": {
+    "message": "Atbloķē Pro. Maksā vienreiz, tavs uz visiem laikiem."
+  },
+  "sbCtaSub": {
+    "message": "Viens maksājums, nevis abonements · 30 dienu naudas atmaksas garantija"
+  },
+  "sbMore": {
+    "message": "Vairāk rīku"
+  },
+  "sbMoreLink": {
+    "message": "Pārlūko visus rīkus vietnē zovo.one"
+  },
+  "sbHelp": {
+    "message": "Palīdzība"
+  },
+  "sbPrivacy": {
+    "message": "Konfidencialitāte"
+  }
+}

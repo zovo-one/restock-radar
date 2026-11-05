@@ -1,0 +1,343 @@
+{
+  "extName": {
+    "message": "Restock Radar. ಮರುಸ್ಟಾಕ್ ಅಲರ್ಟ್‌ಗಳು",
+    "description": "Extension name, <=75 chars"
+  },
+  "extDesc": {
+    "message": "ಯಾವುದೇ ಉತ್ಪನ್ನ ಪುಟವನ್ನು ವೀಕ್ಷಿಸಿ, ಮತ್ತೆ ಸ್ಟಾಕ್‌ಗೆ ಬಂದ ಕ್ಷಣ ಡೆಸ್ಕ್‌ಟಾಪ್ ಅಲರ್ಟ್ ಪಡೆಯಿರಿ. ಖಾತೆ ಇಲ್ಲ, ಟ್ರ್ಯಾಕಿಂಗ್ ಇಲ್ಲ.",
+    "description": "Extension description, <=132 chars"
+  },
+  "brandName": {
+    "message": "Restock Radar"
+  },
+  "watchThisPage": {
+    "message": "ಈ ಪುಟವನ್ನು ವೀಕ್ಷಿಸಿ"
+  },
+  "watchAdding": {
+    "message": "ಸೇರಿಸಲಾಗುತ್ತಿದೆ…"
+  },
+  "watchingHere": {
+    "message": "ಈ ಪುಟವನ್ನು ವೀಕ್ಷಿಸಲಾಗುತ್ತಿದೆ"
+  },
+  "popupTagline": {
+    "message": "ಮತ್ತೆ ಖರೀದಿಗೆ ಲಭ್ಯವಾದ ಕ್ಷಣ ಡೆಸ್ಕ್‌ಟಾಪ್ ಪಿಂಗ್ ಪಡೆಯಿರಿ."
+  },
+  "notProduct": {
+    "message": "ಇದು ಉತ್ಪನ್ನ ಪುಟದಂತೆ ಕಾಣುತ್ತಿಲ್ಲ, ಆದರೆ ನೀವು ಇನ್ನೂ ಇದನ್ನು ವೀಕ್ಷಿಸಬಹುದು."
+  },
+  "watching": {
+    "message": "ವೀಕ್ಷಿಸಲಾಗುತ್ತಿದೆ"
+  },
+  "checkingNow": {
+    "message": "ಈಗ ಪರಿಶೀಲಿಸಲಾಗುತ್ತಿದೆ"
+  },
+  "cadenceFree": {
+    "message": "ಪ್ರತಿ 15 ನಿಮಿಷಕ್ಕೆ"
+  },
+  "cadencePro": {
+    "message": "ಪ್ರತಿ 60 ಸೆಕೆಂಡ್‌ಗೆ"
+  },
+  "cadenceChipLabel": {
+    "message": "ಪರಿಶೀಲನೆಗಳು"
+  },
+  "statusOut": {
+    "message": "ಸ್ಟಾಕ್ ಇಲ್ಲ · ವೀಕ್ಷಿಸಲಾಗುತ್ತಿದೆ"
+  },
+  "statusIn": {
+    "message": "ಈಗಾಗಲೇ ಸ್ಟಾಕ್‌ನಲ್ಲಿದೆ"
+  },
+  "statusTriggered": {
+    "message": "ಮತ್ತೆ ಸ್ಟಾಕ್‌ನಲ್ಲಿದೆ, ವಿರಾಮಗೊಳಿಸಲಾಗಿದೆ"
+  },
+  "statusPaused": {
+    "message": "ವಿರಾಮಗೊಳಿಸಲಾಗಿದೆ"
+  },
+  "statusError": {
+    "message": "ತಲುಪಲಾಗುತ್ತಿಲ್ಲ, ಮರುಪ್ರಯತ್ನಿಸಲಾಗುತ್ತಿದೆ"
+  },
+  "watchesHere": {
+    "message": "ಈ ಸೈಟ್‌ನಲ್ಲಿ ವೀಕ್ಷಿಸಲಾಗುತ್ತಿದೆ"
+  },
+  "noWatchesHere": {
+    "message": "ಈ ಸೈಟ್‌ನಲ್ಲಿ ಇನ್ನೂ ಯಾವುದೇ ವೀಕ್ಷಣೆಗಳಿಲ್ಲ."
+  },
+  "manageAll": {
+    "message": "ಎಲ್ಲಾ ವೀಕ್ಷಣೆಗಳನ್ನು ನಿರ್ವಹಿಸಿ"
+  },
+  "pickSoldOut": {
+    "message": "ಸೋಲ್ಡ್-ಔಟ್ ಬಟನ್ ಆಯ್ಕೆಮಾಡಿ"
+  },
+  "permNeeded": {
+    "message": "ಇದನ್ನು ವೀಕ್ಷಿಸಲು ನನಗೆ ಈ ಸೈಟ್‌ಗೆ ಪ್ರವೇಶ ಬೇಕು."
+  },
+  "tryAgain": {
+    "message": "ಮತ್ತೆ ಪ್ರಯತ್ನಿಸಿ"
+  },
+  "capTitle": {
+    "message": "3 ರಲ್ಲಿ 3 ವೀಕ್ಷಿಸಲಾಗುತ್ತಿದೆ"
+  },
+  "capBody": {
+    "message": "Pro ಅನಿಯಮಿತ ಉತ್ಪನ್ನಗಳನ್ನು ವೀಕ್ಷಿಸುತ್ತದೆ, ಪ್ರತಿ 60 ಸೆಕೆಂಡ್‌ಗೆ ಪರಿಶೀಲಿಸುತ್ತದೆ ಮತ್ತು ಸೌಂಡ್ ಪ್ಯಾಕ್‌ಗಳನ್ನು ಸೇರಿಸುತ್ತದೆ."
+  },
+  "watchesNoun": {
+    "message": "ವೀಕ್ಷಣೆಗಳು"
+  },
+  "upgrade": {
+    "message": "ಅಪ್‌ಗ್ರೇಡ್ ಮಾಡಿ"
+  },
+  "maybeLater": {
+    "message": "ಬಹುಶಃ ನಂತರ"
+  },
+  "proLock": {
+    "message": "Pro"
+  },
+  "pwHeadline": {
+    "message": "ಮುಂದಿನ ಮರುಸ್ಟಾಕ್ ಅನ್ನು ಎಂದಿಗೂ ತಪ್ಪಿಸಿಕೊಳ್ಳಬೇಡಿ"
+  },
+  "pwForever": {
+    "message": "ಒಂದೇ ಪಾವತಿ Restock Radar Pro ಅನ್ನು ಶಾಶ್ವತವಾಗಿ ಅನ್‌ಲಾಕ್ ಮಾಡುತ್ತದೆ."
+  },
+  "proUnlock1": {
+    "message": "ಕೇವಲ 3 ಅಲ್ಲ, ಅನಿಯಮಿತ ಉತ್ಪನ್ನಗಳನ್ನು ವೀಕ್ಷಿಸಿ"
+  },
+  "proUnlock2": {
+    "message": "60-ಸೆಕೆಂಡ್ ಪರಿಶೀಲನೆಗಳು, ಉಚಿತಕ್ಕಿಂತ 15 ಪಟ್ಟು ವೇಗ"
+  },
+  "proUnlock3": {
+    "message": "ಪ್ರತಿ-ವೀಕ್ಷಣೆ ವೇಗ ನಿಯಂತ್ರಣ"
+  },
+  "proUnlock4": {
+    "message": "ಸೌಂಡ್ ಪ್ಯಾಕ್‌ಗಳು ಮತ್ತು ಪ್ರತಿ-ವೀಕ್ಷಣೆ ಇತಿಹಾಸ"
+  },
+  "pwCompareHead": {
+    "message": "ಉಚಿತ vs Pro"
+  },
+  "pwRowWatches": {
+    "message": "ಸಕ್ರಿಯ ವೀಕ್ಷಣೆಗಳು"
+  },
+  "pwRowCadence": {
+    "message": "ಪರಿಶೀಲನೆ ವೇಗ"
+  },
+  "pwRowSound": {
+    "message": "ಅಲರ್ಟ್ ಶಬ್ದಗಳು"
+  },
+  "pwFreeWatches": {
+    "message": "3"
+  },
+  "pwProWatches": {
+    "message": "ಅನಿಯಮಿತ"
+  },
+  "pwFreeCadence": {
+    "message": "15 ನಿಮಿಷ"
+  },
+  "pwProCadence": {
+    "message": "60 ಸೆಕೆಂಡ್"
+  },
+  "pwFreeSound": {
+    "message": "1 ಚೈಮ್"
+  },
+  "pwProSound": {
+    "message": "ಸೌಂಡ್ ಪ್ಯಾಕ್‌ಗಳು"
+  },
+  "priceLine": {
+    "message": "$$99 ಜೀವಿತಾವಧಿ · ಒಂದೇ ಪಾವತಿ, ಚಂದಾದಾರಿಕೆ ಅಲ್ಲ"
+  },
+  "guaranteeLine": {
+    "message": "30-ದಿನಗಳ ಹಣ-ವಾಪಸಿ ಖಾತರಿ. ಖಾತೆ ಇಲ್ಲ, ಶೂನ್ಯ ಟ್ರ್ಯಾಕಿಂಗ್."
+  },
+  "startTrialNoCard": {
+    "message": "7-ದಿನಗಳ ಉಚಿತ ಪ್ರಯೋಗ ಪ್ರಾರಂಭಿಸಿ, ಕಾರ್ಡ್ ಇಲ್ಲ"
+  },
+  "getProCta": {
+    "message": "Pro ಪಡೆಯಿರಿ. $$99 ಜೀವಿತಾವಧಿ"
+  },
+  "dashboardTitle": {
+    "message": "ನಿಮ್ಮ ವೀಕ್ಷಣೆಗಳು"
+  },
+  "optionsSubtitle": {
+    "message": "Restock Radar ಗಮನಿಸುತ್ತಿರುವ ಎಲ್ಲವೂ."
+  },
+  "navWatches": {
+    "message": "ವೀಕ್ಷಣೆಗಳು"
+  },
+  "navSettings": {
+    "message": "ಸೆಟ್ಟಿಂಗ್‌ಗಳು"
+  },
+  "navLicense": {
+    "message": "ಪರವಾನಗಿ"
+  },
+  "emptyTitle": {
+    "message": "ಇನ್ನೂ ಯಾವುದೇ ವೀಕ್ಷಣೆಗಳಿಲ್ಲ"
+  },
+  "emptyText": {
+    "message": "ಉತ್ಪನ್ನ ಪುಟವನ್ನು ತೆರೆಯಿರಿ, Restock Radar ಐಕಾನ್ ಕ್ಲಿಕ್ ಮಾಡಿ, ನಂತರ ಈ ಪುಟವನ್ನು ವೀಕ್ಷಿಸಿ ಒತ್ತಿರಿ."
+  },
+  "settingsSound": {
+    "message": "ಅಲರ್ಟ್ ಶಬ್ದ"
+  },
+  "settingsSoundHint": {
+    "message": "ವೀಕ್ಷಿಸಿದ ಉತ್ಪನ್ನ ಮತ್ತೆ ಸ್ಟಾಕ್‌ಗೆ ಬಂದಾಗ ಚೈಮ್ ಪ್ಲೇ ಮಾಡಿ."
+  },
+  "settingsPack": {
+    "message": "ಸೌಂಡ್ ಪ್ಯಾಕ್"
+  },
+  "settingsPackHint": {
+    "message": "ಅಲರ್ಟ್ ಶಬ್ದವನ್ನು ಆಯ್ಕೆಮಾಡಿ. Pro ಜೊತೆ ಹೆಚ್ಚಿನ ಪ್ಯಾಕ್‌ಗಳು ಅನ್‌ಲಾಕ್ ಆಗುತ್ತವೆ."
+  },
+  "packDefault": {
+    "message": "ಡೀಫಾಲ್ಟ್ ಚೈಮ್"
+  },
+  "licenseTab": {
+    "message": "ಪರವಾನಗಿ"
+  },
+  "licenseHeading": {
+    "message": "ನಿಮ್ಮ ಯೋಜನೆ"
+  },
+  "licenseKeyLabel": {
+    "message": "ಪರವಾನಗಿ ಕೀ"
+  },
+  "licenseKeyPh": {
+    "message": "ZOVO-XXXX-XXXX-XXXX"
+  },
+  "verify": {
+    "message": "ಪರಿಶೀಲಿಸಿ"
+  },
+  "verifying": {
+    "message": "ಪರಿಶೀಲಿಸಲಾಗುತ್ತಿದೆ…"
+  },
+  "verifyOk": {
+    "message": "Pro ಅನ್‌ಲಾಕ್ ಆಗಿದೆ. Zovo ಅನ್ನು ಬೆಂಬಲಿಸಿದ್ದಕ್ಕೆ ಧನ್ಯವಾದಗಳು."
+  },
+  "verifyBad": {
+    "message": "ಆ ಕೀ ಪರಿಶೀಲನೆಯಾಗಲಿಲ್ಲ. ಅದನ್ನು ಪರಿಶೀಲಿಸಿ ಮತ್ತೆ ಪ್ರಯತ್ನಿಸಿ."
+  },
+  "tierFree": {
+    "message": "ಉಚಿತ ಯೋಜನೆ"
+  },
+  "tierTrial": {
+    "message": "Pro ಪ್ರಯೋಗ"
+  },
+  "tierPro": {
+    "message": "Pro"
+  },
+  "trialLeft": {
+    "message": "ನಿಮ್ಮ ಪ್ರಯೋಗದಲ್ಲಿ $DAYS$ ದಿನಗಳು ಬಾಕಿ ಇವೆ",
+    "placeholders": {
+      "days": {
+        "content": "$1",
+        "example": "6"
+      }
+    }
+  },
+  "startTrialCta": {
+    "message": "7-ದಿನಗಳ Pro ಪ್ರಯೋಗ ಪ್ರಾರಂಭಿಸಿ"
+  },
+  "proPitch": {
+    "message": "ಅನಿಯಮಿತ ವೀಕ್ಷಣೆಗಳು, 60-ಸೆಕೆಂಡ್ ಪರಿಶೀಲನೆಗಳು, ಪ್ರತಿ-ವೀಕ್ಷಣೆ ವೇಗ ಮತ್ತು ಸೌಂಡ್ ಪ್ಯಾಕ್‌ಗಳು."
+  },
+  "getPro": {
+    "message": "Pro ಪಡೆಯಿರಿ. $$99 ಒಂದು-ಬಾರಿ"
+  },
+  "restoreHint": {
+    "message": "ಈಗಾಗಲೇ Pro ಖರೀದಿಸಿದ್ದೀರಾ? ಮೇಲೆ ನಿಮ್ಮ ಕೀ ಅಂಟಿಸಿ ಮತ್ತು ಪರಿಶೀಲಿಸಿ."
+  },
+  "pauseAction": {
+    "message": "ವಿರಾಮ"
+  },
+  "resumeAction": {
+    "message": "ಮುಂದುವರಿಸಿ"
+  },
+  "deleteAction": {
+    "message": "ಅಳಿಸಿ"
+  },
+  "openAction": {
+    "message": "ತೆರೆಯಿರಿ"
+  },
+  "cadenceColLabel": {
+    "message": "ಪರಿಶೀಲನೆಗಳು"
+  },
+  "perWatchCadenceHint": {
+    "message": "ಪ್ರತಿ-ವೀಕ್ಷಣೆ ವೇಗವು Pro ನಿಯಂತ್ರಣವಾಗಿದೆ."
+  },
+  "lastChecked": {
+    "message": "$WHEN$ ಪರಿಶೀಲಿಸಲಾಗಿದೆ",
+    "placeholders": {
+      "when": {
+        "content": "$1",
+        "example": "2 min ago"
+      }
+    }
+  },
+  "relNever": {
+    "message": "ಇನ್ನೂ ಇಲ್ಲ"
+  },
+  "notifTitle": {
+    "message": "ಮತ್ತೆ ಸ್ಟಾಕ್‌ನಲ್ಲಿದೆ: $TITLE$",
+    "placeholders": {
+      "title": {
+        "content": "$1",
+        "example": "GPU model"
+      }
+    }
+  },
+  "onbEyebrow": {
+    "message": "Restock Radar"
+  },
+  "onbTitle": {
+    "message": "ಉತ್ಪನ್ನವನ್ನು ವೀಕ್ಷಿಸುತ್ತಿದ್ದೀರಾ? ಅದು ಮತ್ತೆ ಬಂದ ಕ್ಷಣ ನಾನು ನಿಮಗೆ ಪಿಂಗ್ ಮಾಡುತ್ತೇನೆ."
+  },
+  "onbTrust": {
+    "message": "ಉಚಿತ. ಖಾತೆ ಇಲ್ಲ. ಟ್ರ್ಯಾಕಿಂಗ್ ಇಲ್ಲ."
+  },
+  "onbStep1t": {
+    "message": "ಉತ್ಪನ್ನ ಪುಟವನ್ನು ತೆರೆಯಿರಿ"
+  },
+  "onbStep1b": {
+    "message": "ಯಾವುದೇ ಸ್ಟೋರ್, ಈಗ ಸೋಲ್ಡ್-ಔಟ್ ಆಗಿರುವ ಯಾವುದೇ ವಸ್ತು."
+  },
+  "onbStep2t": {
+    "message": "ಈ ಪುಟವನ್ನು ವೀಕ್ಷಿಸಿ ಕ್ಲಿಕ್ ಮಾಡಿ"
+  },
+  "onbStep2b": {
+    "message": "ಟೂಲ್‌ಬಾರ್‌ನಿಂದ ಒಂದೇ ಟ್ಯಾಪ್. ಸೈನ್-ಅಪ್ ಇಲ್ಲ, ಸೆಟಪ್ ಸ್ಕ್ರೀನ್ ಇಲ್ಲ."
+  },
+  "onbStep3t": {
+    "message": "ಅದು ಮತ್ತೆ ಬಂದ ಕ್ಷಣ ಪಿಂಗ್ ಪಡೆಯಿರಿ"
+  },
+  "onbStep3b": {
+    "message": "ಟ್ಯಾಬ್ ಮುಚ್ಚಿದ್ದರೂ ಡೆಸ್ಕ್‌ಟಾಪ್ ಅಲರ್ಟ್ ಮತ್ತು ಚೈಮ್."
+  },
+  "onbCta": {
+    "message": "ನಿಮ್ಮ ಮೊದಲ ಉತ್ಪನ್ನವನ್ನು ವೀಕ್ಷಿಸಿ"
+  },
+  "onbProLine": {
+    "message": "3 ವೀಕ್ಷಣೆಗಳವರೆಗೆ ಉಚಿತ. Pro ಅನಿಯಮಿತ ವೀಕ್ಷಣೆಗಳು, 60-ಸೆಕೆಂಡ್ ಪರಿಶೀಲನೆಗಳು ಮತ್ತು ಸೌಂಡ್ ಪ್ಯಾಕ್‌ಗಳನ್ನು ಅನ್‌ಲಾಕ್ ಮಾಡುತ್ತದೆ."
+  },
+  "onbGoPro": {
+    "message": "Pro ನೋಡಿ"
+  },
+  "onbFooter": {
+    "message": "Zovo ನಿಂದ ತಯಾರಿಸಲಾಗಿದೆ · zovo.one"
+  },
+  "sbEyebrow": {
+    "message": "Pro"
+  },
+  "sbHeadline": {
+    "message": "Pro ಅನ್‌ಲಾಕ್ ಮಾಡಿ. ಒಮ್ಮೆ ಪಾವತಿಸಿ, ಶಾಶ್ವತವಾಗಿ ನಿಮ್ಮದು."
+  },
+  "sbCtaSub": {
+    "message": "ಒಂದೇ ಪಾವತಿ, ಚಂದಾದಾರಿಕೆ ಅಲ್ಲ · 30-ದಿನಗಳ ಹಣ-ವಾಪಸಿ ಖಾತರಿ"
+  },
+  "sbMore": {
+    "message": "ಹೆಚ್ಚಿನ ಪರಿಕರಗಳು"
+  },
+  "sbMoreLink": {
+    "message": "zovo.one ನಲ್ಲಿ ಎಲ್ಲಾ ಪರಿಕರಗಳನ್ನು ಬ್ರೌಸ್ ಮಾಡಿ"
+  },
+  "sbHelp": {
+    "message": "ಸಹಾಯ"
+  },
+  "sbPrivacy": {
+    "message": "ಗೌಪ್ಯತೆ"
+  }
+}

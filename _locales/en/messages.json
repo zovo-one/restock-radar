@@ -1,0 +1,343 @@
+{
+  "extName": {
+    "message": "Restock Radar. Back in Stock Alerts",
+    "description": "Extension name, <=75 chars"
+  },
+  "extDesc": {
+    "message": "Watch any product page and get a desktop alert the second it's back in stock. No account, no tracking.",
+    "description": "Extension description, <=132 chars"
+  },
+  "brandName": {
+    "message": "Restock Radar"
+  },
+  "watchThisPage": {
+    "message": "Watch this page"
+  },
+  "watchAdding": {
+    "message": "Adding…"
+  },
+  "watchingHere": {
+    "message": "Watching this page"
+  },
+  "popupTagline": {
+    "message": "Get a desktop ping the instant it's buyable again."
+  },
+  "notProduct": {
+    "message": "This doesn't look like a product page, but you can still watch it."
+  },
+  "watching": {
+    "message": "Watching"
+  },
+  "checkingNow": {
+    "message": "checking now"
+  },
+  "cadenceFree": {
+    "message": "every 15 min"
+  },
+  "cadencePro": {
+    "message": "every 60s"
+  },
+  "cadenceChipLabel": {
+    "message": "Checks"
+  },
+  "statusOut": {
+    "message": "out of stock · watching"
+  },
+  "statusIn": {
+    "message": "already in stock"
+  },
+  "statusTriggered": {
+    "message": "back in stock, paused"
+  },
+  "statusPaused": {
+    "message": "paused"
+  },
+  "statusError": {
+    "message": "can't reach, retrying"
+  },
+  "watchesHere": {
+    "message": "Watching on this site"
+  },
+  "noWatchesHere": {
+    "message": "No watches on this site yet."
+  },
+  "manageAll": {
+    "message": "Manage all watches"
+  },
+  "pickSoldOut": {
+    "message": "Pick the Sold-Out button"
+  },
+  "permNeeded": {
+    "message": "I need access to this site to watch it."
+  },
+  "tryAgain": {
+    "message": "Try again"
+  },
+  "capTitle": {
+    "message": "Watching 3 of 3"
+  },
+  "capBody": {
+    "message": "Pro watches unlimited products, checks every 60s, and adds sound packs."
+  },
+  "watchesNoun": {
+    "message": "watches"
+  },
+  "upgrade": {
+    "message": "Upgrade"
+  },
+  "maybeLater": {
+    "message": "Maybe later"
+  },
+  "proLock": {
+    "message": "Pro"
+  },
+  "pwHeadline": {
+    "message": "Never miss the next restock"
+  },
+  "pwForever": {
+    "message": "One payment unlocks Restock Radar Pro forever."
+  },
+  "proUnlock1": {
+    "message": "Watch unlimited products, not just 3"
+  },
+  "proUnlock2": {
+    "message": "60-second checks, 15x faster than free"
+  },
+  "proUnlock3": {
+    "message": "Per-watch speed control"
+  },
+  "proUnlock4": {
+    "message": "Sound packs and per-watch history"
+  },
+  "pwCompareHead": {
+    "message": "Free vs Pro"
+  },
+  "pwRowWatches": {
+    "message": "Active watches"
+  },
+  "pwRowCadence": {
+    "message": "Check speed"
+  },
+  "pwRowSound": {
+    "message": "Alert sounds"
+  },
+  "pwFreeWatches": {
+    "message": "3"
+  },
+  "pwProWatches": {
+    "message": "Unlimited"
+  },
+  "pwFreeCadence": {
+    "message": "15 min"
+  },
+  "pwProCadence": {
+    "message": "60 sec"
+  },
+  "pwFreeSound": {
+    "message": "1 chime"
+  },
+  "pwProSound": {
+    "message": "Sound packs"
+  },
+  "priceLine": {
+    "message": "$$99 lifetime · one payment, not a subscription"
+  },
+  "guaranteeLine": {
+    "message": "30-day money-back guarantee. No account, zero tracking."
+  },
+  "startTrialNoCard": {
+    "message": "Start 7-day free trial, no card"
+  },
+  "getProCta": {
+    "message": "Get Pro. $$99 lifetime"
+  },
+  "dashboardTitle": {
+    "message": "Your watches"
+  },
+  "optionsSubtitle": {
+    "message": "Everything Restock Radar is keeping an eye on."
+  },
+  "navWatches": {
+    "message": "Watches"
+  },
+  "navSettings": {
+    "message": "Settings"
+  },
+  "navLicense": {
+    "message": "License"
+  },
+  "emptyTitle": {
+    "message": "No watches yet"
+  },
+  "emptyText": {
+    "message": "Open a product page, click the Restock Radar icon, then hit Watch this page."
+  },
+  "settingsSound": {
+    "message": "Alert sound"
+  },
+  "settingsSoundHint": {
+    "message": "Play a chime when a watched product comes back in stock."
+  },
+  "settingsPack": {
+    "message": "Sound pack"
+  },
+  "settingsPackHint": {
+    "message": "Choose the alert sound. More packs unlock with Pro."
+  },
+  "packDefault": {
+    "message": "Default chime"
+  },
+  "licenseTab": {
+    "message": "License"
+  },
+  "licenseHeading": {
+    "message": "Your plan"
+  },
+  "licenseKeyLabel": {
+    "message": "License key"
+  },
+  "licenseKeyPh": {
+    "message": "ZOVO-XXXX-XXXX-XXXX"
+  },
+  "verify": {
+    "message": "Verify"
+  },
+  "verifying": {
+    "message": "Verifying…"
+  },
+  "verifyOk": {
+    "message": "Pro unlocked. Thank you for supporting Zovo."
+  },
+  "verifyBad": {
+    "message": "That key didn't check out. Check it and try again."
+  },
+  "tierFree": {
+    "message": "Free plan"
+  },
+  "tierTrial": {
+    "message": "Pro trial"
+  },
+  "tierPro": {
+    "message": "Pro"
+  },
+  "trialLeft": {
+    "message": "$DAYS$ days left in your trial",
+    "placeholders": {
+      "days": {
+        "content": "$1",
+        "example": "6"
+      }
+    }
+  },
+  "startTrialCta": {
+    "message": "Start 7-day Pro trial"
+  },
+  "proPitch": {
+    "message": "Unlimited watches, 60-second checks, per-watch speed and sound packs."
+  },
+  "getPro": {
+    "message": "Get Pro. $$99 one-time"
+  },
+  "restoreHint": {
+    "message": "Already bought Pro? Paste your key above and verify."
+  },
+  "pauseAction": {
+    "message": "Pause"
+  },
+  "resumeAction": {
+    "message": "Resume"
+  },
+  "deleteAction": {
+    "message": "Delete"
+  },
+  "openAction": {
+    "message": "Open"
+  },
+  "cadenceColLabel": {
+    "message": "Checks"
+  },
+  "perWatchCadenceHint": {
+    "message": "Per-watch speed is a Pro control."
+  },
+  "lastChecked": {
+    "message": "checked $WHEN$",
+    "placeholders": {
+      "when": {
+        "content": "$1",
+        "example": "2 min ago"
+      }
+    }
+  },
+  "relNever": {
+    "message": "not yet"
+  },
+  "notifTitle": {
+    "message": "Back in stock: $TITLE$",
+    "placeholders": {
+      "title": {
+        "content": "$1",
+        "example": "GPU model"
+      }
+    }
+  },
+  "onbEyebrow": {
+    "message": "Restock Radar"
+  },
+  "onbTitle": {
+    "message": "Watching a product? I'll ping you the second it's back."
+  },
+  "onbTrust": {
+    "message": "Free. No account. No tracking."
+  },
+  "onbStep1t": {
+    "message": "Open the product page"
+  },
+  "onbStep1b": {
+    "message": "Any store, any item that's sold out right now."
+  },
+  "onbStep2t": {
+    "message": "Click Watch this page"
+  },
+  "onbStep2b": {
+    "message": "One tap from the toolbar. No sign-up, no setup screen."
+  },
+  "onbStep3t": {
+    "message": "Get pinged the moment it's back"
+  },
+  "onbStep3b": {
+    "message": "A desktop alert and a chime, even with the tab closed."
+  },
+  "onbCta": {
+    "message": "Watch your first product"
+  },
+  "onbProLine": {
+    "message": "Free for up to 3 watches. Pro unlocks unlimited watches, 60-second checks and sound packs."
+  },
+  "onbGoPro": {
+    "message": "See Pro"
+  },
+  "onbFooter": {
+    "message": "Made by Zovo · zovo.one"
+  },
+  "sbEyebrow": {
+    "message": "Pro"
+  },
+  "sbHeadline": {
+    "message": "Unlock Pro. Pay once, yours forever."
+  },
+  "sbCtaSub": {
+    "message": "One payment, not a subscription · 30-day money-back guarantee"
+  },
+  "sbMore": {
+    "message": "More tools"
+  },
+  "sbMoreLink": {
+    "message": "Browse all tools at zovo.one"
+  },
+  "sbHelp": {
+    "message": "Help"
+  },
+  "sbPrivacy": {
+    "message": "Privacy"
+  }
+}

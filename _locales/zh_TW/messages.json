@@ -1,0 +1,343 @@
+{
+  "extName": {
+    "message": "Restock Radar：補貨到貨提醒",
+    "description": "Extension name, <=75 chars"
+  },
+  "extDesc": {
+    "message": "監看任何商品頁面，一補貨就立即收到桌面提醒。免帳號、零追蹤。",
+    "description": "Extension description, <=132 chars"
+  },
+  "brandName": {
+    "message": "Restock Radar"
+  },
+  "watchThisPage": {
+    "message": "監看此頁面"
+  },
+  "watchAdding": {
+    "message": "加入中…"
+  },
+  "watchingHere": {
+    "message": "正在監看此頁面"
+  },
+  "popupTagline": {
+    "message": "一旦重新可購買，立即收到桌面通知。"
+  },
+  "notProduct": {
+    "message": "這看起來不像商品頁面，但你仍然可以監看它。"
+  },
+  "watching": {
+    "message": "監看中"
+  },
+  "checkingNow": {
+    "message": "正在檢查"
+  },
+  "cadenceFree": {
+    "message": "每 15 分鐘"
+  },
+  "cadencePro": {
+    "message": "每 60 秒"
+  },
+  "cadenceChipLabel": {
+    "message": "檢查頻率"
+  },
+  "statusOut": {
+    "message": "缺貨中 · 監看中"
+  },
+  "statusIn": {
+    "message": "目前有貨"
+  },
+  "statusTriggered": {
+    "message": "已補貨，已暫停"
+  },
+  "statusPaused": {
+    "message": "已暫停"
+  },
+  "statusError": {
+    "message": "無法連線，重試中"
+  },
+  "watchesHere": {
+    "message": "此網站上的監看"
+  },
+  "noWatchesHere": {
+    "message": "此網站尚無監看項目。"
+  },
+  "manageAll": {
+    "message": "管理所有監看"
+  },
+  "pickSoldOut": {
+    "message": "選擇「售完」按鈕"
+  },
+  "permNeeded": {
+    "message": "我需要存取此網站的權限才能監看它。"
+  },
+  "tryAgain": {
+    "message": "再試一次"
+  },
+  "capTitle": {
+    "message": "已監看 3 / 3"
+  },
+  "capBody": {
+    "message": "Pro 可監看無限商品、每 60 秒檢查一次，並新增音效包。"
+  },
+  "watchesNoun": {
+    "message": "監看項目"
+  },
+  "upgrade": {
+    "message": "升級"
+  },
+  "maybeLater": {
+    "message": "稍後再說"
+  },
+  "proLock": {
+    "message": "Pro"
+  },
+  "pwHeadline": {
+    "message": "絕不錯過下一次補貨"
+  },
+  "pwForever": {
+    "message": "一次付款，永久解鎖 Restock Radar Pro。"
+  },
+  "proUnlock1": {
+    "message": "監看無限商品，不再只有 3 個"
+  },
+  "proUnlock2": {
+    "message": "60 秒檢查一次，比免費版快 15 倍"
+  },
+  "proUnlock3": {
+    "message": "個別監看速度控制"
+  },
+  "proUnlock4": {
+    "message": "音效包與個別監看記錄"
+  },
+  "pwCompareHead": {
+    "message": "免費版 vs Pro"
+  },
+  "pwRowWatches": {
+    "message": "使用中的監看"
+  },
+  "pwRowCadence": {
+    "message": "檢查速度"
+  },
+  "pwRowSound": {
+    "message": "提醒音效"
+  },
+  "pwFreeWatches": {
+    "message": "3"
+  },
+  "pwProWatches": {
+    "message": "無限"
+  },
+  "pwFreeCadence": {
+    "message": "15 分鐘"
+  },
+  "pwProCadence": {
+    "message": "60 秒"
+  },
+  "pwFreeSound": {
+    "message": "1 種提示音"
+  },
+  "pwProSound": {
+    "message": "音效包"
+  },
+  "priceLine": {
+    "message": "$$99 終身 · 一次付款，非訂閱制"
+  },
+  "guaranteeLine": {
+    "message": "30 天退款保證。免帳號、零追蹤。"
+  },
+  "startTrialNoCard": {
+    "message": "開始 7 天免費試用，免綁卡"
+  },
+  "getProCta": {
+    "message": "取得 Pro。$$99 終身"
+  },
+  "dashboardTitle": {
+    "message": "你的監看清單"
+  },
+  "optionsSubtitle": {
+    "message": "Restock Radar 正在留意的所有項目。"
+  },
+  "navWatches": {
+    "message": "監看"
+  },
+  "navSettings": {
+    "message": "設定"
+  },
+  "navLicense": {
+    "message": "授權"
+  },
+  "emptyTitle": {
+    "message": "尚無監看項目"
+  },
+  "emptyText": {
+    "message": "開啟商品頁面，點擊 Restock Radar 圖示，然後按下「監看此頁面」。"
+  },
+  "settingsSound": {
+    "message": "提醒音效"
+  },
+  "settingsSoundHint": {
+    "message": "當監看的商品重新有貨時播放提示音。"
+  },
+  "settingsPack": {
+    "message": "音效包"
+  },
+  "settingsPackHint": {
+    "message": "選擇提醒音效。升級 Pro 可解鎖更多音效包。"
+  },
+  "packDefault": {
+    "message": "預設提示音"
+  },
+  "licenseTab": {
+    "message": "授權"
+  },
+  "licenseHeading": {
+    "message": "你的方案"
+  },
+  "licenseKeyLabel": {
+    "message": "授權金鑰"
+  },
+  "licenseKeyPh": {
+    "message": "ZOVO-XXXX-XXXX-XXXX"
+  },
+  "verify": {
+    "message": "驗證"
+  },
+  "verifying": {
+    "message": "驗證中…"
+  },
+  "verifyOk": {
+    "message": "已解鎖 Pro。感謝你支持 Zovo。"
+  },
+  "verifyBad": {
+    "message": "此金鑰驗證失敗。請確認後再試一次。"
+  },
+  "tierFree": {
+    "message": "免費方案"
+  },
+  "tierTrial": {
+    "message": "Pro 試用"
+  },
+  "tierPro": {
+    "message": "Pro"
+  },
+  "trialLeft": {
+    "message": "你的試用還剩 $DAYS$ 天",
+    "placeholders": {
+      "days": {
+        "content": "$1",
+        "example": "6"
+      }
+    }
+  },
+  "startTrialCta": {
+    "message": "開始 7 天 Pro 試用"
+  },
+  "proPitch": {
+    "message": "無限監看、每 60 秒檢查、個別監看速度與音效包。"
+  },
+  "getPro": {
+    "message": "取得 Pro。$$99 一次付清"
+  },
+  "restoreHint": {
+    "message": "已購買 Pro？在上方貼上你的金鑰並驗證。"
+  },
+  "pauseAction": {
+    "message": "暫停"
+  },
+  "resumeAction": {
+    "message": "繼續"
+  },
+  "deleteAction": {
+    "message": "刪除"
+  },
+  "openAction": {
+    "message": "開啟"
+  },
+  "cadenceColLabel": {
+    "message": "檢查頻率"
+  },
+  "perWatchCadenceHint": {
+    "message": "個別監看速度為 Pro 專屬控制。"
+  },
+  "lastChecked": {
+    "message": "已於 $WHEN$ 檢查",
+    "placeholders": {
+      "when": {
+        "content": "$1",
+        "example": "2 min ago"
+      }
+    }
+  },
+  "relNever": {
+    "message": "尚未"
+  },
+  "notifTitle": {
+    "message": "已補貨：$TITLE$",
+    "placeholders": {
+      "title": {
+        "content": "$1",
+        "example": "GPU model"
+      }
+    }
+  },
+  "onbEyebrow": {
+    "message": "Restock Radar"
+  },
+  "onbTitle": {
+    "message": "在監看某個商品嗎？一補貨我就立即通知你。"
+  },
+  "onbTrust": {
+    "message": "免費。免帳號。零追蹤。"
+  },
+  "onbStep1t": {
+    "message": "開啟商品頁面"
+  },
+  "onbStep1b": {
+    "message": "任何商店、任何目前售完的商品。"
+  },
+  "onbStep2t": {
+    "message": "點擊「監看此頁面」"
+  },
+  "onbStep2b": {
+    "message": "從工具列一鍵完成。免註冊、免設定畫面。"
+  },
+  "onbStep3t": {
+    "message": "一補貨立即收到通知"
+  },
+  "onbStep3b": {
+    "message": "桌面提醒加上提示音，即使關閉分頁也有效。"
+  },
+  "onbCta": {
+    "message": "監看你的第一項商品"
+  },
+  "onbProLine": {
+    "message": "免費最多監看 3 項。Pro 解鎖無限監看、60 秒檢查與音效包。"
+  },
+  "onbGoPro": {
+    "message": "查看 Pro"
+  },
+  "onbFooter": {
+    "message": "由 Zovo 製作 · zovo.one"
+  },
+  "sbEyebrow": {
+    "message": "Pro"
+  },
+  "sbHeadline": {
+    "message": "解鎖 Pro。付款一次，永久擁有。"
+  },
+  "sbCtaSub": {
+    "message": "一次付款，非訂閱制 · 30 天退款保證"
+  },
+  "sbMore": {
+    "message": "更多工具"
+  },
+  "sbMoreLink": {
+    "message": "在 zovo.one 瀏覽所有工具"
+  },
+  "sbHelp": {
+    "message": "說明"
+  },
+  "sbPrivacy": {
+    "message": "隱私權"
+  }
+}

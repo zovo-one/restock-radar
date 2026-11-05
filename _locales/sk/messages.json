@@ -1,0 +1,343 @@
+{
+  "extName": {
+    "message": "Restock Radar. Upozornenia na naskladnenie",
+    "description": "Extension name, <=75 chars"
+  },
+  "extDesc": {
+    "message": "Sledujte stránku produktu a dostanete upozornenie hneď, ako sa naskladní. Bez účtu, bez sledovania.",
+    "description": "Extension description, <=132 chars"
+  },
+  "brandName": {
+    "message": "Restock Radar"
+  },
+  "watchThisPage": {
+    "message": "Sledovať túto stránku"
+  },
+  "watchAdding": {
+    "message": "Pridáva sa…"
+  },
+  "watchingHere": {
+    "message": "Sledujem túto stránku"
+  },
+  "popupTagline": {
+    "message": "Dostanete upozornenie hneď, ako sa dá znova kúpiť."
+  },
+  "notProduct": {
+    "message": "Toto nevyzerá ako stránka produktu, ale aj tak ju môžete sledovať."
+  },
+  "watching": {
+    "message": "Sleduje sa"
+  },
+  "checkingNow": {
+    "message": "kontroluje sa"
+  },
+  "cadenceFree": {
+    "message": "každých 15 min"
+  },
+  "cadencePro": {
+    "message": "každých 60 s"
+  },
+  "cadenceChipLabel": {
+    "message": "Kontroly"
+  },
+  "statusOut": {
+    "message": "vypredané · sleduje sa"
+  },
+  "statusIn": {
+    "message": "už skladom"
+  },
+  "statusTriggered": {
+    "message": "opäť skladom, pozastavené"
+  },
+  "statusPaused": {
+    "message": "pozastavené"
+  },
+  "statusError": {
+    "message": "nedostupné, skúšam znova"
+  },
+  "watchesHere": {
+    "message": "Sledované na tejto stránke"
+  },
+  "noWatchesHere": {
+    "message": "Zatiaľ žiadne sledovania na tejto stránke."
+  },
+  "manageAll": {
+    "message": "Spravovať všetky sledovania"
+  },
+  "pickSoldOut": {
+    "message": "Vyberte tlačidlo Vypredané"
+  },
+  "permNeeded": {
+    "message": "Na sledovanie tejto stránky potrebujem prístup."
+  },
+  "tryAgain": {
+    "message": "Skúsiť znova"
+  },
+  "capTitle": {
+    "message": "Sledujem 3 z 3"
+  },
+  "capBody": {
+    "message": "Pro sleduje neobmedzený počet produktov, kontroluje každých 60 s a pridáva zvukové balíky."
+  },
+  "watchesNoun": {
+    "message": "sledovania"
+  },
+  "upgrade": {
+    "message": "Prejsť na vyššiu verziu"
+  },
+  "maybeLater": {
+    "message": "Možno neskôr"
+  },
+  "proLock": {
+    "message": "Pro"
+  },
+  "pwHeadline": {
+    "message": "Nezmeškajte ďalšie naskladnenie"
+  },
+  "pwForever": {
+    "message": "Jedna platba odomkne Restock Radar Pro navždy."
+  },
+  "proUnlock1": {
+    "message": "Sledujte neobmedzený počet produktov, nielen 3"
+  },
+  "proUnlock2": {
+    "message": "60-sekundové kontroly, 15× rýchlejšie ako zadarmo"
+  },
+  "proUnlock3": {
+    "message": "Nastavenie rýchlosti pre každé sledovanie"
+  },
+  "proUnlock4": {
+    "message": "Zvukové balíky a história pre každé sledovanie"
+  },
+  "pwCompareHead": {
+    "message": "Zadarmo vs Pro"
+  },
+  "pwRowWatches": {
+    "message": "Aktívne sledovania"
+  },
+  "pwRowCadence": {
+    "message": "Rýchlosť kontroly"
+  },
+  "pwRowSound": {
+    "message": "Zvuky upozornení"
+  },
+  "pwFreeWatches": {
+    "message": "3"
+  },
+  "pwProWatches": {
+    "message": "Neobmedzene"
+  },
+  "pwFreeCadence": {
+    "message": "15 min"
+  },
+  "pwProCadence": {
+    "message": "60 s"
+  },
+  "pwFreeSound": {
+    "message": "1 zvuk"
+  },
+  "pwProSound": {
+    "message": "Zvukové balíky"
+  },
+  "priceLine": {
+    "message": "$$99 doživotne · jedna platba, nie predplatné"
+  },
+  "guaranteeLine": {
+    "message": "30-dňová záruka vrátenia peňazí. Bez účtu, žiadne sledovanie."
+  },
+  "startTrialNoCard": {
+    "message": "Spustiť 7-dňovú skúšku zadarmo, bez karty"
+  },
+  "getProCta": {
+    "message": "Získať Pro. $$99 doživotne"
+  },
+  "dashboardTitle": {
+    "message": "Vaše sledovania"
+  },
+  "optionsSubtitle": {
+    "message": "Všetko, na čo Restock Radar dáva pozor."
+  },
+  "navWatches": {
+    "message": "Sledovania"
+  },
+  "navSettings": {
+    "message": "Nastavenia"
+  },
+  "navLicense": {
+    "message": "Licencia"
+  },
+  "emptyTitle": {
+    "message": "Zatiaľ žiadne sledovania"
+  },
+  "emptyText": {
+    "message": "Otvorte stránku produktu, kliknite na ikonu Restock Radar a stlačte Sledovať túto stránku."
+  },
+  "settingsSound": {
+    "message": "Zvuk upozornenia"
+  },
+  "settingsSoundHint": {
+    "message": "Prehrať zvuk, keď sa sledovaný produkt opäť naskladní."
+  },
+  "settingsPack": {
+    "message": "Zvukový balík"
+  },
+  "settingsPackHint": {
+    "message": "Vyberte zvuk upozornenia. Ďalšie balíky odomkne Pro."
+  },
+  "packDefault": {
+    "message": "Predvolený zvuk"
+  },
+  "licenseTab": {
+    "message": "Licencia"
+  },
+  "licenseHeading": {
+    "message": "Váš plán"
+  },
+  "licenseKeyLabel": {
+    "message": "Licenčný kľúč"
+  },
+  "licenseKeyPh": {
+    "message": "ZOVO-XXXX-XXXX-XXXX"
+  },
+  "verify": {
+    "message": "Overiť"
+  },
+  "verifying": {
+    "message": "Overuje sa…"
+  },
+  "verifyOk": {
+    "message": "Pro odomknuté. Ďakujeme, že podporujete Zovo."
+  },
+  "verifyBad": {
+    "message": "Tento kľúč sa nepodarilo overiť. Skontrolujte ho a skúste znova."
+  },
+  "tierFree": {
+    "message": "Plán zadarmo"
+  },
+  "tierTrial": {
+    "message": "Skúšobná verzia Pro"
+  },
+  "tierPro": {
+    "message": "Pro"
+  },
+  "trialLeft": {
+    "message": "Do konca skúšky zostáva $DAYS$ dní",
+    "placeholders": {
+      "days": {
+        "content": "$1",
+        "example": "6"
+      }
+    }
+  },
+  "startTrialCta": {
+    "message": "Spustiť 7-dňovú skúšku Pro"
+  },
+  "proPitch": {
+    "message": "Neobmedzené sledovania, 60-sekundové kontroly, rýchlosť pre každé sledovanie a zvukové balíky."
+  },
+  "getPro": {
+    "message": "Získať Pro. $$99 jednorazovo"
+  },
+  "restoreHint": {
+    "message": "Už ste si kúpili Pro? Vložte kľúč vyššie a overte ho."
+  },
+  "pauseAction": {
+    "message": "Pozastaviť"
+  },
+  "resumeAction": {
+    "message": "Obnoviť"
+  },
+  "deleteAction": {
+    "message": "Odstrániť"
+  },
+  "openAction": {
+    "message": "Otvoriť"
+  },
+  "cadenceColLabel": {
+    "message": "Kontroly"
+  },
+  "perWatchCadenceHint": {
+    "message": "Rýchlosť pre každé sledovanie je funkcia Pro."
+  },
+  "lastChecked": {
+    "message": "skontrolované $WHEN$",
+    "placeholders": {
+      "when": {
+        "content": "$1",
+        "example": "2 min ago"
+      }
+    }
+  },
+  "relNever": {
+    "message": "zatiaľ nie"
+  },
+  "notifTitle": {
+    "message": "Opäť skladom: $TITLE$",
+    "placeholders": {
+      "title": {
+        "content": "$1",
+        "example": "GPU model"
+      }
+    }
+  },
+  "onbEyebrow": {
+    "message": "Restock Radar"
+  },
+  "onbTitle": {
+    "message": "Sledujete produkt? Upozorním vás hneď, ako bude opäť dostupný."
+  },
+  "onbTrust": {
+    "message": "Zadarmo. Bez účtu. Bez sledovania."
+  },
+  "onbStep1t": {
+    "message": "Otvorte stránku produktu"
+  },
+  "onbStep1b": {
+    "message": "Ľubovoľný obchod, ľubovoľná položka, ktorá je práve vypredaná."
+  },
+  "onbStep2t": {
+    "message": "Kliknite na Sledovať túto stránku"
+  },
+  "onbStep2b": {
+    "message": "Jedno klepnutie z panela nástrojov. Bez registrácie, bez nastavovania."
+  },
+  "onbStep3t": {
+    "message": "Dostanete upozornenie hneď, ako bude opäť dostupný"
+  },
+  "onbStep3b": {
+    "message": "Upozornenie na pracovnej ploche a zvuk, aj keď je karta zatvorená."
+  },
+  "onbCta": {
+    "message": "Sledujte svoj prvý produkt"
+  },
+  "onbProLine": {
+    "message": "Zadarmo až pre 3 sledovania. Pro odomkne neobmedzené sledovania, 60-sekundové kontroly a zvukové balíky."
+  },
+  "onbGoPro": {
+    "message": "Zobraziť Pro"
+  },
+  "onbFooter": {
+    "message": "Vytvorilo Zovo · zovo.one"
+  },
+  "sbEyebrow": {
+    "message": "Pro"
+  },
+  "sbHeadline": {
+    "message": "Odomknite Pro. Zaplaťte raz, vaše navždy."
+  },
+  "sbCtaSub": {
+    "message": "Jedna platba, nie predplatné · 30-dňová záruka vrátenia peňazí"
+  },
+  "sbMore": {
+    "message": "Ďalšie nástroje"
+  },
+  "sbMoreLink": {
+    "message": "Prezrite si všetky nástroje na zovo.one"
+  },
+  "sbHelp": {
+    "message": "Pomoc"
+  },
+  "sbPrivacy": {
+    "message": "Súkromie"
+  }
+}

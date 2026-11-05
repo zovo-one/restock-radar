@@ -1,0 +1,343 @@
+{
+  "extName": {
+    "message": "Restock Radar. هشدار بازگشت به موجودی",
+    "description": "Extension name, <=75 chars"
+  },
+  "extDesc": {
+    "message": "هر صفحه محصولی را زیر نظر بگیرید و لحظه‌ای که دوباره موجود شد هشدار دسکتاپ بگیرید. بدون حساب، بدون ردیابی.",
+    "description": "Extension description, <=132 chars"
+  },
+  "brandName": {
+    "message": "Restock Radar"
+  },
+  "watchThisPage": {
+    "message": "زیر نظر گرفتن این صفحه"
+  },
+  "watchAdding": {
+    "message": "در حال افزودن…"
+  },
+  "watchingHere": {
+    "message": "این صفحه زیر نظر است"
+  },
+  "popupTagline": {
+    "message": "لحظه‌ای که دوباره قابل خرید شد، یک هشدار دسکتاپ بگیرید."
+  },
+  "notProduct": {
+    "message": "این به نظر یک صفحه محصول نمی‌رسد، اما باز هم می‌توانید آن را زیر نظر بگیرید."
+  },
+  "watching": {
+    "message": "در حال رصد"
+  },
+  "checkingNow": {
+    "message": "در حال بررسی"
+  },
+  "cadenceFree": {
+    "message": "هر ۱۵ دقیقه"
+  },
+  "cadencePro": {
+    "message": "هر ۶۰ ثانیه"
+  },
+  "cadenceChipLabel": {
+    "message": "بررسی‌ها"
+  },
+  "statusOut": {
+    "message": "ناموجود · در حال رصد"
+  },
+  "statusIn": {
+    "message": "هم‌اکنون موجود است"
+  },
+  "statusTriggered": {
+    "message": "دوباره موجود شد، متوقف شد"
+  },
+  "statusPaused": {
+    "message": "متوقف شده"
+  },
+  "statusError": {
+    "message": "دسترسی ممکن نشد، تلاش مجدد"
+  },
+  "watchesHere": {
+    "message": "در حال رصد در این سایت"
+  },
+  "noWatchesHere": {
+    "message": "هنوز هیچ موردی در این سایت زیر نظر نیست."
+  },
+  "manageAll": {
+    "message": "مدیریت همه رصدها"
+  },
+  "pickSoldOut": {
+    "message": "دکمه «ناموجود» را انتخاب کنید"
+  },
+  "permNeeded": {
+    "message": "برای رصد این سایت به دسترسی نیاز دارم."
+  },
+  "tryAgain": {
+    "message": "تلاش مجدد"
+  },
+  "capTitle": {
+    "message": "رصد ۳ از ۳"
+  },
+  "capBody": {
+    "message": "Pro تعداد نامحدود محصول را رصد می‌کند، هر ۶۰ ثانیه بررسی می‌کند و بسته‌های صوتی اضافه می‌کند."
+  },
+  "watchesNoun": {
+    "message": "رصد"
+  },
+  "upgrade": {
+    "message": "ارتقا"
+  },
+  "maybeLater": {
+    "message": "شاید بعداً"
+  },
+  "proLock": {
+    "message": "Pro"
+  },
+  "pwHeadline": {
+    "message": "دیگر هیچ بازگشت موجودی را از دست ندهید"
+  },
+  "pwForever": {
+    "message": "یک پرداخت، Restock Radar Pro را برای همیشه باز می‌کند."
+  },
+  "proUnlock1": {
+    "message": "رصد تعداد نامحدود محصول، نه فقط ۳ مورد"
+  },
+  "proUnlock2": {
+    "message": "بررسی‌های ۶۰ ثانیه‌ای، ۱۵ برابر سریع‌تر از نسخه رایگان"
+  },
+  "proUnlock3": {
+    "message": "کنترل سرعت برای هر رصد"
+  },
+  "proUnlock4": {
+    "message": "بسته‌های صوتی و تاریخچه برای هر رصد"
+  },
+  "pwCompareHead": {
+    "message": "رایگان در برابر Pro"
+  },
+  "pwRowWatches": {
+    "message": "رصدهای فعال"
+  },
+  "pwRowCadence": {
+    "message": "سرعت بررسی"
+  },
+  "pwRowSound": {
+    "message": "صداهای هشدار"
+  },
+  "pwFreeWatches": {
+    "message": "۳"
+  },
+  "pwProWatches": {
+    "message": "نامحدود"
+  },
+  "pwFreeCadence": {
+    "message": "۱۵ دقیقه"
+  },
+  "pwProCadence": {
+    "message": "۶۰ ثانیه"
+  },
+  "pwFreeSound": {
+    "message": "۱ زنگ"
+  },
+  "pwProSound": {
+    "message": "بسته‌های صوتی"
+  },
+  "priceLine": {
+    "message": "$$99 مادام‌العمر · یک پرداخت، نه اشتراک"
+  },
+  "guaranteeLine": {
+    "message": "ضمانت بازگشت وجه تا ۳۰ روز. بدون حساب، بدون هیچ ردیابی."
+  },
+  "startTrialNoCard": {
+    "message": "شروع نسخه آزمایشی ۷ روزه رایگان، بدون کارت"
+  },
+  "getProCta": {
+    "message": "تهیه Pro. $$99 مادام‌العمر"
+  },
+  "dashboardTitle": {
+    "message": "رصدهای شما"
+  },
+  "optionsSubtitle": {
+    "message": "هر چیزی که Restock Radar در حال رصد آن است."
+  },
+  "navWatches": {
+    "message": "رصدها"
+  },
+  "navSettings": {
+    "message": "تنظیمات"
+  },
+  "navLicense": {
+    "message": "مجوز"
+  },
+  "emptyTitle": {
+    "message": "هنوز هیچ رصدی نیست"
+  },
+  "emptyText": {
+    "message": "یک صفحه محصول را باز کنید، روی نماد Restock Radar کلیک کنید، سپس «زیر نظر گرفتن این صفحه» را بزنید."
+  },
+  "settingsSound": {
+    "message": "صدای هشدار"
+  },
+  "settingsSoundHint": {
+    "message": "هنگامی که محصول رصدشده دوباره موجود شد، یک زنگ پخش کن."
+  },
+  "settingsPack": {
+    "message": "بسته صوتی"
+  },
+  "settingsPackHint": {
+    "message": "صدای هشدار را انتخاب کنید. بسته‌های بیشتر با Pro باز می‌شوند."
+  },
+  "packDefault": {
+    "message": "زنگ پیش‌فرض"
+  },
+  "licenseTab": {
+    "message": "مجوز"
+  },
+  "licenseHeading": {
+    "message": "طرح شما"
+  },
+  "licenseKeyLabel": {
+    "message": "کلید مجوز"
+  },
+  "licenseKeyPh": {
+    "message": "ZOVO-XXXX-XXXX-XXXX"
+  },
+  "verify": {
+    "message": "تأیید"
+  },
+  "verifying": {
+    "message": "در حال تأیید…"
+  },
+  "verifyOk": {
+    "message": "Pro باز شد. از حمایت شما از Zovo سپاسگزاریم."
+  },
+  "verifyBad": {
+    "message": "آن کلید تأیید نشد. آن را بررسی کنید و دوباره تلاش کنید."
+  },
+  "tierFree": {
+    "message": "طرح رایگان"
+  },
+  "tierTrial": {
+    "message": "نسخه آزمایشی Pro"
+  },
+  "tierPro": {
+    "message": "Pro"
+  },
+  "trialLeft": {
+    "message": "$DAYS$ روز تا پایان نسخه آزمایشی شما باقی مانده",
+    "placeholders": {
+      "days": {
+        "content": "$1",
+        "example": "6"
+      }
+    }
+  },
+  "startTrialCta": {
+    "message": "شروع نسخه آزمایشی ۷ روزه Pro"
+  },
+  "proPitch": {
+    "message": "رصدهای نامحدود، بررسی‌های ۶۰ ثانیه‌ای، کنترل سرعت برای هر رصد و بسته‌های صوتی."
+  },
+  "getPro": {
+    "message": "تهیه Pro. $$99 یک‌بار پرداخت"
+  },
+  "restoreHint": {
+    "message": "قبلاً Pro را خریده‌اید؟ کلید خود را در بالا بچسبانید و تأیید کنید."
+  },
+  "pauseAction": {
+    "message": "توقف"
+  },
+  "resumeAction": {
+    "message": "ادامه"
+  },
+  "deleteAction": {
+    "message": "حذف"
+  },
+  "openAction": {
+    "message": "باز کردن"
+  },
+  "cadenceColLabel": {
+    "message": "بررسی‌ها"
+  },
+  "perWatchCadenceHint": {
+    "message": "کنترل سرعت برای هر رصد یک قابلیت Pro است."
+  },
+  "lastChecked": {
+    "message": "بررسی‌شده $WHEN$",
+    "placeholders": {
+      "when": {
+        "content": "$1",
+        "example": "2 min ago"
+      }
+    }
+  },
+  "relNever": {
+    "message": "هنوز نه"
+  },
+  "notifTitle": {
+    "message": "دوباره موجود شد: $TITLE$",
+    "placeholders": {
+      "title": {
+        "content": "$1",
+        "example": "GPU model"
+      }
+    }
+  },
+  "onbEyebrow": {
+    "message": "Restock Radar"
+  },
+  "onbTitle": {
+    "message": "محصولی را رصد می‌کنید؟ لحظه‌ای که دوباره موجود شد به شما اطلاع می‌دهم."
+  },
+  "onbTrust": {
+    "message": "رایگان. بدون حساب. بدون ردیابی."
+  },
+  "onbStep1t": {
+    "message": "صفحه محصول را باز کنید"
+  },
+  "onbStep1b": {
+    "message": "هر فروشگاهی، هر کالایی که همین حالا ناموجود است."
+  },
+  "onbStep2t": {
+    "message": "روی «زیر نظر گرفتن این صفحه» کلیک کنید"
+  },
+  "onbStep2b": {
+    "message": "یک ضربه از نوار ابزار. بدون ثبت‌نام، بدون صفحه راه‌اندازی."
+  },
+  "onbStep3t": {
+    "message": "لحظه‌ای که دوباره موجود شد به شما اطلاع داده می‌شود"
+  },
+  "onbStep3b": {
+    "message": "یک هشدار دسکتاپ و یک زنگ، حتی وقتی تب بسته است."
+  },
+  "onbCta": {
+    "message": "اولین محصول خود را رصد کنید"
+  },
+  "onbProLine": {
+    "message": "رایگان برای حداکثر ۳ رصد. Pro رصدهای نامحدود، بررسی‌های ۶۰ ثانیه‌ای و بسته‌های صوتی را باز می‌کند."
+  },
+  "onbGoPro": {
+    "message": "مشاهده Pro"
+  },
+  "onbFooter": {
+    "message": "ساخته Zovo · zovo.one"
+  },
+  "sbEyebrow": {
+    "message": "Pro"
+  },
+  "sbHeadline": {
+    "message": "Pro را باز کنید. یک‌بار بپردازید، برای همیشه مال شما."
+  },
+  "sbCtaSub": {
+    "message": "یک پرداخت، نه اشتراک · ضمانت بازگشت وجه تا ۳۰ روز"
+  },
+  "sbMore": {
+    "message": "ابزارهای بیشتر"
+  },
+  "sbMoreLink": {
+    "message": "مرور همه ابزارها در zovo.one"
+  },
+  "sbHelp": {
+    "message": "راهنما"
+  },
+  "sbPrivacy": {
+    "message": "حریم خصوصی"
+  }
+}

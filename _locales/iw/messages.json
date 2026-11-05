@@ -1,0 +1,343 @@
+{
+  "extName": {
+    "message": "Restock Radar. התראות על חזרה למלאי",
+    "description": "Extension name, <=75 chars"
+  },
+  "extDesc": {
+    "message": "עקבו אחר כל דף מוצר וקבלו התראת שולחן עבודה ברגע שהוא חוזר למלאי. בלי חשבון, בלי מעקב.",
+    "description": "Extension description, <=132 chars"
+  },
+  "brandName": {
+    "message": "Restock Radar"
+  },
+  "watchThisPage": {
+    "message": "עקבו אחר הדף הזה"
+  },
+  "watchAdding": {
+    "message": "מוסיף…"
+  },
+  "watchingHere": {
+    "message": "עוקב אחר הדף הזה"
+  },
+  "popupTagline": {
+    "message": "קבלו התראת שולחן עבודה ברגע שאפשר לקנות שוב."
+  },
+  "notProduct": {
+    "message": "זה לא נראה כמו דף מוצר, אבל עדיין אפשר לעקוב אחריו."
+  },
+  "watching": {
+    "message": "עוקב"
+  },
+  "checkingNow": {
+    "message": "בודק עכשיו"
+  },
+  "cadenceFree": {
+    "message": "כל 15 דקות"
+  },
+  "cadencePro": {
+    "message": "כל 60 שנ'"
+  },
+  "cadenceChipLabel": {
+    "message": "בדיקות"
+  },
+  "statusOut": {
+    "message": "אזל מהמלאי · עוקב"
+  },
+  "statusIn": {
+    "message": "כבר במלאי"
+  },
+  "statusTriggered": {
+    "message": "חזר למלאי, הושהה"
+  },
+  "statusPaused": {
+    "message": "הושהה"
+  },
+  "statusError": {
+    "message": "אין גישה, מנסה שוב"
+  },
+  "watchesHere": {
+    "message": "מעקב באתר הזה"
+  },
+  "noWatchesHere": {
+    "message": "עדיין אין מעקבים באתר הזה."
+  },
+  "manageAll": {
+    "message": "ניהול כל המעקבים"
+  },
+  "pickSoldOut": {
+    "message": "בחרו את כפתור 'אזל מהמלאי'"
+  },
+  "permNeeded": {
+    "message": "אני צריך גישה לאתר הזה כדי לעקוב אחריו."
+  },
+  "tryAgain": {
+    "message": "נסו שוב"
+  },
+  "capTitle": {
+    "message": "עוקב אחר 3 מתוך 3"
+  },
+  "capBody": {
+    "message": "Pro עוקב אחר מוצרים ללא הגבלה, בודק כל 60 שנ' ומוסיף חבילות צלילים."
+  },
+  "watchesNoun": {
+    "message": "מעקבים"
+  },
+  "upgrade": {
+    "message": "שדרוג"
+  },
+  "maybeLater": {
+    "message": "אולי מאוחר יותר"
+  },
+  "proLock": {
+    "message": "Pro"
+  },
+  "pwHeadline": {
+    "message": "אל תפספסו את החזרה הבאה למלאי"
+  },
+  "pwForever": {
+    "message": "תשלום אחד פותח את Restock Radar Pro לתמיד."
+  },
+  "proUnlock1": {
+    "message": "עקבו אחר מוצרים ללא הגבלה, לא רק 3"
+  },
+  "proUnlock2": {
+    "message": "בדיקות של 60 שניות, מהיר פי 15 מהחינמי"
+  },
+  "proUnlock3": {
+    "message": "בקרת מהירות לכל מעקב"
+  },
+  "proUnlock4": {
+    "message": "חבילות צלילים והיסטוריה לכל מעקב"
+  },
+  "pwCompareHead": {
+    "message": "חינמי מול Pro"
+  },
+  "pwRowWatches": {
+    "message": "מעקבים פעילים"
+  },
+  "pwRowCadence": {
+    "message": "מהירות בדיקה"
+  },
+  "pwRowSound": {
+    "message": "צלילי התראה"
+  },
+  "pwFreeWatches": {
+    "message": "3"
+  },
+  "pwProWatches": {
+    "message": "ללא הגבלה"
+  },
+  "pwFreeCadence": {
+    "message": "15 דקות"
+  },
+  "pwProCadence": {
+    "message": "60 שנ'"
+  },
+  "pwFreeSound": {
+    "message": "צליל אחד"
+  },
+  "pwProSound": {
+    "message": "חבילות צלילים"
+  },
+  "priceLine": {
+    "message": "$$99 לכל החיים · תשלום אחד, לא מנוי"
+  },
+  "guaranteeLine": {
+    "message": "אחריות להחזר כספי תוך 30 יום. בלי חשבון, אפס מעקב."
+  },
+  "startTrialNoCard": {
+    "message": "התחילו ניסיון חינם ל-7 ימים, בלי כרטיס"
+  },
+  "getProCta": {
+    "message": "קבלו Pro. $$99 לכל החיים"
+  },
+  "dashboardTitle": {
+    "message": "המעקבים שלכם"
+  },
+  "optionsSubtitle": {
+    "message": "כל מה ש-Restock Radar שומר עליו."
+  },
+  "navWatches": {
+    "message": "מעקבים"
+  },
+  "navSettings": {
+    "message": "הגדרות"
+  },
+  "navLicense": {
+    "message": "רישיון"
+  },
+  "emptyTitle": {
+    "message": "עדיין אין מעקבים"
+  },
+  "emptyText": {
+    "message": "פתחו דף מוצר, לחצו על סמל Restock Radar, ואז לחצו על 'עקבו אחר הדף הזה'."
+  },
+  "settingsSound": {
+    "message": "צליל התראה"
+  },
+  "settingsSoundHint": {
+    "message": "השמיעו צליל כשמוצר במעקב חוזר למלאי."
+  },
+  "settingsPack": {
+    "message": "חבילת צלילים"
+  },
+  "settingsPackHint": {
+    "message": "בחרו את צליל ההתראה. חבילות נוספות נפתחות עם Pro."
+  },
+  "packDefault": {
+    "message": "צליל ברירת מחדל"
+  },
+  "licenseTab": {
+    "message": "רישיון"
+  },
+  "licenseHeading": {
+    "message": "התוכנית שלכם"
+  },
+  "licenseKeyLabel": {
+    "message": "מפתח רישיון"
+  },
+  "licenseKeyPh": {
+    "message": "ZOVO-XXXX-XXXX-XXXX"
+  },
+  "verify": {
+    "message": "אימות"
+  },
+  "verifying": {
+    "message": "מאמת…"
+  },
+  "verifyOk": {
+    "message": "Pro נפתח. תודה שאתם תומכים ב-Zovo."
+  },
+  "verifyBad": {
+    "message": "המפתח הזה לא אומת. בדקו אותו ונסו שוב."
+  },
+  "tierFree": {
+    "message": "תוכנית חינמית"
+  },
+  "tierTrial": {
+    "message": "ניסיון Pro"
+  },
+  "tierPro": {
+    "message": "Pro"
+  },
+  "trialLeft": {
+    "message": "נותרו $DAYS$ ימים בניסיון שלכם",
+    "placeholders": {
+      "days": {
+        "content": "$1",
+        "example": "6"
+      }
+    }
+  },
+  "startTrialCta": {
+    "message": "התחילו ניסיון Pro ל-7 ימים"
+  },
+  "proPitch": {
+    "message": "מעקבים ללא הגבלה, בדיקות של 60 שנ', מהירות לכל מעקב וחבילות צלילים."
+  },
+  "getPro": {
+    "message": "קבלו Pro. $$99 חד-פעמי"
+  },
+  "restoreHint": {
+    "message": "כבר קניתם Pro? הדביקו את המפתח למעלה ואמתו."
+  },
+  "pauseAction": {
+    "message": "השהיה"
+  },
+  "resumeAction": {
+    "message": "המשך"
+  },
+  "deleteAction": {
+    "message": "מחיקה"
+  },
+  "openAction": {
+    "message": "פתיחה"
+  },
+  "cadenceColLabel": {
+    "message": "בדיקות"
+  },
+  "perWatchCadenceHint": {
+    "message": "מהירות לכל מעקב היא בקרת Pro."
+  },
+  "lastChecked": {
+    "message": "נבדק $WHEN$",
+    "placeholders": {
+      "when": {
+        "content": "$1",
+        "example": "2 min ago"
+      }
+    }
+  },
+  "relNever": {
+    "message": "עדיין לא"
+  },
+  "notifTitle": {
+    "message": "חזר למלאי: $TITLE$",
+    "placeholders": {
+      "title": {
+        "content": "$1",
+        "example": "GPU model"
+      }
+    }
+  },
+  "onbEyebrow": {
+    "message": "Restock Radar"
+  },
+  "onbTitle": {
+    "message": "עוקבים אחר מוצר? אודיע לכם ברגע שהוא חוזר."
+  },
+  "onbTrust": {
+    "message": "חינם. בלי חשבון. בלי מעקב."
+  },
+  "onbStep1t": {
+    "message": "פתחו את דף המוצר"
+  },
+  "onbStep1b": {
+    "message": "כל חנות, כל פריט שאזל מהמלאי כרגע."
+  },
+  "onbStep2t": {
+    "message": "לחצו על 'עקבו אחר הדף הזה'"
+  },
+  "onbStep2b": {
+    "message": "לחיצה אחת מסרגל הכלים. בלי הרשמה, בלי מסך הגדרות."
+  },
+  "onbStep3t": {
+    "message": "קבלו התראה ברגע שהוא חוזר"
+  },
+  "onbStep3b": {
+    "message": "התראת שולחן עבודה וצליל, גם כשהכרטיסייה סגורה."
+  },
+  "onbCta": {
+    "message": "עקבו אחר המוצר הראשון שלכם"
+  },
+  "onbProLine": {
+    "message": "חינם עד 3 מעקבים. Pro פותח מעקבים ללא הגבלה, בדיקות של 60 שנ' וחבילות צלילים."
+  },
+  "onbGoPro": {
+    "message": "צפו ב-Pro"
+  },
+  "onbFooter": {
+    "message": "נוצר על ידי Zovo · zovo.one"
+  },
+  "sbEyebrow": {
+    "message": "Pro"
+  },
+  "sbHeadline": {
+    "message": "פתחו את Pro. שלמו פעם אחת, שלכם לתמיד."
+  },
+  "sbCtaSub": {
+    "message": "תשלום אחד, לא מנוי · אחריות להחזר כספי תוך 30 יום"
+  },
+  "sbMore": {
+    "message": "עוד כלים"
+  },
+  "sbMoreLink": {
+    "message": "עיינו בכל הכלים ב-zovo.one"
+  },
+  "sbHelp": {
+    "message": "עזרה"
+  },
+  "sbPrivacy": {
+    "message": "פרטיות"
+  }
+}

@@ -1,0 +1,343 @@
+{
+  "extName": {
+    "message": "Restock Radar. Обавештења о враћању залиха",
+    "description": "Extension name, <=75 chars"
+  },
+  "extDesc": {
+    "message": "Пратите било коју страницу производа и добијте обавештење чим се врати на залихе. Без налога, без праћења.",
+    "description": "Extension description, <=132 chars"
+  },
+  "brandName": {
+    "message": "Restock Radar"
+  },
+  "watchThisPage": {
+    "message": "Прати ову страницу"
+  },
+  "watchAdding": {
+    "message": "Додавање…"
+  },
+  "watchingHere": {
+    "message": "Пратим ову страницу"
+  },
+  "popupTagline": {
+    "message": "Добијте обавештење на радној површини чим поново буде доступан за куповину."
+  },
+  "notProduct": {
+    "message": "Ово не изгледа као страница производа, али ипак можете да је пратите."
+  },
+  "watching": {
+    "message": "Праћење"
+  },
+  "checkingNow": {
+    "message": "проверавам сада"
+  },
+  "cadenceFree": {
+    "message": "сваких 15 мин"
+  },
+  "cadencePro": {
+    "message": "сваких 60 с"
+  },
+  "cadenceChipLabel": {
+    "message": "Провере"
+  },
+  "statusOut": {
+    "message": "нема на залихама · праћење"
+  },
+  "statusIn": {
+    "message": "већ на залихама"
+  },
+  "statusTriggered": {
+    "message": "враћено на залихе, паузирано"
+  },
+  "statusPaused": {
+    "message": "паузирано"
+  },
+  "statusError": {
+    "message": "недоступно, покушавам поново"
+  },
+  "watchesHere": {
+    "message": "Праћење на овом сајту"
+  },
+  "noWatchesHere": {
+    "message": "Још нема праћења на овом сајту."
+  },
+  "manageAll": {
+    "message": "Управљај свим праћењима"
+  },
+  "pickSoldOut": {
+    "message": "Изаберите дугме „Распродато“"
+  },
+  "permNeeded": {
+    "message": "Потребан ми је приступ овом сајту да бих га пратио."
+  },
+  "tryAgain": {
+    "message": "Покушај поново"
+  },
+  "capTitle": {
+    "message": "Праћење 3 од 3"
+  },
+  "capBody": {
+    "message": "Pro прати неограничено производа, проверава сваких 60 с и додаје звучне пакете."
+  },
+  "watchesNoun": {
+    "message": "праћења"
+  },
+  "upgrade": {
+    "message": "Надогради"
+  },
+  "maybeLater": {
+    "message": "Можда касније"
+  },
+  "proLock": {
+    "message": "Pro"
+  },
+  "pwHeadline": {
+    "message": "Не пропустите следеће допуњавање залиха"
+  },
+  "pwForever": {
+    "message": "Једна уплата заувек откључава Restock Radar Pro."
+  },
+  "proUnlock1": {
+    "message": "Пратите неограничено производа, не само 3"
+  },
+  "proUnlock2": {
+    "message": "Провере на 60 секунди, 15× брже од бесплатне верзије"
+  },
+  "proUnlock3": {
+    "message": "Контрола брзине по праћењу"
+  },
+  "proUnlock4": {
+    "message": "Звучни пакети и историја по праћењу"
+  },
+  "pwCompareHead": {
+    "message": "Бесплатно наспрам Pro"
+  },
+  "pwRowWatches": {
+    "message": "Активна праћења"
+  },
+  "pwRowCadence": {
+    "message": "Брзина провере"
+  },
+  "pwRowSound": {
+    "message": "Звукови обавештења"
+  },
+  "pwFreeWatches": {
+    "message": "3"
+  },
+  "pwProWatches": {
+    "message": "Неограничено"
+  },
+  "pwFreeCadence": {
+    "message": "15 мин"
+  },
+  "pwProCadence": {
+    "message": "60 с"
+  },
+  "pwFreeSound": {
+    "message": "1 звук"
+  },
+  "pwProSound": {
+    "message": "Звучни пакети"
+  },
+  "priceLine": {
+    "message": "$$99 доживотно · једна уплата, не претплата"
+  },
+  "guaranteeLine": {
+    "message": "Гаранција повраћаја новца у року од 30 дана. Без налога, без праћења."
+  },
+  "startTrialNoCard": {
+    "message": "Започните 7-дневни бесплатни пробни период, без картице"
+  },
+  "getProCta": {
+    "message": "Набавите Pro. $$99 доживотно"
+  },
+  "dashboardTitle": {
+    "message": "Ваша праћења"
+  },
+  "optionsSubtitle": {
+    "message": "Све што Restock Radar надгледа."
+  },
+  "navWatches": {
+    "message": "Праћења"
+  },
+  "navSettings": {
+    "message": "Подешавања"
+  },
+  "navLicense": {
+    "message": "Лиценца"
+  },
+  "emptyTitle": {
+    "message": "Још нема праћења"
+  },
+  "emptyText": {
+    "message": "Отворите страницу производа, кликните на икону Restock Radar, па притисните „Прати ову страницу“."
+  },
+  "settingsSound": {
+    "message": "Звук обавештења"
+  },
+  "settingsSoundHint": {
+    "message": "Пусти звук када праћени производ поново буде на залихама."
+  },
+  "settingsPack": {
+    "message": "Звучни пакет"
+  },
+  "settingsPackHint": {
+    "message": "Изаберите звук обавештења. Више пакета се откључава уз Pro."
+  },
+  "packDefault": {
+    "message": "Подразумевани звук"
+  },
+  "licenseTab": {
+    "message": "Лиценца"
+  },
+  "licenseHeading": {
+    "message": "Ваш план"
+  },
+  "licenseKeyLabel": {
+    "message": "Лиценцни кључ"
+  },
+  "licenseKeyPh": {
+    "message": "ZOVO-XXXX-XXXX-XXXX"
+  },
+  "verify": {
+    "message": "Провери"
+  },
+  "verifying": {
+    "message": "Проверавам…"
+  },
+  "verifyOk": {
+    "message": "Pro је откључан. Хвала што подржавате Zovo."
+  },
+  "verifyBad": {
+    "message": "Тај кључ није важећи. Проверите га и покушајте поново."
+  },
+  "tierFree": {
+    "message": "Бесплатни план"
+  },
+  "tierTrial": {
+    "message": "Pro пробни период"
+  },
+  "tierPro": {
+    "message": "Pro"
+  },
+  "trialLeft": {
+    "message": "Још $DAYS$ дана вашег пробног периода",
+    "placeholders": {
+      "days": {
+        "content": "$1",
+        "example": "6"
+      }
+    }
+  },
+  "startTrialCta": {
+    "message": "Започните 7-дневни Pro пробни период"
+  },
+  "proPitch": {
+    "message": "Неограничена праћења, провере на 60 секунди, брзина по праћењу и звучни пакети."
+  },
+  "getPro": {
+    "message": "Набавите Pro. $$99 једнократно"
+  },
+  "restoreHint": {
+    "message": "Већ сте купили Pro? Налепите свој кључ изнад и проверите."
+  },
+  "pauseAction": {
+    "message": "Пауза"
+  },
+  "resumeAction": {
+    "message": "Настави"
+  },
+  "deleteAction": {
+    "message": "Обриши"
+  },
+  "openAction": {
+    "message": "Отвори"
+  },
+  "cadenceColLabel": {
+    "message": "Провере"
+  },
+  "perWatchCadenceHint": {
+    "message": "Брзина по праћењу је Pro опција."
+  },
+  "lastChecked": {
+    "message": "проверено $WHEN$",
+    "placeholders": {
+      "when": {
+        "content": "$1",
+        "example": "2 min ago"
+      }
+    }
+  },
+  "relNever": {
+    "message": "још не"
+  },
+  "notifTitle": {
+    "message": "Поново на залихама: $TITLE$",
+    "placeholders": {
+      "title": {
+        "content": "$1",
+        "example": "GPU model"
+      }
+    }
+  },
+  "onbEyebrow": {
+    "message": "Restock Radar"
+  },
+  "onbTitle": {
+    "message": "Пратите производ? Обавестићу вас чим се врати на залихе."
+  },
+  "onbTrust": {
+    "message": "Бесплатно. Без налога. Без праћења."
+  },
+  "onbStep1t": {
+    "message": "Отворите страницу производа"
+  },
+  "onbStep1b": {
+    "message": "Било која продавница, било који артикал који је тренутно распродат."
+  },
+  "onbStep2t": {
+    "message": "Кликните на „Прати ову страницу“"
+  },
+  "onbStep2b": {
+    "message": "Један додир са траке алата. Без регистрације, без екрана за подешавање."
+  },
+  "onbStep3t": {
+    "message": "Будите обавештени чим се врати"
+  },
+  "onbStep3b": {
+    "message": "Обавештење на радној површини и звук, чак и када је картица затворена."
+  },
+  "onbCta": {
+    "message": "Испратите свој први производ"
+  },
+  "onbProLine": {
+    "message": "Бесплатно за до 3 праћења. Pro откључава неограничена праћења, провере на 60 секунди и звучне пакете."
+  },
+  "onbGoPro": {
+    "message": "Погледајте Pro"
+  },
+  "onbFooter": {
+    "message": "Направио Zovo · zovo.one"
+  },
+  "sbEyebrow": {
+    "message": "Pro"
+  },
+  "sbHeadline": {
+    "message": "Откључајте Pro. Платите једном, ваше заувек."
+  },
+  "sbCtaSub": {
+    "message": "Једна уплата, не претплата · гаранција повраћаја новца у року од 30 дана"
+  },
+  "sbMore": {
+    "message": "Још алата"
+  },
+  "sbMoreLink": {
+    "message": "Прегледајте све алате на zovo.one"
+  },
+  "sbHelp": {
+    "message": "Помоћ"
+  },
+  "sbPrivacy": {
+    "message": "Приватност"
+  }
+}

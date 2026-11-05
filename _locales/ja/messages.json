@@ -1,0 +1,343 @@
+{
+  "extName": {
+    "message": "Restock Radar 再入荷アラート通知",
+    "description": "Extension name, <=75 chars"
+  },
+  "extDesc": {
+    "message": "商品ページを監視し、再入荷した瞬間にデスクトップ通知でお知らせ。アカウント登録も追跡も不要です。",
+    "description": "Extension description, <=132 chars"
+  },
+  "brandName": {
+    "message": "Restock Radar"
+  },
+  "watchThisPage": {
+    "message": "このページを監視"
+  },
+  "watchAdding": {
+    "message": "追加中…"
+  },
+  "watchingHere": {
+    "message": "このページを監視中"
+  },
+  "popupTagline": {
+    "message": "再び購入可能になった瞬間にデスクトップ通知が届きます。"
+  },
+  "notProduct": {
+    "message": "商品ページではないようですが、それでも監視できます。"
+  },
+  "watching": {
+    "message": "監視中"
+  },
+  "checkingNow": {
+    "message": "確認中"
+  },
+  "cadenceFree": {
+    "message": "15分ごと"
+  },
+  "cadencePro": {
+    "message": "60秒ごと"
+  },
+  "cadenceChipLabel": {
+    "message": "確認頻度"
+  },
+  "statusOut": {
+    "message": "在庫切れ・監視中"
+  },
+  "statusIn": {
+    "message": "すでに在庫あり"
+  },
+  "statusTriggered": {
+    "message": "再入荷、一時停止中"
+  },
+  "statusPaused": {
+    "message": "一時停止中"
+  },
+  "statusError": {
+    "message": "接続できません、再試行中"
+  },
+  "watchesHere": {
+    "message": "このサイトで監視中"
+  },
+  "noWatchesHere": {
+    "message": "このサイトにはまだ監視がありません。"
+  },
+  "manageAll": {
+    "message": "すべての監視を管理"
+  },
+  "pickSoldOut": {
+    "message": "「売り切れ」ボタンを選択"
+  },
+  "permNeeded": {
+    "message": "監視するにはこのサイトへのアクセスが必要です。"
+  },
+  "tryAgain": {
+    "message": "再試行"
+  },
+  "capTitle": {
+    "message": "3件中3件を監視中"
+  },
+  "capBody": {
+    "message": "Proなら商品を無制限に監視、60秒ごとに確認、サウンドパックも追加できます。"
+  },
+  "watchesNoun": {
+    "message": "件の監視"
+  },
+  "upgrade": {
+    "message": "アップグレード"
+  },
+  "maybeLater": {
+    "message": "後で"
+  },
+  "proLock": {
+    "message": "Pro"
+  },
+  "pwHeadline": {
+    "message": "次の再入荷を見逃さない"
+  },
+  "pwForever": {
+    "message": "一度の支払いでRestock Radar Proを永久に利用できます。"
+  },
+  "proUnlock1": {
+    "message": "3件だけでなく無制限に商品を監視"
+  },
+  "proUnlock2": {
+    "message": "60秒ごとの確認、無料版の15倍の速さ"
+  },
+  "proUnlock3": {
+    "message": "監視ごとの速度設定"
+  },
+  "proUnlock4": {
+    "message": "サウンドパックと監視ごとの履歴"
+  },
+  "pwCompareHead": {
+    "message": "無料版とProの比較"
+  },
+  "pwRowWatches": {
+    "message": "アクティブな監視"
+  },
+  "pwRowCadence": {
+    "message": "確認速度"
+  },
+  "pwRowSound": {
+    "message": "アラート音"
+  },
+  "pwFreeWatches": {
+    "message": "3"
+  },
+  "pwProWatches": {
+    "message": "無制限"
+  },
+  "pwFreeCadence": {
+    "message": "15分"
+  },
+  "pwProCadence": {
+    "message": "60秒"
+  },
+  "pwFreeSound": {
+    "message": "チャイム1種"
+  },
+  "pwProSound": {
+    "message": "サウンドパック"
+  },
+  "priceLine": {
+    "message": "$$99 買い切り・サブスクではなく一度の支払い"
+  },
+  "guaranteeLine": {
+    "message": "30日間の返金保証。アカウント不要、追跡なし。"
+  },
+  "startTrialNoCard": {
+    "message": "7日間の無料トライアルを開始、カード不要"
+  },
+  "getProCta": {
+    "message": "Proを入手。$$99 買い切り"
+  },
+  "dashboardTitle": {
+    "message": "あなたの監視"
+  },
+  "optionsSubtitle": {
+    "message": "Restock Radarが見張っているすべての項目。"
+  },
+  "navWatches": {
+    "message": "監視"
+  },
+  "navSettings": {
+    "message": "設定"
+  },
+  "navLicense": {
+    "message": "ライセンス"
+  },
+  "emptyTitle": {
+    "message": "まだ監視がありません"
+  },
+  "emptyText": {
+    "message": "商品ページを開き、Restock Radarのアイコンをクリックして「このページを監視」を押してください。"
+  },
+  "settingsSound": {
+    "message": "アラート音"
+  },
+  "settingsSoundHint": {
+    "message": "監視中の商品が再入荷したらチャイムを鳴らします。"
+  },
+  "settingsPack": {
+    "message": "サウンドパック"
+  },
+  "settingsPackHint": {
+    "message": "アラート音を選択します。Proでさらに多くのパックが解放されます。"
+  },
+  "packDefault": {
+    "message": "デフォルトのチャイム"
+  },
+  "licenseTab": {
+    "message": "ライセンス"
+  },
+  "licenseHeading": {
+    "message": "あなたのプラン"
+  },
+  "licenseKeyLabel": {
+    "message": "ライセンスキー"
+  },
+  "licenseKeyPh": {
+    "message": "ZOVO-XXXX-XXXX-XXXX"
+  },
+  "verify": {
+    "message": "認証"
+  },
+  "verifying": {
+    "message": "認証中…"
+  },
+  "verifyOk": {
+    "message": "Proが解放されました。Zovoをご支援いただきありがとうございます。"
+  },
+  "verifyBad": {
+    "message": "そのキーは認証できませんでした。確認して再試行してください。"
+  },
+  "tierFree": {
+    "message": "無料プラン"
+  },
+  "tierTrial": {
+    "message": "Proトライアル"
+  },
+  "tierPro": {
+    "message": "Pro"
+  },
+  "trialLeft": {
+    "message": "トライアル残り $DAYS$ 日",
+    "placeholders": {
+      "days": {
+        "content": "$1",
+        "example": "6"
+      }
+    }
+  },
+  "startTrialCta": {
+    "message": "7日間のProトライアルを開始"
+  },
+  "proPitch": {
+    "message": "無制限の監視、60秒ごとの確認、監視ごとの速度設定とサウンドパック。"
+  },
+  "getPro": {
+    "message": "Proを入手。$$99 買い切り"
+  },
+  "restoreHint": {
+    "message": "すでにProを購入済みですか？上にキーを貼り付けて認証してください。"
+  },
+  "pauseAction": {
+    "message": "一時停止"
+  },
+  "resumeAction": {
+    "message": "再開"
+  },
+  "deleteAction": {
+    "message": "削除"
+  },
+  "openAction": {
+    "message": "開く"
+  },
+  "cadenceColLabel": {
+    "message": "確認頻度"
+  },
+  "perWatchCadenceHint": {
+    "message": "監視ごとの速度設定はProの機能です。"
+  },
+  "lastChecked": {
+    "message": "$WHEN$ に確認",
+    "placeholders": {
+      "when": {
+        "content": "$1",
+        "example": "2 min ago"
+      }
+    }
+  },
+  "relNever": {
+    "message": "まだです"
+  },
+  "notifTitle": {
+    "message": "再入荷: $TITLE$",
+    "placeholders": {
+      "title": {
+        "content": "$1",
+        "example": "GPU model"
+      }
+    }
+  },
+  "onbEyebrow": {
+    "message": "Restock Radar"
+  },
+  "onbTitle": {
+    "message": "商品を監視していますか？在庫が戻った瞬間にお知らせします。"
+  },
+  "onbTrust": {
+    "message": "無料。アカウント不要。追跡なし。"
+  },
+  "onbStep1t": {
+    "message": "商品ページを開く"
+  },
+  "onbStep1b": {
+    "message": "どのストアでも、今売り切れているどの商品でも。"
+  },
+  "onbStep2t": {
+    "message": "「このページを監視」をクリック"
+  },
+  "onbStep2b": {
+    "message": "ツールバーからワンタップ。登録も設定画面も不要。"
+  },
+  "onbStep3t": {
+    "message": "在庫が戻った瞬間に通知"
+  },
+  "onbStep3b": {
+    "message": "タブを閉じていてもデスクトップ通知とチャイムでお知らせ。"
+  },
+  "onbCta": {
+    "message": "最初の商品を監視する"
+  },
+  "onbProLine": {
+    "message": "最大3件まで無料。Proで無制限の監視、60秒ごとの確認、サウンドパックが解放されます。"
+  },
+  "onbGoPro": {
+    "message": "Proを見る"
+  },
+  "onbFooter": {
+    "message": "Made by Zovo · zovo.one"
+  },
+  "sbEyebrow": {
+    "message": "Pro"
+  },
+  "sbHeadline": {
+    "message": "Proを解放。一度の支払いで永久に。"
+  },
+  "sbCtaSub": {
+    "message": "サブスクではなく一度の支払い・30日間の返金保証"
+  },
+  "sbMore": {
+    "message": "その他のツール"
+  },
+  "sbMoreLink": {
+    "message": "zovo.one ですべてのツールを見る"
+  },
+  "sbHelp": {
+    "message": "ヘルプ"
+  },
+  "sbPrivacy": {
+    "message": "プライバシー"
+  }
+}

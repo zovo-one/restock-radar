@@ -1,0 +1,343 @@
+{
+  "extName": {
+    "message": "Restock Radar. വീണ്ടും സ്റ്റോക്കിൽ അലേർട്ടുകൾ",
+    "description": "Extension name, <=75 chars"
+  },
+  "extDesc": {
+    "message": "ഏത് ഉൽപ്പന്ന പേജും നിരീക്ഷിക്കുക, വീണ്ടും സ്റ്റോക്കിലെത്തുന്ന നിമിഷം ഡെസ്ക്ടോപ്പ് അലേർട്ട് നേടുക. അക്കൗണ്ട് ഇല്ല, ട്രാക്കിംഗ് ഇല്ല.",
+    "description": "Extension description, <=132 chars"
+  },
+  "brandName": {
+    "message": "Restock Radar"
+  },
+  "watchThisPage": {
+    "message": "ഈ പേജ് നിരീക്ഷിക്കുക"
+  },
+  "watchAdding": {
+    "message": "ചേർക്കുന്നു…"
+  },
+  "watchingHere": {
+    "message": "ഈ പേജ് നിരീക്ഷിക്കുന്നു"
+  },
+  "popupTagline": {
+    "message": "വീണ്ടും വാങ്ങാവുന്ന നിമിഷം ഒരു ഡെസ്ക്ടോപ്പ് പിംഗ് നേടുക."
+  },
+  "notProduct": {
+    "message": "ഇത് ഒരു ഉൽപ്പന്ന പേജ് പോലെ തോന്നുന്നില്ല, എന്നാൽ നിങ്ങൾക്ക് ഇപ്പോഴും ഇത് നിരീക്ഷിക്കാം."
+  },
+  "watching": {
+    "message": "നിരീക്ഷിക്കുന്നു"
+  },
+  "checkingNow": {
+    "message": "ഇപ്പോൾ പരിശോധിക്കുന്നു"
+  },
+  "cadenceFree": {
+    "message": "ഓരോ 15 മിനിറ്റിലും"
+  },
+  "cadencePro": {
+    "message": "ഓരോ 60 സെക്കൻഡിലും"
+  },
+  "cadenceChipLabel": {
+    "message": "പരിശോധനകൾ"
+  },
+  "statusOut": {
+    "message": "സ്റ്റോക്ക് തീർന്നു · നിരീക്ഷിക്കുന്നു"
+  },
+  "statusIn": {
+    "message": "ഇതിനകം സ്റ്റോക്കിലുണ്ട്"
+  },
+  "statusTriggered": {
+    "message": "വീണ്ടും സ്റ്റോക്കിൽ, താൽക്കാലികമായി നിർത്തി"
+  },
+  "statusPaused": {
+    "message": "താൽക്കാലികമായി നിർത്തി"
+  },
+  "statusError": {
+    "message": "എത്താൻ കഴിയുന്നില്ല, വീണ്ടും ശ്രമിക്കുന്നു"
+  },
+  "watchesHere": {
+    "message": "ഈ സൈറ്റിൽ നിരീക്ഷിക്കുന്നു"
+  },
+  "noWatchesHere": {
+    "message": "ഈ സൈറ്റിൽ ഇതുവരെ നിരീക്ഷണങ്ങളൊന്നുമില്ല."
+  },
+  "manageAll": {
+    "message": "എല്ലാ നിരീക്ഷണങ്ങളും കൈകാര്യം ചെയ്യുക"
+  },
+  "pickSoldOut": {
+    "message": "സോൾഡ്-ഔട്ട് ബട്ടൺ തിരഞ്ഞെടുക്കുക"
+  },
+  "permNeeded": {
+    "message": "ഇത് നിരീക്ഷിക്കാൻ എനിക്ക് ഈ സൈറ്റിലേക്ക് പ്രവേശനം ആവശ്യമാണ്."
+  },
+  "tryAgain": {
+    "message": "വീണ്ടും ശ്രമിക്കുക"
+  },
+  "capTitle": {
+    "message": "3-ൽ 3 എണ്ണം നിരീക്ഷിക്കുന്നു"
+  },
+  "capBody": {
+    "message": "Pro അപരിമിതമായ ഉൽപ്പന്നങ്ങൾ നിരീക്ഷിക്കുന്നു, ഓരോ 60 സെക്കൻഡിലും പരിശോധിക്കുന്നു, സൗണ്ട് പാക്കുകൾ ചേർക്കുന്നു."
+  },
+  "watchesNoun": {
+    "message": "നിരീക്ഷണങ്ങൾ"
+  },
+  "upgrade": {
+    "message": "അപ്‌ഗ്രേഡ് ചെയ്യുക"
+  },
+  "maybeLater": {
+    "message": "പിന്നീട് ആകാം"
+  },
+  "proLock": {
+    "message": "Pro"
+  },
+  "pwHeadline": {
+    "message": "അടുത്ത റീസ്റ്റോക്ക് ഒരിക്കലും നഷ്ടപ്പെടുത്തരുത്"
+  },
+  "pwForever": {
+    "message": "ഒരു പേയ്‌മെന്റ് Restock Radar Pro എന്നന്നേക്കുമായി അൺലോക്ക് ചെയ്യുന്നു."
+  },
+  "proUnlock1": {
+    "message": "3 എണ്ണം മാത്രമല്ല, അപരിമിതമായ ഉൽപ്പന്നങ്ങൾ നിരീക്ഷിക്കുക"
+  },
+  "proUnlock2": {
+    "message": "60-സെക്കൻഡ് പരിശോധനകൾ, സൗജന്യത്തേക്കാൾ 15 മടങ്ങ് വേഗത്തിൽ"
+  },
+  "proUnlock3": {
+    "message": "ഓരോ നിരീക്ഷണത്തിനും വേഗത നിയന്ത്രണം"
+  },
+  "proUnlock4": {
+    "message": "സൗണ്ട് പാക്കുകളും ഓരോ നിരീക്ഷണത്തിന്റെയും ചരിത്രവും"
+  },
+  "pwCompareHead": {
+    "message": "സൗജന്യം vs Pro"
+  },
+  "pwRowWatches": {
+    "message": "സജീവ നിരീക്ഷണങ്ങൾ"
+  },
+  "pwRowCadence": {
+    "message": "പരിശോധന വേഗത"
+  },
+  "pwRowSound": {
+    "message": "അലേർട്ട് ശബ്ദങ്ങൾ"
+  },
+  "pwFreeWatches": {
+    "message": "3"
+  },
+  "pwProWatches": {
+    "message": "അപരിമിതം"
+  },
+  "pwFreeCadence": {
+    "message": "15 മിനിറ്റ്"
+  },
+  "pwProCadence": {
+    "message": "60 സെക്കൻഡ്"
+  },
+  "pwFreeSound": {
+    "message": "1 ചൈം"
+  },
+  "pwProSound": {
+    "message": "സൗണ്ട് പാക്കുകൾ"
+  },
+  "priceLine": {
+    "message": "$$99 ആജീവനാന്തം · ഒരു പേയ്‌മെന്റ്, സബ്‌സ്‌ക്രിപ്‌ഷൻ അല്ല"
+  },
+  "guaranteeLine": {
+    "message": "30-ദിവസത്തെ പണം തിരികെ ഗ്യാരണ്ടി. അക്കൗണ്ട് ഇല്ല, പൂജ്യം ട്രാക്കിംഗ്."
+  },
+  "startTrialNoCard": {
+    "message": "7-ദിവസത്തെ സൗജന്യ ട്രയൽ ആരംഭിക്കുക, കാർഡ് ആവശ്യമില്ല"
+  },
+  "getProCta": {
+    "message": "Pro നേടുക. $$99 ആജീവനാന്തം"
+  },
+  "dashboardTitle": {
+    "message": "നിങ്ങളുടെ നിരീക്ഷണങ്ങൾ"
+  },
+  "optionsSubtitle": {
+    "message": "Restock Radar നിരീക്ഷിക്കുന്ന എല്ലാം."
+  },
+  "navWatches": {
+    "message": "നിരീക്ഷണങ്ങൾ"
+  },
+  "navSettings": {
+    "message": "ക്രമീകരണങ്ങൾ"
+  },
+  "navLicense": {
+    "message": "ലൈസൻസ്"
+  },
+  "emptyTitle": {
+    "message": "ഇതുവരെ നിരീക്ഷണങ്ങളൊന്നുമില്ല"
+  },
+  "emptyText": {
+    "message": "ഒരു ഉൽപ്പന്ന പേജ് തുറക്കുക, Restock Radar ഐക്കൺ ക്ലിക്ക് ചെയ്യുക, തുടർന്ന് ഈ പേജ് നിരീക്ഷിക്കുക അമർത്തുക."
+  },
+  "settingsSound": {
+    "message": "അലേർട്ട് ശബ്ദം"
+  },
+  "settingsSoundHint": {
+    "message": "നിരീക്ഷിക്കുന്ന ഒരു ഉൽപ്പന്നം വീണ്ടും സ്റ്റോക്കിൽ വരുമ്പോൾ ഒരു ചൈം പ്ലേ ചെയ്യുക."
+  },
+  "settingsPack": {
+    "message": "സൗണ്ട് പാക്ക്"
+  },
+  "settingsPackHint": {
+    "message": "അലേർട്ട് ശബ്ദം തിരഞ്ഞെടുക്കുക. കൂടുതൽ പാക്കുകൾ Pro-യിൽ അൺലോക്ക് ചെയ്യുന്നു."
+  },
+  "packDefault": {
+    "message": "ഡിഫോൾട്ട് ചൈം"
+  },
+  "licenseTab": {
+    "message": "ലൈസൻസ്"
+  },
+  "licenseHeading": {
+    "message": "നിങ്ങളുടെ പ്ലാൻ"
+  },
+  "licenseKeyLabel": {
+    "message": "ലൈസൻസ് കീ"
+  },
+  "licenseKeyPh": {
+    "message": "ZOVO-XXXX-XXXX-XXXX"
+  },
+  "verify": {
+    "message": "പരിശോധിക്കുക"
+  },
+  "verifying": {
+    "message": "പരിശോധിക്കുന്നു…"
+  },
+  "verifyOk": {
+    "message": "Pro അൺലോക്ക് ചെയ്തു. Zovo-യെ പിന്തുണച്ചതിന് നന്ദി."
+  },
+  "verifyBad": {
+    "message": "ആ കീ ശരിയായില്ല. അത് പരിശോധിച്ച് വീണ്ടും ശ്രമിക്കുക."
+  },
+  "tierFree": {
+    "message": "സൗജന്യ പ്ലാൻ"
+  },
+  "tierTrial": {
+    "message": "Pro ട്രയൽ"
+  },
+  "tierPro": {
+    "message": "Pro"
+  },
+  "trialLeft": {
+    "message": "നിങ്ങളുടെ ട്രയലിൽ $DAYS$ ദിവസങ്ങൾ ബാക്കി",
+    "placeholders": {
+      "days": {
+        "content": "$1",
+        "example": "6"
+      }
+    }
+  },
+  "startTrialCta": {
+    "message": "7-ദിവസത്തെ Pro ട്രയൽ ആരംഭിക്കുക"
+  },
+  "proPitch": {
+    "message": "അപരിമിതമായ നിരീക്ഷണങ്ങൾ, 60-സെക്കൻഡ് പരിശോധനകൾ, ഓരോ നിരീക്ഷണത്തിനും വേഗതയും സൗണ്ട് പാക്കുകളും."
+  },
+  "getPro": {
+    "message": "Pro നേടുക. $$99 ഒറ്റത്തവണ"
+  },
+  "restoreHint": {
+    "message": "ഇതിനകം Pro വാങ്ങിയോ? നിങ്ങളുടെ കീ മുകളിൽ ഒട്ടിച്ച് പരിശോധിക്കുക."
+  },
+  "pauseAction": {
+    "message": "താൽക്കാലികമായി നിർത്തുക"
+  },
+  "resumeAction": {
+    "message": "പുനരാരംഭിക്കുക"
+  },
+  "deleteAction": {
+    "message": "ഇല്ലാതാക്കുക"
+  },
+  "openAction": {
+    "message": "തുറക്കുക"
+  },
+  "cadenceColLabel": {
+    "message": "പരിശോധനകൾ"
+  },
+  "perWatchCadenceHint": {
+    "message": "ഓരോ നിരീക്ഷണത്തിനുമുള്ള വേഗത ഒരു Pro നിയന്ത്രണമാണ്."
+  },
+  "lastChecked": {
+    "message": "$WHEN$ പരിശോധിച്ചു",
+    "placeholders": {
+      "when": {
+        "content": "$1",
+        "example": "2 min ago"
+      }
+    }
+  },
+  "relNever": {
+    "message": "ഇതുവരെ ഇല്ല"
+  },
+  "notifTitle": {
+    "message": "വീണ്ടും സ്റ്റോക്കിൽ: $TITLE$",
+    "placeholders": {
+      "title": {
+        "content": "$1",
+        "example": "GPU model"
+      }
+    }
+  },
+  "onbEyebrow": {
+    "message": "Restock Radar"
+  },
+  "onbTitle": {
+    "message": "ഒരു ഉൽപ്പന്നം നിരീക്ഷിക്കുന്നുണ്ടോ? അത് വീണ്ടും വരുന്ന നിമിഷം ഞാൻ നിങ്ങളെ പിംഗ് ചെയ്യും."
+  },
+  "onbTrust": {
+    "message": "സൗജന്യം. അക്കൗണ്ട് ഇല്ല. ട്രാക്കിംഗ് ഇല്ല."
+  },
+  "onbStep1t": {
+    "message": "ഉൽപ്പന്ന പേജ് തുറക്കുക"
+  },
+  "onbStep1b": {
+    "message": "ഏത് സ്റ്റോറും, ഇപ്പോൾ സ്റ്റോക്ക് തീർന്ന ഏത് ഇനവും."
+  },
+  "onbStep2t": {
+    "message": "ഈ പേജ് നിരീക്ഷിക്കുക ക്ലിക്ക് ചെയ്യുക"
+  },
+  "onbStep2b": {
+    "message": "ടൂൾബാറിൽ നിന്ന് ഒരു ടാപ്പ്. സൈൻ-അപ്പ് ഇല്ല, സജ്ജീകരണ സ്ക്രീൻ ഇല്ല."
+  },
+  "onbStep3t": {
+    "message": "അത് വീണ്ടും വരുന്ന നിമിഷം പിംഗ് ചെയ്യപ്പെടുക"
+  },
+  "onbStep3b": {
+    "message": "ടാബ് അടച്ചാലും ഒരു ഡെസ്ക്ടോപ്പ് അലേർട്ടും ചൈമും."
+  },
+  "onbCta": {
+    "message": "നിങ്ങളുടെ ആദ്യ ഉൽപ്പന്നം നിരീക്ഷിക്കുക"
+  },
+  "onbProLine": {
+    "message": "3 നിരീക്ഷണങ്ങൾ വരെ സൗജന്യം. Pro അപരിമിതമായ നിരീക്ഷണങ്ങൾ, 60-സെക്കൻഡ് പരിശോധനകൾ, സൗണ്ട് പാക്കുകൾ എന്നിവ അൺലോക്ക് ചെയ്യുന്നു."
+  },
+  "onbGoPro": {
+    "message": "Pro കാണുക"
+  },
+  "onbFooter": {
+    "message": "Zovo നിർമ്മിച്ചത് · zovo.one"
+  },
+  "sbEyebrow": {
+    "message": "Pro"
+  },
+  "sbHeadline": {
+    "message": "Pro അൺലോക്ക് ചെയ്യുക. ഒരിക്കൽ പണമടയ്ക്കുക, എന്നന്നേക്കും നിങ്ങളുടേത്."
+  },
+  "sbCtaSub": {
+    "message": "ഒരു പേയ്‌മെന്റ്, സബ്‌സ്‌ക്രിപ്‌ഷൻ അല്ല · 30-ദിവസത്തെ പണം തിരികെ ഗ്യാരണ്ടി"
+  },
+  "sbMore": {
+    "message": "കൂടുതൽ ടൂളുകൾ"
+  },
+  "sbMoreLink": {
+    "message": "zovo.one-ൽ എല്ലാ ടൂളുകളും ബ്രൗസ് ചെയ്യുക"
+  },
+  "sbHelp": {
+    "message": "സഹായം"
+  },
+  "sbPrivacy": {
+    "message": "സ്വകാര്യത"
+  }
+}

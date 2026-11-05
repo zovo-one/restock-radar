@@ -1,0 +1,343 @@
+{
+  "extName": {
+    "message": "Restock Radar. Ilmoitukset saatavuudesta",
+    "description": "Extension name, <=75 chars"
+  },
+  "extDesc": {
+    "message": "Seuraa mitä tahansa tuotesivua ja saa työpöytäilmoitus heti, kun tuote palaa varastoon. Ei tiliä, ei seurantaa.",
+    "description": "Extension description, <=132 chars"
+  },
+  "brandName": {
+    "message": "Restock Radar"
+  },
+  "watchThisPage": {
+    "message": "Seuraa tätä sivua"
+  },
+  "watchAdding": {
+    "message": "Lisätään…"
+  },
+  "watchingHere": {
+    "message": "Seurataan tätä sivua"
+  },
+  "popupTagline": {
+    "message": "Saat työpöytäilmoituksen heti, kun tuote on taas ostettavissa."
+  },
+  "notProduct": {
+    "message": "Tämä ei näytä tuotesivulta, mutta voit silti seurata sitä."
+  },
+  "watching": {
+    "message": "Seurataan"
+  },
+  "checkingNow": {
+    "message": "tarkistetaan nyt"
+  },
+  "cadenceFree": {
+    "message": "15 min välein"
+  },
+  "cadencePro": {
+    "message": "60 s välein"
+  },
+  "cadenceChipLabel": {
+    "message": "Tarkistukset"
+  },
+  "statusOut": {
+    "message": "loppunut · seurataan"
+  },
+  "statusIn": {
+    "message": "jo varastossa"
+  },
+  "statusTriggered": {
+    "message": "palasi varastoon, keskeytetty"
+  },
+  "statusPaused": {
+    "message": "keskeytetty"
+  },
+  "statusError": {
+    "message": "ei yhteyttä, yritetään uudelleen"
+  },
+  "watchesHere": {
+    "message": "Seurattavat tällä sivustolla"
+  },
+  "noWatchesHere": {
+    "message": "Ei vielä seurattavia tällä sivustolla."
+  },
+  "manageAll": {
+    "message": "Hallitse kaikkia seurattavia"
+  },
+  "pickSoldOut": {
+    "message": "Valitse Loppuunmyyty-painike"
+  },
+  "permNeeded": {
+    "message": "Tarvitsen pääsyn tälle sivustolle voidakseni seurata sitä."
+  },
+  "tryAgain": {
+    "message": "Yritä uudelleen"
+  },
+  "capTitle": {
+    "message": "Seurataan 3 / 3"
+  },
+  "capBody": {
+    "message": "Pro seuraa rajattomasti tuotteita, tarkistaa 60 s välein ja lisää äänipaketteja."
+  },
+  "watchesNoun": {
+    "message": "seurattavaa"
+  },
+  "upgrade": {
+    "message": "Päivitä"
+  },
+  "maybeLater": {
+    "message": "Ehkä myöhemmin"
+  },
+  "proLock": {
+    "message": "Pro"
+  },
+  "pwHeadline": {
+    "message": "Älä koskaan missaa seuraavaa täydennystä"
+  },
+  "pwForever": {
+    "message": "Yksi maksu avaa Restock Radar Pron ikuisesti."
+  },
+  "proUnlock1": {
+    "message": "Seuraa rajattomasti tuotteita, ei vain 3:a"
+  },
+  "proUnlock2": {
+    "message": "60 sekunnin tarkistukset, 15x nopeampi kuin ilmainen"
+  },
+  "proUnlock3": {
+    "message": "Kohtainen nopeuden säätö"
+  },
+  "proUnlock4": {
+    "message": "Äänipaketit ja kohtainen historia"
+  },
+  "pwCompareHead": {
+    "message": "Ilmainen vs Pro"
+  },
+  "pwRowWatches": {
+    "message": "Aktiiviset seurattavat"
+  },
+  "pwRowCadence": {
+    "message": "Tarkistusnopeus"
+  },
+  "pwRowSound": {
+    "message": "Ilmoitusäänet"
+  },
+  "pwFreeWatches": {
+    "message": "3"
+  },
+  "pwProWatches": {
+    "message": "Rajaton"
+  },
+  "pwFreeCadence": {
+    "message": "15 min"
+  },
+  "pwProCadence": {
+    "message": "60 s"
+  },
+  "pwFreeSound": {
+    "message": "1 sointu"
+  },
+  "pwProSound": {
+    "message": "Äänipaketit"
+  },
+  "priceLine": {
+    "message": "$$99 elinikäinen · yksi maksu, ei tilausta"
+  },
+  "guaranteeLine": {
+    "message": "30 päivän rahat takaisin -takuu. Ei tiliä, ei seurantaa."
+  },
+  "startTrialNoCard": {
+    "message": "Aloita 7 päivän ilmainen kokeilu, ei korttia"
+  },
+  "getProCta": {
+    "message": "Hanki Pro. $$99 elinikäinen"
+  },
+  "dashboardTitle": {
+    "message": "Seurattavasi"
+  },
+  "optionsSubtitle": {
+    "message": "Kaikki, mitä Restock Radar pitää silmällä."
+  },
+  "navWatches": {
+    "message": "Seurattavat"
+  },
+  "navSettings": {
+    "message": "Asetukset"
+  },
+  "navLicense": {
+    "message": "Lisenssi"
+  },
+  "emptyTitle": {
+    "message": "Ei vielä seurattavia"
+  },
+  "emptyText": {
+    "message": "Avaa tuotesivu, napsauta Restock Radar -kuvaketta ja paina Seuraa tätä sivua."
+  },
+  "settingsSound": {
+    "message": "Ilmoitusääni"
+  },
+  "settingsSoundHint": {
+    "message": "Soita sointu, kun seurattu tuote palaa varastoon."
+  },
+  "settingsPack": {
+    "message": "Äänipaketti"
+  },
+  "settingsPackHint": {
+    "message": "Valitse ilmoitusääni. Lisää paketteja avautuu Pron myötä."
+  },
+  "packDefault": {
+    "message": "Oletussointu"
+  },
+  "licenseTab": {
+    "message": "Lisenssi"
+  },
+  "licenseHeading": {
+    "message": "Tilauksesi"
+  },
+  "licenseKeyLabel": {
+    "message": "Lisenssiavain"
+  },
+  "licenseKeyPh": {
+    "message": "ZOVO-XXXX-XXXX-XXXX"
+  },
+  "verify": {
+    "message": "Vahvista"
+  },
+  "verifying": {
+    "message": "Vahvistetaan…"
+  },
+  "verifyOk": {
+    "message": "Pro avattu. Kiitos, että tuet Zovoa."
+  },
+  "verifyBad": {
+    "message": "Avain ei kelvannut. Tarkista se ja yritä uudelleen."
+  },
+  "tierFree": {
+    "message": "Ilmainen tilaus"
+  },
+  "tierTrial": {
+    "message": "Pro-kokeilu"
+  },
+  "tierPro": {
+    "message": "Pro"
+  },
+  "trialLeft": {
+    "message": "Kokeilua jäljellä $DAYS$ päivää",
+    "placeholders": {
+      "days": {
+        "content": "$1",
+        "example": "6"
+      }
+    }
+  },
+  "startTrialCta": {
+    "message": "Aloita 7 päivän Pro-kokeilu"
+  },
+  "proPitch": {
+    "message": "Rajaton seuranta, 60 s tarkistukset, kohtainen nopeus ja äänipaketit."
+  },
+  "getPro": {
+    "message": "Hanki Pro. $$99 kertamaksu"
+  },
+  "restoreHint": {
+    "message": "Ostitko jo Pron? Liitä avaimesi yllä ja vahvista."
+  },
+  "pauseAction": {
+    "message": "Keskeytä"
+  },
+  "resumeAction": {
+    "message": "Jatka"
+  },
+  "deleteAction": {
+    "message": "Poista"
+  },
+  "openAction": {
+    "message": "Avaa"
+  },
+  "cadenceColLabel": {
+    "message": "Tarkistukset"
+  },
+  "perWatchCadenceHint": {
+    "message": "Kohtainen nopeus on Pro-säätö."
+  },
+  "lastChecked": {
+    "message": "tarkistettu $WHEN$",
+    "placeholders": {
+      "when": {
+        "content": "$1",
+        "example": "2 min ago"
+      }
+    }
+  },
+  "relNever": {
+    "message": "ei vielä"
+  },
+  "notifTitle": {
+    "message": "Palasi varastoon: $TITLE$",
+    "placeholders": {
+      "title": {
+        "content": "$1",
+        "example": "GPU model"
+      }
+    }
+  },
+  "onbEyebrow": {
+    "message": "Restock Radar"
+  },
+  "onbTitle": {
+    "message": "Seuraatko tuotetta? Ilmoitan heti, kun se palaa."
+  },
+  "onbTrust": {
+    "message": "Ilmainen. Ei tiliä. Ei seurantaa."
+  },
+  "onbStep1t": {
+    "message": "Avaa tuotesivu"
+  },
+  "onbStep1b": {
+    "message": "Mikä tahansa kauppa, mikä tahansa nyt loppunut tuote."
+  },
+  "onbStep2t": {
+    "message": "Napsauta Seuraa tätä sivua"
+  },
+  "onbStep2b": {
+    "message": "Yksi napautus työkalupalkista. Ei rekisteröintiä, ei asetusruutua."
+  },
+  "onbStep3t": {
+    "message": "Saat ilmoituksen heti, kun se palaa"
+  },
+  "onbStep3b": {
+    "message": "Työpöytäilmoitus ja sointu, vaikka välilehti olisi kiinni."
+  },
+  "onbCta": {
+    "message": "Seuraa ensimmäistä tuotettasi"
+  },
+  "onbProLine": {
+    "message": "Ilmainen jopa 3 seurattavalle. Pro avaa rajattoman seurannan, 60 s tarkistukset ja äänipaketit."
+  },
+  "onbGoPro": {
+    "message": "Katso Pro"
+  },
+  "onbFooter": {
+    "message": "Tekijä Zovo · zovo.one"
+  },
+  "sbEyebrow": {
+    "message": "Pro"
+  },
+  "sbHeadline": {
+    "message": "Avaa Pro. Maksa kerran, omasi ikuisesti."
+  },
+  "sbCtaSub": {
+    "message": "Yksi maksu, ei tilausta · 30 päivän rahat takaisin -takuu"
+  },
+  "sbMore": {
+    "message": "Lisää työkaluja"
+  },
+  "sbMoreLink": {
+    "message": "Selaa kaikkia työkaluja osoitteessa zovo.one"
+  },
+  "sbHelp": {
+    "message": "Ohje"
+  },
+  "sbPrivacy": {
+    "message": "Tietosuoja"
+  }
+}

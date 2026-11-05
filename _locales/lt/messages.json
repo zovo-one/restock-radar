@@ -1,0 +1,343 @@
+{
+  "extName": {
+    "message": "Restock Radar. Įspėjimai apie atsargas",
+    "description": "Extension name, <=75 chars"
+  },
+  "extDesc": {
+    "message": "Stebėkite bet kurį prekės puslapį ir gaukite pranešimą, vos jai vėl atsiradus. Be paskyros, be sekimo.",
+    "description": "Extension description, <=132 chars"
+  },
+  "brandName": {
+    "message": "Restock Radar"
+  },
+  "watchThisPage": {
+    "message": "Stebėti šį puslapį"
+  },
+  "watchAdding": {
+    "message": "Pridedama…"
+  },
+  "watchingHere": {
+    "message": "Šis puslapis stebimas"
+  },
+  "popupTagline": {
+    "message": "Gaukite pranešimą darbalaukyje, vos prekei vėl tapus prieinamai."
+  },
+  "notProduct": {
+    "message": "Tai nepanašu į prekės puslapį, bet vis tiek galite jį stebėti."
+  },
+  "watching": {
+    "message": "Stebima"
+  },
+  "checkingNow": {
+    "message": "tikrinama dabar"
+  },
+  "cadenceFree": {
+    "message": "kas 15 min."
+  },
+  "cadencePro": {
+    "message": "kas 60 s"
+  },
+  "cadenceChipLabel": {
+    "message": "Tikrinimai"
+  },
+  "statusOut": {
+    "message": "nėra sandėlyje · stebima"
+  },
+  "statusIn": {
+    "message": "jau sandėlyje"
+  },
+  "statusTriggered": {
+    "message": "vėl sandėlyje, pristabdyta"
+  },
+  "statusPaused": {
+    "message": "pristabdyta"
+  },
+  "statusError": {
+    "message": "nepavyksta pasiekti, bandoma vėl"
+  },
+  "watchesHere": {
+    "message": "Stebima šioje svetainėje"
+  },
+  "noWatchesHere": {
+    "message": "Šioje svetainėje dar nieko nestebima."
+  },
+  "manageAll": {
+    "message": "Tvarkyti visus stebėjimus"
+  },
+  "pickSoldOut": {
+    "message": "Pasirinkite mygtuką „Išparduota“"
+  },
+  "permNeeded": {
+    "message": "Kad galėčiau stebėti šią svetainę, man reikia prie jos prieigos."
+  },
+  "tryAgain": {
+    "message": "Bandyti dar kartą"
+  },
+  "capTitle": {
+    "message": "Stebima 3 iš 3"
+  },
+  "capBody": {
+    "message": "Pro stebi neribotą prekių skaičių, tikrina kas 60 s ir prideda garsų paketų."
+  },
+  "watchesNoun": {
+    "message": "stebėjimai"
+  },
+  "upgrade": {
+    "message": "Atnaujinti"
+  },
+  "maybeLater": {
+    "message": "Galbūt vėliau"
+  },
+  "proLock": {
+    "message": "Pro"
+  },
+  "pwHeadline": {
+    "message": "Niekada nepraleiskite kito atsargų papildymo"
+  },
+  "pwForever": {
+    "message": "Vienas mokėjimas amžinai atrakina Restock Radar Pro."
+  },
+  "proUnlock1": {
+    "message": "Stebėkite neribotą prekių skaičių, ne tik 3"
+  },
+  "proUnlock2": {
+    "message": "60 sekundžių tikrinimai, 15 kartų greičiau nei nemokamai"
+  },
+  "proUnlock3": {
+    "message": "Kiekvieno stebėjimo greičio valdymas"
+  },
+  "proUnlock4": {
+    "message": "Garsų paketai ir kiekvieno stebėjimo istorija"
+  },
+  "pwCompareHead": {
+    "message": "Nemokamas ir Pro"
+  },
+  "pwRowWatches": {
+    "message": "Aktyvūs stebėjimai"
+  },
+  "pwRowCadence": {
+    "message": "Tikrinimo greitis"
+  },
+  "pwRowSound": {
+    "message": "Įspėjimo garsai"
+  },
+  "pwFreeWatches": {
+    "message": "3"
+  },
+  "pwProWatches": {
+    "message": "Neribotai"
+  },
+  "pwFreeCadence": {
+    "message": "15 min."
+  },
+  "pwProCadence": {
+    "message": "60 s"
+  },
+  "pwFreeSound": {
+    "message": "1 skambutis"
+  },
+  "pwProSound": {
+    "message": "Garsų paketai"
+  },
+  "priceLine": {
+    "message": "$$99 visam laikui · vienas mokėjimas, ne prenumerata"
+  },
+  "guaranteeLine": {
+    "message": "30 dienų pinigų grąžinimo garantija. Be paskyros, jokio sekimo."
+  },
+  "startTrialNoCard": {
+    "message": "Pradėti 7 dienų nemokamą bandymą, be kortelės"
+  },
+  "getProCta": {
+    "message": "Įsigyti Pro. $$99 visam laikui"
+  },
+  "dashboardTitle": {
+    "message": "Jūsų stebėjimai"
+  },
+  "optionsSubtitle": {
+    "message": "Viskas, ką stebi Restock Radar."
+  },
+  "navWatches": {
+    "message": "Stebėjimai"
+  },
+  "navSettings": {
+    "message": "Nustatymai"
+  },
+  "navLicense": {
+    "message": "Licencija"
+  },
+  "emptyTitle": {
+    "message": "Dar nėra stebėjimų"
+  },
+  "emptyText": {
+    "message": "Atidarykite prekės puslapį, spustelėkite Restock Radar piktogramą ir paspauskite „Stebėti šį puslapį“."
+  },
+  "settingsSound": {
+    "message": "Įspėjimo garsas"
+  },
+  "settingsSoundHint": {
+    "message": "Groti skambutį, kai stebima prekė vėl atsiranda sandėlyje."
+  },
+  "settingsPack": {
+    "message": "Garsų paketas"
+  },
+  "settingsPackHint": {
+    "message": "Pasirinkite įspėjimo garsą. Daugiau paketų atrakinama su Pro."
+  },
+  "packDefault": {
+    "message": "Numatytasis skambutis"
+  },
+  "licenseTab": {
+    "message": "Licencija"
+  },
+  "licenseHeading": {
+    "message": "Jūsų planas"
+  },
+  "licenseKeyLabel": {
+    "message": "Licencijos raktas"
+  },
+  "licenseKeyPh": {
+    "message": "ZOVO-XXXX-XXXX-XXXX"
+  },
+  "verify": {
+    "message": "Patvirtinti"
+  },
+  "verifying": {
+    "message": "Tvirtinama…"
+  },
+  "verifyOk": {
+    "message": "Pro atrakinta. Ačiū, kad palaikote Zovo."
+  },
+  "verifyBad": {
+    "message": "Šis raktas nepasitvirtino. Patikrinkite jį ir bandykite dar kartą."
+  },
+  "tierFree": {
+    "message": "Nemokamas planas"
+  },
+  "tierTrial": {
+    "message": "Pro bandymas"
+  },
+  "tierPro": {
+    "message": "Pro"
+  },
+  "trialLeft": {
+    "message": "Bandymo laikotarpio liko $DAYS$ d.",
+    "placeholders": {
+      "days": {
+        "content": "$1",
+        "example": "6"
+      }
+    }
+  },
+  "startTrialCta": {
+    "message": "Pradėti 7 dienų Pro bandymą"
+  },
+  "proPitch": {
+    "message": "Neriboti stebėjimai, 60 sekundžių tikrinimai, kiekvieno stebėjimo greitis ir garsų paketai."
+  },
+  "getPro": {
+    "message": "Įsigyti Pro. $$99 vienkartinai"
+  },
+  "restoreHint": {
+    "message": "Jau įsigijote Pro? Įklijuokite raktą aukščiau ir patvirtinkite."
+  },
+  "pauseAction": {
+    "message": "Pristabdyti"
+  },
+  "resumeAction": {
+    "message": "Tęsti"
+  },
+  "deleteAction": {
+    "message": "Ištrinti"
+  },
+  "openAction": {
+    "message": "Atidaryti"
+  },
+  "cadenceColLabel": {
+    "message": "Tikrinimai"
+  },
+  "perWatchCadenceHint": {
+    "message": "Kiekvieno stebėjimo greitis yra Pro funkcija."
+  },
+  "lastChecked": {
+    "message": "patikrinta $WHEN$",
+    "placeholders": {
+      "when": {
+        "content": "$1",
+        "example": "2 min ago"
+      }
+    }
+  },
+  "relNever": {
+    "message": "dar ne"
+  },
+  "notifTitle": {
+    "message": "Vėl sandėlyje: $TITLE$",
+    "placeholders": {
+      "title": {
+        "content": "$1",
+        "example": "GPU model"
+      }
+    }
+  },
+  "onbEyebrow": {
+    "message": "Restock Radar"
+  },
+  "onbTitle": {
+    "message": "Stebite prekę? Pranešiu jums, vos jai vėl atsiradus."
+  },
+  "onbTrust": {
+    "message": "Nemokama. Be paskyros. Jokio sekimo."
+  },
+  "onbStep1t": {
+    "message": "Atidarykite prekės puslapį"
+  },
+  "onbStep1b": {
+    "message": "Bet kuri parduotuvė, bet kuri dabar išparduota prekė."
+  },
+  "onbStep2t": {
+    "message": "Spustelėkite „Stebėti šį puslapį“"
+  },
+  "onbStep2b": {
+    "message": "Vienas paspaudimas įrankių juostoje. Be registracijos, be sąrankos ekrano."
+  },
+  "onbStep3t": {
+    "message": "Gaukite pranešimą, vos prekei vėl atsiradus"
+  },
+  "onbStep3b": {
+    "message": "Pranešimas darbalaukyje ir skambutis, net kai kortelė uždaryta."
+  },
+  "onbCta": {
+    "message": "Stebėkite savo pirmąją prekę"
+  },
+  "onbProLine": {
+    "message": "Nemokamai iki 3 stebėjimų. Pro atrakina neribotus stebėjimus, 60 sekundžių tikrinimus ir garsų paketus."
+  },
+  "onbGoPro": {
+    "message": "Peržiūrėti Pro"
+  },
+  "onbFooter": {
+    "message": "Sukūrė Zovo · zovo.one"
+  },
+  "sbEyebrow": {
+    "message": "Pro"
+  },
+  "sbHeadline": {
+    "message": "Atrakinkite Pro. Sumokėkite kartą, jūsų visam laikui."
+  },
+  "sbCtaSub": {
+    "message": "Vienas mokėjimas, ne prenumerata · 30 dienų pinigų grąžinimo garantija"
+  },
+  "sbMore": {
+    "message": "Daugiau įrankių"
+  },
+  "sbMoreLink": {
+    "message": "Naršykite visus įrankius adresu zovo.one"
+  },
+  "sbHelp": {
+    "message": "Pagalba"
+  },
+  "sbPrivacy": {
+    "message": "Privatumas"
+  }
+}

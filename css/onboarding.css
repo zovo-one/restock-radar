@@ -1,0 +1,58 @@
+/* ============================================================================
+ * onboarding.css — Restock Radar first-run screen. Loads AFTER zovo-base.css.
+ * One calm, centered card: the promise, three steps, one primary CTA. Reads
+ * premium in light and dark with zero extra work (all brand tokens).
+ * ========================================================================== */
+
+.rr-onb {
+  min-height: 100vh;
+  display: flex; flex-direction: column; align-items: center; justify-content: center;
+  gap: var(--zovo-space-5);
+  padding: var(--zovo-space-7) var(--zovo-space-5);
+  background:
+    radial-gradient(1100px 460px at 50% -8%, var(--zovo-primary-50), transparent 70%),
+    var(--zovo-bg);
+}
+
+.rr-onb__card {
+  width: 100%; max-width: 480px;
+  background: var(--zovo-bg);
+  border: 1px solid var(--zovo-border);
+  border-radius: var(--zovo-radius-card);
+  box-shadow: var(--zovo-shadow-lg);
+  padding: var(--zovo-space-7) var(--zovo-space-6) var(--zovo-space-6);
+  display: flex; flex-direction: column; gap: var(--zovo-space-6);
+}
+
+/* ---- hero ------------------------------------------------------------------ */
+.rr-onb__hero { text-align: center; display: flex; flex-direction: column; align-items: center; gap: var(--zovo-space-2); }
+.rr-onb__logo { width: 72px; height: 72px; border-radius: 18px; box-shadow: var(--zovo-shadow); }
+.rr-onb__hero .zovo-eyebrow { margin: var(--zovo-space-2) 0 0; }
+.rr-onb__title {
+  margin: 0; font-size: var(--zovo-fs-title); font-weight: 700;
+  line-height: 1.22; letter-spacing: -0.02em; color: var(--zovo-text);
+  text-wrap: balance;
+}
+.rr-onb__trust {
+  margin: 0; font-size: var(--zovo-fs-body); font-weight: var(--zovo-fw-medium);
+  color: var(--zovo-primary);
+}
+
+/* ---- steps ----------------------------------------------------------------- */
+.rr-onb__steps { list-style: none; margin: 0; padding: 0; display: flex; flex-direction: column; gap: var(--zovo-space-3); }
+.rr-onb__step { display: flex; align-items: flex-start; gap: var(--zovo-space-3); }
+.rr-onb__num {
+  flex: none; width: 28px; height: 28px; border-radius: 999px;
+  display: flex; align-items: center; justify-content: center;
+  font-size: var(--zovo-fs-caption); font-weight: 700;
+  color: var(--zovo-primary); background: var(--zovo-primary-50);
+}
+.rr-onb__stepT { margin: 2px 0 0; font-weight: var(--zovo-fw-medium); color: var(--zovo-text); }
+.rr-onb__stepB { margin: 2px 0 0; font-size: var(--zovo-fs-caption); }
+
+/* ---- cta ------------------------------------------------------------------- */
+.rr-onb__cta { display: flex; flex-direction: column; align-items: center; gap: var(--zovo-space-2); }
+.rr-onb__cta .zovo-btn--primary { min-height: 48px; font-size: var(--zovo-fs-subheading); font-weight: var(--zovo-fw-heading); }
+.rr-onb__pro { margin: var(--zovo-space-2) 0 0; text-align: center; font-size: var(--zovo-fs-caption); max-width: 40ch; }
+
+.rr-onb__foot { font-size: var(--zovo-fs-caption); }

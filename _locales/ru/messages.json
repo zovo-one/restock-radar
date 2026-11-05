@@ -1,0 +1,343 @@
+{
+  "extName": {
+    "message": "Restock Radar. Оповещения о поступлении",
+    "description": "Extension name, <=75 chars"
+  },
+  "extDesc": {
+    "message": "Следите за любой страницей товара и получайте оповещение сразу при поступлении. Без аккаунта и слежки.",
+    "description": "Extension description, <=132 chars"
+  },
+  "brandName": {
+    "message": "Restock Radar"
+  },
+  "watchThisPage": {
+    "message": "Следить за этой страницей"
+  },
+  "watchAdding": {
+    "message": "Добавление…"
+  },
+  "watchingHere": {
+    "message": "Слежу за этой страницей"
+  },
+  "popupTagline": {
+    "message": "Получите оповещение на рабочий стол, как только товар снова можно купить."
+  },
+  "notProduct": {
+    "message": "Это не похоже на страницу товара, но вы всё равно можете следить за ней."
+  },
+  "watching": {
+    "message": "Слежу"
+  },
+  "checkingNow": {
+    "message": "проверяю сейчас"
+  },
+  "cadenceFree": {
+    "message": "каждые 15 мин"
+  },
+  "cadencePro": {
+    "message": "каждые 60 с"
+  },
+  "cadenceChipLabel": {
+    "message": "Проверки"
+  },
+  "statusOut": {
+    "message": "нет в наличии · слежу"
+  },
+  "statusIn": {
+    "message": "уже в наличии"
+  },
+  "statusTriggered": {
+    "message": "снова в наличии, приостановлено"
+  },
+  "statusPaused": {
+    "message": "приостановлено"
+  },
+  "statusError": {
+    "message": "нет доступа, повтор"
+  },
+  "watchesHere": {
+    "message": "Слежу на этом сайте"
+  },
+  "noWatchesHere": {
+    "message": "Пока нет отслеживаний на этом сайте."
+  },
+  "manageAll": {
+    "message": "Управлять всеми отслеживаниями"
+  },
+  "pickSoldOut": {
+    "message": "Выберите кнопку «Нет в наличии»"
+  },
+  "permNeeded": {
+    "message": "Мне нужен доступ к этому сайту, чтобы следить за ним."
+  },
+  "tryAgain": {
+    "message": "Попробовать снова"
+  },
+  "capTitle": {
+    "message": "Отслеживается 3 из 3"
+  },
+  "capBody": {
+    "message": "Pro отслеживает неограниченно товаров, проверяет каждые 60 с и добавляет звуковые наборы."
+  },
+  "watchesNoun": {
+    "message": "отслеживаний"
+  },
+  "upgrade": {
+    "message": "Перейти на Pro"
+  },
+  "maybeLater": {
+    "message": "Может быть, позже"
+  },
+  "proLock": {
+    "message": "Pro"
+  },
+  "pwHeadline": {
+    "message": "Не пропустите следующее поступление"
+  },
+  "pwForever": {
+    "message": "Один платёж открывает Restock Radar Pro навсегда."
+  },
+  "proUnlock1": {
+    "message": "Следите за неограниченным числом товаров, а не только за 3"
+  },
+  "proUnlock2": {
+    "message": "Проверки за 60 секунд, в 15 раз быстрее бесплатной версии"
+  },
+  "proUnlock3": {
+    "message": "Управление скоростью для каждого отслеживания"
+  },
+  "proUnlock4": {
+    "message": "Звуковые наборы и история по каждому отслеживанию"
+  },
+  "pwCompareHead": {
+    "message": "Бесплатно и Pro"
+  },
+  "pwRowWatches": {
+    "message": "Активные отслеживания"
+  },
+  "pwRowCadence": {
+    "message": "Скорость проверки"
+  },
+  "pwRowSound": {
+    "message": "Звуки оповещений"
+  },
+  "pwFreeWatches": {
+    "message": "3"
+  },
+  "pwProWatches": {
+    "message": "Без ограничений"
+  },
+  "pwFreeCadence": {
+    "message": "15 мин"
+  },
+  "pwProCadence": {
+    "message": "60 с"
+  },
+  "pwFreeSound": {
+    "message": "1 сигнал"
+  },
+  "pwProSound": {
+    "message": "Звуковые наборы"
+  },
+  "priceLine": {
+    "message": "$$99 навсегда · один платёж, а не подписка"
+  },
+  "guaranteeLine": {
+    "message": "Возврат денег в течение 30 дней. Без аккаунта, никакой слежки."
+  },
+  "startTrialNoCard": {
+    "message": "Начать 7-дневный пробный период без карты"
+  },
+  "getProCta": {
+    "message": "Получить Pro. $$99 навсегда"
+  },
+  "dashboardTitle": {
+    "message": "Ваши отслеживания"
+  },
+  "optionsSubtitle": {
+    "message": "Всё, за чем следит Restock Radar."
+  },
+  "navWatches": {
+    "message": "Отслеживания"
+  },
+  "navSettings": {
+    "message": "Настройки"
+  },
+  "navLicense": {
+    "message": "Лицензия"
+  },
+  "emptyTitle": {
+    "message": "Пока нет отслеживаний"
+  },
+  "emptyText": {
+    "message": "Откройте страницу товара, нажмите значок Restock Radar, затем «Следить за этой страницей»."
+  },
+  "settingsSound": {
+    "message": "Звук оповещения"
+  },
+  "settingsSoundHint": {
+    "message": "Проигрывать сигнал, когда отслеживаемый товар снова появляется в наличии."
+  },
+  "settingsPack": {
+    "message": "Звуковой набор"
+  },
+  "settingsPackHint": {
+    "message": "Выберите звук оповещения. Больше наборов открывается с Pro."
+  },
+  "packDefault": {
+    "message": "Стандартный сигнал"
+  },
+  "licenseTab": {
+    "message": "Лицензия"
+  },
+  "licenseHeading": {
+    "message": "Ваш план"
+  },
+  "licenseKeyLabel": {
+    "message": "Лицензионный ключ"
+  },
+  "licenseKeyPh": {
+    "message": "ZOVO-XXXX-XXXX-XXXX"
+  },
+  "verify": {
+    "message": "Проверить"
+  },
+  "verifying": {
+    "message": "Проверка…"
+  },
+  "verifyOk": {
+    "message": "Pro активирован. Спасибо за поддержку Zovo."
+  },
+  "verifyBad": {
+    "message": "Этот ключ не подошёл. Проверьте его и попробуйте снова."
+  },
+  "tierFree": {
+    "message": "Бесплатный план"
+  },
+  "tierTrial": {
+    "message": "Пробный Pro"
+  },
+  "tierPro": {
+    "message": "Pro"
+  },
+  "trialLeft": {
+    "message": "Осталось дней пробного периода: $DAYS$",
+    "placeholders": {
+      "days": {
+        "content": "$1",
+        "example": "6"
+      }
+    }
+  },
+  "startTrialCta": {
+    "message": "Начать 7-дневный пробный Pro"
+  },
+  "proPitch": {
+    "message": "Неограниченные отслеживания, проверки за 60 секунд, скорость по отслеживанию и звуковые наборы."
+  },
+  "getPro": {
+    "message": "Получить Pro. $$99 разово"
+  },
+  "restoreHint": {
+    "message": "Уже купили Pro? Вставьте свой ключ выше и проверьте."
+  },
+  "pauseAction": {
+    "message": "Пауза"
+  },
+  "resumeAction": {
+    "message": "Возобновить"
+  },
+  "deleteAction": {
+    "message": "Удалить"
+  },
+  "openAction": {
+    "message": "Открыть"
+  },
+  "cadenceColLabel": {
+    "message": "Проверки"
+  },
+  "perWatchCadenceHint": {
+    "message": "Скорость по отдельному отслеживанию — функция Pro."
+  },
+  "lastChecked": {
+    "message": "проверено $WHEN$",
+    "placeholders": {
+      "when": {
+        "content": "$1",
+        "example": "2 min ago"
+      }
+    }
+  },
+  "relNever": {
+    "message": "ещё нет"
+  },
+  "notifTitle": {
+    "message": "Снова в наличии: $TITLE$",
+    "placeholders": {
+      "title": {
+        "content": "$1",
+        "example": "GPU model"
+      }
+    }
+  },
+  "onbEyebrow": {
+    "message": "Restock Radar"
+  },
+  "onbTitle": {
+    "message": "Следите за товаром? Я сообщу вам сразу, как только он вернётся."
+  },
+  "onbTrust": {
+    "message": "Бесплатно. Без аккаунта. Без слежки."
+  },
+  "onbStep1t": {
+    "message": "Откройте страницу товара"
+  },
+  "onbStep1b": {
+    "message": "Любой магазин, любой товар, которого сейчас нет в наличии."
+  },
+  "onbStep2t": {
+    "message": "Нажмите «Следить за этой страницей»"
+  },
+  "onbStep2b": {
+    "message": "Одно нажатие на панели инструментов. Без регистрации и экранов настройки."
+  },
+  "onbStep3t": {
+    "message": "Получите уведомление, как только товар вернётся"
+  },
+  "onbStep3b": {
+    "message": "Оповещение на рабочем столе и сигнал, даже с закрытой вкладкой."
+  },
+  "onbCta": {
+    "message": "Начните следить за первым товаром"
+  },
+  "onbProLine": {
+    "message": "Бесплатно до 3 отслеживаний. Pro открывает неограниченные отслеживания, проверки за 60 секунд и звуковые наборы."
+  },
+  "onbGoPro": {
+    "message": "Смотреть Pro"
+  },
+  "onbFooter": {
+    "message": "Сделано в Zovo · zovo.one"
+  },
+  "sbEyebrow": {
+    "message": "Pro"
+  },
+  "sbHeadline": {
+    "message": "Откройте Pro. Заплатите один раз — ваше навсегда."
+  },
+  "sbCtaSub": {
+    "message": "Один платёж, а не подписка · возврат денег в течение 30 дней"
+  },
+  "sbMore": {
+    "message": "Больше инструментов"
+  },
+  "sbMoreLink": {
+    "message": "Смотреть все инструменты на zovo.one"
+  },
+  "sbHelp": {
+    "message": "Помощь"
+  },
+  "sbPrivacy": {
+    "message": "Конфиденциальность"
+  }
+}

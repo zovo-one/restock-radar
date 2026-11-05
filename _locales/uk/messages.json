@@ -1,0 +1,343 @@
+{
+  "extName": {
+    "message": "Restock Radar. Сповіщення про наявність товару",
+    "description": "Extension name, <=75 chars"
+  },
+  "extDesc": {
+    "message": "Стежте за будь-якою сторінкою товару й отримайте сповіщення, щойно він знову з'явиться. Без акаунта, без стеження.",
+    "description": "Extension description, <=132 chars"
+  },
+  "brandName": {
+    "message": "Restock Radar"
+  },
+  "watchThisPage": {
+    "message": "Стежити за цією сторінкою"
+  },
+  "watchAdding": {
+    "message": "Додавання…"
+  },
+  "watchingHere": {
+    "message": "Стежимо за цією сторінкою"
+  },
+  "popupTagline": {
+    "message": "Отримайте сповіщення на робочий стіл, щойно товар знову можна купити."
+  },
+  "notProduct": {
+    "message": "Це не схоже на сторінку товару, але ви все одно можете за нею стежити."
+  },
+  "watching": {
+    "message": "Стежимо"
+  },
+  "checkingNow": {
+    "message": "перевіряємо зараз"
+  },
+  "cadenceFree": {
+    "message": "кожні 15 хв"
+  },
+  "cadencePro": {
+    "message": "кожні 60 с"
+  },
+  "cadenceChipLabel": {
+    "message": "Перевірки"
+  },
+  "statusOut": {
+    "message": "немає в наявності · стежимо"
+  },
+  "statusIn": {
+    "message": "вже в наявності"
+  },
+  "statusTriggered": {
+    "message": "знову в наявності, призупинено"
+  },
+  "statusPaused": {
+    "message": "призупинено"
+  },
+  "statusError": {
+    "message": "недоступно, повторюємо спробу"
+  },
+  "watchesHere": {
+    "message": "Стеження на цьому сайті"
+  },
+  "noWatchesHere": {
+    "message": "На цьому сайті ще немає стежень."
+  },
+  "manageAll": {
+    "message": "Керувати всіма стеженнями"
+  },
+  "pickSoldOut": {
+    "message": "Виберіть кнопку «Немає в наявності»"
+  },
+  "permNeeded": {
+    "message": "Мені потрібен доступ до цього сайту, щоб стежити за ним."
+  },
+  "tryAgain": {
+    "message": "Спробувати ще раз"
+  },
+  "capTitle": {
+    "message": "Стежимо за 3 з 3"
+  },
+  "capBody": {
+    "message": "Pro стежить за необмеженою кількістю товарів, перевіряє кожні 60 с і додає звукові набори."
+  },
+  "watchesNoun": {
+    "message": "стежень"
+  },
+  "upgrade": {
+    "message": "Оновити"
+  },
+  "maybeLater": {
+    "message": "Можливо, пізніше"
+  },
+  "proLock": {
+    "message": "Pro"
+  },
+  "pwHeadline": {
+    "message": "Ніколи не пропускайте наступне поповнення"
+  },
+  "pwForever": {
+    "message": "Один платіж відкриває Restock Radar Pro назавжди."
+  },
+  "proUnlock1": {
+    "message": "Стежте за необмеженою кількістю товарів, а не лише за 3"
+  },
+  "proUnlock2": {
+    "message": "Перевірки кожні 60 секунд, у 15 разів швидше за безкоштовну версію"
+  },
+  "proUnlock3": {
+    "message": "Керування швидкістю для кожного стеження"
+  },
+  "proUnlock4": {
+    "message": "Звукові набори та історія для кожного стеження"
+  },
+  "pwCompareHead": {
+    "message": "Безкоштовна vs Pro"
+  },
+  "pwRowWatches": {
+    "message": "Активні стеження"
+  },
+  "pwRowCadence": {
+    "message": "Швидкість перевірки"
+  },
+  "pwRowSound": {
+    "message": "Звуки сповіщень"
+  },
+  "pwFreeWatches": {
+    "message": "3"
+  },
+  "pwProWatches": {
+    "message": "Необмежено"
+  },
+  "pwFreeCadence": {
+    "message": "15 хв"
+  },
+  "pwProCadence": {
+    "message": "60 с"
+  },
+  "pwFreeSound": {
+    "message": "1 сигнал"
+  },
+  "pwProSound": {
+    "message": "Звукові набори"
+  },
+  "priceLine": {
+    "message": "$$99 довічно · один платіж, а не підписка"
+  },
+  "guaranteeLine": {
+    "message": "30-денна гарантія повернення коштів. Без акаунта, нуль стеження."
+  },
+  "startTrialNoCard": {
+    "message": "Почати 7-денний безкоштовний період, без картки"
+  },
+  "getProCta": {
+    "message": "Отримати Pro. $$99 довічно"
+  },
+  "dashboardTitle": {
+    "message": "Ваші стеження"
+  },
+  "optionsSubtitle": {
+    "message": "Усе, за чим стежить Restock Radar."
+  },
+  "navWatches": {
+    "message": "Стеження"
+  },
+  "navSettings": {
+    "message": "Налаштування"
+  },
+  "navLicense": {
+    "message": "Ліцензія"
+  },
+  "emptyTitle": {
+    "message": "Ще немає стежень"
+  },
+  "emptyText": {
+    "message": "Відкрийте сторінку товару, натисніть значок Restock Radar, а потім «Стежити за цією сторінкою»."
+  },
+  "settingsSound": {
+    "message": "Звук сповіщення"
+  },
+  "settingsSoundHint": {
+    "message": "Відтворювати сигнал, коли товар, за яким ви стежите, знову з'явиться в наявності."
+  },
+  "settingsPack": {
+    "message": "Звуковий набір"
+  },
+  "settingsPackHint": {
+    "message": "Виберіть звук сповіщення. Більше наборів відкривається з Pro."
+  },
+  "packDefault": {
+    "message": "Стандартний сигнал"
+  },
+  "licenseTab": {
+    "message": "Ліцензія"
+  },
+  "licenseHeading": {
+    "message": "Ваш план"
+  },
+  "licenseKeyLabel": {
+    "message": "Ліцензійний ключ"
+  },
+  "licenseKeyPh": {
+    "message": "ZOVO-XXXX-XXXX-XXXX"
+  },
+  "verify": {
+    "message": "Перевірити"
+  },
+  "verifying": {
+    "message": "Перевірка…"
+  },
+  "verifyOk": {
+    "message": "Pro відкрито. Дякуємо за підтримку Zovo."
+  },
+  "verifyBad": {
+    "message": "Цей ключ не пройшов перевірку. Перевірте його та спробуйте ще раз."
+  },
+  "tierFree": {
+    "message": "Безкоштовний план"
+  },
+  "tierTrial": {
+    "message": "Пробний Pro"
+  },
+  "tierPro": {
+    "message": "Pro"
+  },
+  "trialLeft": {
+    "message": "Залишилося днів пробного періоду: $DAYS$",
+    "placeholders": {
+      "days": {
+        "content": "$1",
+        "example": "6"
+      }
+    }
+  },
+  "startTrialCta": {
+    "message": "Почати 7-денний пробний Pro"
+  },
+  "proPitch": {
+    "message": "Необмежені стеження, перевірки кожні 60 секунд, швидкість для кожного стеження та звукові набори."
+  },
+  "getPro": {
+    "message": "Отримати Pro. $$99 одноразово"
+  },
+  "restoreHint": {
+    "message": "Уже придбали Pro? Вставте ключ вище та перевірте."
+  },
+  "pauseAction": {
+    "message": "Призупинити"
+  },
+  "resumeAction": {
+    "message": "Відновити"
+  },
+  "deleteAction": {
+    "message": "Видалити"
+  },
+  "openAction": {
+    "message": "Відкрити"
+  },
+  "cadenceColLabel": {
+    "message": "Перевірки"
+  },
+  "perWatchCadenceHint": {
+    "message": "Швидкість для кожного стеження — це елемент керування Pro."
+  },
+  "lastChecked": {
+    "message": "перевірено $WHEN$",
+    "placeholders": {
+      "when": {
+        "content": "$1",
+        "example": "2 min ago"
+      }
+    }
+  },
+  "relNever": {
+    "message": "ще ні"
+  },
+  "notifTitle": {
+    "message": "Знову в наявності: $TITLE$",
+    "placeholders": {
+      "title": {
+        "content": "$1",
+        "example": "GPU model"
+      }
+    }
+  },
+  "onbEyebrow": {
+    "message": "Restock Radar"
+  },
+  "onbTitle": {
+    "message": "Стежите за товаром? Я сповіщу вас, щойно він знову з'явиться."
+  },
+  "onbTrust": {
+    "message": "Безкоштовно. Без акаунта. Без стеження."
+  },
+  "onbStep1t": {
+    "message": "Відкрийте сторінку товару"
+  },
+  "onbStep1b": {
+    "message": "Будь-який магазин, будь-який товар, якого зараз немає в наявності."
+  },
+  "onbStep2t": {
+    "message": "Натисніть «Стежити за цією сторінкою»"
+  },
+  "onbStep2b": {
+    "message": "Один дотик на панелі інструментів. Без реєстрації, без екрана налаштувань."
+  },
+  "onbStep3t": {
+    "message": "Отримайте сповіщення, щойно товар з'явиться"
+  },
+  "onbStep3b": {
+    "message": "Сповіщення на робочий стіл і сигнал, навіть коли вкладку закрито."
+  },
+  "onbCta": {
+    "message": "Почати стежити за першим товаром"
+  },
+  "onbProLine": {
+    "message": "Безкоштовно до 3 стежень. Pro відкриває необмежені стеження, перевірки кожні 60 секунд і звукові набори."
+  },
+  "onbGoPro": {
+    "message": "Переглянути Pro"
+  },
+  "onbFooter": {
+    "message": "Створено Zovo · zovo.one"
+  },
+  "sbEyebrow": {
+    "message": "Pro"
+  },
+  "sbHeadline": {
+    "message": "Відкрийте Pro. Заплатіть один раз — ваше назавжди."
+  },
+  "sbCtaSub": {
+    "message": "Один платіж, а не підписка · 30-денна гарантія повернення коштів"
+  },
+  "sbMore": {
+    "message": "Більше інструментів"
+  },
+  "sbMoreLink": {
+    "message": "Переглянути всі інструменти на zovo.one"
+  },
+  "sbHelp": {
+    "message": "Довідка"
+  },
+  "sbPrivacy": {
+    "message": "Конфіденційність"
+  }
+}

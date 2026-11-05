@@ -1,0 +1,343 @@
+{
+  "extName": {
+    "message": "Restock Radar. Arifa za Bidhaa Kurudi Stoo",
+    "description": "Extension name, <=75 chars"
+  },
+  "extDesc": {
+    "message": "Fuatilia ukurasa wowote wa bidhaa upate arifa ya kompyuta mara inaporudi stoo. Hakuna akaunti wala ufuatiliaji.",
+    "description": "Extension description, <=132 chars"
+  },
+  "brandName": {
+    "message": "Restock Radar"
+  },
+  "watchThisPage": {
+    "message": "Fuatilia ukurasa huu"
+  },
+  "watchAdding": {
+    "message": "Inaongeza…"
+  },
+  "watchingHere": {
+    "message": "Inafuatilia ukurasa huu"
+  },
+  "popupTagline": {
+    "message": "Pata arifa ya kompyuta mara inaponunulika tena."
+  },
+  "notProduct": {
+    "message": "Huu hauonekani kama ukurasa wa bidhaa, lakini bado unaweza kuufuatilia."
+  },
+  "watching": {
+    "message": "Inafuatilia"
+  },
+  "checkingNow": {
+    "message": "inakagua sasa"
+  },
+  "cadenceFree": {
+    "message": "kila dakika 15"
+  },
+  "cadencePro": {
+    "message": "kila sekunde 60"
+  },
+  "cadenceChipLabel": {
+    "message": "Ukaguzi"
+  },
+  "statusOut": {
+    "message": "haipo stoo · inafuatiliwa"
+  },
+  "statusIn": {
+    "message": "tayari ipo stoo"
+  },
+  "statusTriggered": {
+    "message": "imerudi stoo, imesimamishwa"
+  },
+  "statusPaused": {
+    "message": "imesimamishwa"
+  },
+  "statusError": {
+    "message": "haifikiki, inajaribu tena"
+  },
+  "watchesHere": {
+    "message": "Inafuatilia kwenye tovuti hii"
+  },
+  "noWatchesHere": {
+    "message": "Hakuna ufuatiliaji kwenye tovuti hii bado."
+  },
+  "manageAll": {
+    "message": "Dhibiti ufuatiliaji wote"
+  },
+  "pickSoldOut": {
+    "message": "Chagua kitufe cha Imeisha"
+  },
+  "permNeeded": {
+    "message": "Nahitaji ufikiaji wa tovuti hii ili kuifuatilia."
+  },
+  "tryAgain": {
+    "message": "Jaribu tena"
+  },
+  "capTitle": {
+    "message": "Inafuatilia 3 kati ya 3"
+  },
+  "capBody": {
+    "message": "Pro hufuatilia bidhaa zisizo na kikomo, hukagua kila sekunde 60, na huongeza pakiti za sauti."
+  },
+  "watchesNoun": {
+    "message": "ufuatiliaji"
+  },
+  "upgrade": {
+    "message": "Boresha"
+  },
+  "maybeLater": {
+    "message": "Labda baadaye"
+  },
+  "proLock": {
+    "message": "Pro"
+  },
+  "pwHeadline": {
+    "message": "Usikose kamwe urudishaji stoo unaofuata"
+  },
+  "pwForever": {
+    "message": "Malipo moja hufungua Restock Radar Pro milele."
+  },
+  "proUnlock1": {
+    "message": "Fuatilia bidhaa zisizo na kikomo, si 3 tu"
+  },
+  "proUnlock2": {
+    "message": "Ukaguzi wa sekunde 60, mara 15 haraka kuliko bure"
+  },
+  "proUnlock3": {
+    "message": "Udhibiti wa kasi kwa kila ufuatiliaji"
+  },
+  "proUnlock4": {
+    "message": "Pakiti za sauti na historia ya kila ufuatiliaji"
+  },
+  "pwCompareHead": {
+    "message": "Bure dhidi ya Pro"
+  },
+  "pwRowWatches": {
+    "message": "Ufuatiliaji hai"
+  },
+  "pwRowCadence": {
+    "message": "Kasi ya ukaguzi"
+  },
+  "pwRowSound": {
+    "message": "Sauti za arifa"
+  },
+  "pwFreeWatches": {
+    "message": "3"
+  },
+  "pwProWatches": {
+    "message": "Bila kikomo"
+  },
+  "pwFreeCadence": {
+    "message": "dakika 15"
+  },
+  "pwProCadence": {
+    "message": "sekunde 60"
+  },
+  "pwFreeSound": {
+    "message": "kengele 1"
+  },
+  "pwProSound": {
+    "message": "Pakiti za sauti"
+  },
+  "priceLine": {
+    "message": "$$99 maisha yote · malipo moja, si usajili"
+  },
+  "guaranteeLine": {
+    "message": "Dhamana ya kurudishiwa pesa ndani ya siku 30. Hakuna akaunti, hakuna ufuatiliaji."
+  },
+  "startTrialNoCard": {
+    "message": "Anza jaribio la bure la siku 7, bila kadi"
+  },
+  "getProCta": {
+    "message": "Pata Pro. $$99 maisha yote"
+  },
+  "dashboardTitle": {
+    "message": "Ufuatiliaji wako"
+  },
+  "optionsSubtitle": {
+    "message": "Kila kitu Restock Radar inachokifuatilia."
+  },
+  "navWatches": {
+    "message": "Ufuatiliaji"
+  },
+  "navSettings": {
+    "message": "Mipangilio"
+  },
+  "navLicense": {
+    "message": "Leseni"
+  },
+  "emptyTitle": {
+    "message": "Hakuna ufuatiliaji bado"
+  },
+  "emptyText": {
+    "message": "Fungua ukurasa wa bidhaa, bofya aikoni ya Restock Radar, kisha bofya Fuatilia ukurasa huu."
+  },
+  "settingsSound": {
+    "message": "Sauti ya arifa"
+  },
+  "settingsSoundHint": {
+    "message": "Piga kengele bidhaa inayofuatiliwa inaporudi stoo."
+  },
+  "settingsPack": {
+    "message": "Pakiti ya sauti"
+  },
+  "settingsPackHint": {
+    "message": "Chagua sauti ya arifa. Pakiti zaidi hufunguliwa na Pro."
+  },
+  "packDefault": {
+    "message": "Kengele chaguo-msingi"
+  },
+  "licenseTab": {
+    "message": "Leseni"
+  },
+  "licenseHeading": {
+    "message": "Mpango wako"
+  },
+  "licenseKeyLabel": {
+    "message": "Ufunguo wa leseni"
+  },
+  "licenseKeyPh": {
+    "message": "ZOVO-XXXX-XXXX-XXXX"
+  },
+  "verify": {
+    "message": "Thibitisha"
+  },
+  "verifying": {
+    "message": "Inathibitisha…"
+  },
+  "verifyOk": {
+    "message": "Pro imefunguliwa. Asante kwa kuunga mkono Zovo."
+  },
+  "verifyBad": {
+    "message": "Ufunguo huo haukuthibitika. Uangalie kisha ujaribu tena."
+  },
+  "tierFree": {
+    "message": "Mpango wa bure"
+  },
+  "tierTrial": {
+    "message": "Jaribio la Pro"
+  },
+  "tierPro": {
+    "message": "Pro"
+  },
+  "trialLeft": {
+    "message": "Zimebaki siku $DAYS$ kwenye jaribio lako",
+    "placeholders": {
+      "days": {
+        "content": "$1",
+        "example": "6"
+      }
+    }
+  },
+  "startTrialCta": {
+    "message": "Anza jaribio la Pro la siku 7"
+  },
+  "proPitch": {
+    "message": "Ufuatiliaji usio na kikomo, ukaguzi wa sekunde 60, kasi ya kila ufuatiliaji na pakiti za sauti."
+  },
+  "getPro": {
+    "message": "Pata Pro. $$99 mara moja"
+  },
+  "restoreHint": {
+    "message": "Tayari umenunua Pro? Bandika ufunguo wako hapo juu na uthibitishe."
+  },
+  "pauseAction": {
+    "message": "Simamisha"
+  },
+  "resumeAction": {
+    "message": "Endelea"
+  },
+  "deleteAction": {
+    "message": "Futa"
+  },
+  "openAction": {
+    "message": "Fungua"
+  },
+  "cadenceColLabel": {
+    "message": "Ukaguzi"
+  },
+  "perWatchCadenceHint": {
+    "message": "Kasi ya kila ufuatiliaji ni udhibiti wa Pro."
+  },
+  "lastChecked": {
+    "message": "imekaguliwa $WHEN$",
+    "placeholders": {
+      "when": {
+        "content": "$1",
+        "example": "2 min ago"
+      }
+    }
+  },
+  "relNever": {
+    "message": "bado"
+  },
+  "notifTitle": {
+    "message": "Imerudi stoo: $TITLE$",
+    "placeholders": {
+      "title": {
+        "content": "$1",
+        "example": "GPU model"
+      }
+    }
+  },
+  "onbEyebrow": {
+    "message": "Restock Radar"
+  },
+  "onbTitle": {
+    "message": "Unafuatilia bidhaa? Nitakuarifu mara inaporudi."
+  },
+  "onbTrust": {
+    "message": "Bure. Hakuna akaunti. Hakuna ufuatiliaji."
+  },
+  "onbStep1t": {
+    "message": "Fungua ukurasa wa bidhaa"
+  },
+  "onbStep1b": {
+    "message": "Duka lolote, bidhaa yoyote iliyoisha sasa hivi."
+  },
+  "onbStep2t": {
+    "message": "Bofya Fuatilia ukurasa huu"
+  },
+  "onbStep2b": {
+    "message": "Mguso mmoja kutoka upau wa vidhibiti. Hakuna usajili, hakuna skrini ya usanidi."
+  },
+  "onbStep3t": {
+    "message": "Arifiwa mara inaporudi"
+  },
+  "onbStep3b": {
+    "message": "Arifa ya kompyuta na kengele, hata kichupo kikiwa kimefungwa."
+  },
+  "onbCta": {
+    "message": "Fuatilia bidhaa yako ya kwanza"
+  },
+  "onbProLine": {
+    "message": "Bure kwa ufuatiliaji hadi 3. Pro hufungua ufuatiliaji usio na kikomo, ukaguzi wa sekunde 60 na pakiti za sauti."
+  },
+  "onbGoPro": {
+    "message": "Angalia Pro"
+  },
+  "onbFooter": {
+    "message": "Imetengenezwa na Zovo · zovo.one"
+  },
+  "sbEyebrow": {
+    "message": "Pro"
+  },
+  "sbHeadline": {
+    "message": "Fungua Pro. Lipa mara moja, yako milele."
+  },
+  "sbCtaSub": {
+    "message": "Malipo moja, si usajili · dhamana ya kurudishiwa pesa ndani ya siku 30"
+  },
+  "sbMore": {
+    "message": "Zana zaidi"
+  },
+  "sbMoreLink": {
+    "message": "Vinjari zana zote kwenye zovo.one"
+  },
+  "sbHelp": {
+    "message": "Msaada"
+  },
+  "sbPrivacy": {
+    "message": "Faragha"
+  }
+}

@@ -1,0 +1,343 @@
+{
+  "extName": {
+    "message": "Restock Radar. Amaran Kembali Ada Stok",
+    "description": "Extension name, <=75 chars"
+  },
+  "extDesc": {
+    "message": "Pantau mana-mana halaman produk dan dapat amaran desktop sebaik ia kembali ada stok. Tanpa akaun, tanpa penjejakan.",
+    "description": "Extension description, <=132 chars"
+  },
+  "brandName": {
+    "message": "Restock Radar"
+  },
+  "watchThisPage": {
+    "message": "Pantau halaman ini"
+  },
+  "watchAdding": {
+    "message": "Menambah…"
+  },
+  "watchingHere": {
+    "message": "Memantau halaman ini"
+  },
+  "popupTagline": {
+    "message": "Dapat bunyi ping desktop sebaik ia boleh dibeli semula."
+  },
+  "notProduct": {
+    "message": "Ini nampaknya bukan halaman produk, tetapi anda masih boleh memantaunya."
+  },
+  "watching": {
+    "message": "Memantau"
+  },
+  "checkingNow": {
+    "message": "sedang menyemak"
+  },
+  "cadenceFree": {
+    "message": "setiap 15 min"
+  },
+  "cadencePro": {
+    "message": "setiap 60s"
+  },
+  "cadenceChipLabel": {
+    "message": "Semakan"
+  },
+  "statusOut": {
+    "message": "kehabisan stok · memantau"
+  },
+  "statusIn": {
+    "message": "sudah ada stok"
+  },
+  "statusTriggered": {
+    "message": "kembali ada stok, dijeda"
+  },
+  "statusPaused": {
+    "message": "dijeda"
+  },
+  "statusError": {
+    "message": "tidak dapat dicapai, mencuba semula"
+  },
+  "watchesHere": {
+    "message": "Memantau di laman ini"
+  },
+  "noWatchesHere": {
+    "message": "Belum ada pantauan di laman ini."
+  },
+  "manageAll": {
+    "message": "Urus semua pantauan"
+  },
+  "pickSoldOut": {
+    "message": "Pilih butang Kehabisan Stok"
+  },
+  "permNeeded": {
+    "message": "Saya perlukan akses ke laman ini untuk memantaunya."
+  },
+  "tryAgain": {
+    "message": "Cuba lagi"
+  },
+  "capTitle": {
+    "message": "Memantau 3 daripada 3"
+  },
+  "capBody": {
+    "message": "Pro memantau produk tanpa had, menyemak setiap 60s, dan menambah pek bunyi."
+  },
+  "watchesNoun": {
+    "message": "pantauan"
+  },
+  "upgrade": {
+    "message": "Naik taraf"
+  },
+  "maybeLater": {
+    "message": "Mungkin nanti"
+  },
+  "proLock": {
+    "message": "Pro"
+  },
+  "pwHeadline": {
+    "message": "Jangan terlepas restok seterusnya"
+  },
+  "pwForever": {
+    "message": "Satu bayaran membuka Restock Radar Pro selamanya."
+  },
+  "proUnlock1": {
+    "message": "Pantau produk tanpa had, bukan hanya 3"
+  },
+  "proUnlock2": {
+    "message": "Semakan 60 saat, 15x lebih pantas daripada percuma"
+  },
+  "proUnlock3": {
+    "message": "Kawalan kelajuan bagi setiap pantauan"
+  },
+  "proUnlock4": {
+    "message": "Pek bunyi dan sejarah bagi setiap pantauan"
+  },
+  "pwCompareHead": {
+    "message": "Percuma vs Pro"
+  },
+  "pwRowWatches": {
+    "message": "Pantauan aktif"
+  },
+  "pwRowCadence": {
+    "message": "Kelajuan semakan"
+  },
+  "pwRowSound": {
+    "message": "Bunyi amaran"
+  },
+  "pwFreeWatches": {
+    "message": "3"
+  },
+  "pwProWatches": {
+    "message": "Tanpa had"
+  },
+  "pwFreeCadence": {
+    "message": "15 min"
+  },
+  "pwProCadence": {
+    "message": "60 saat"
+  },
+  "pwFreeSound": {
+    "message": "1 loceng"
+  },
+  "pwProSound": {
+    "message": "Pek bunyi"
+  },
+  "priceLine": {
+    "message": "$$99 seumur hidup · satu bayaran, bukan langganan"
+  },
+  "guaranteeLine": {
+    "message": "Jaminan wang dikembalikan 30 hari. Tanpa akaun, tanpa penjejakan."
+  },
+  "startTrialNoCard": {
+    "message": "Mulakan percubaan percuma 7 hari, tanpa kad"
+  },
+  "getProCta": {
+    "message": "Dapatkan Pro. $$99 seumur hidup"
+  },
+  "dashboardTitle": {
+    "message": "Pantauan anda"
+  },
+  "optionsSubtitle": {
+    "message": "Semua yang sedang diperhatikan oleh Restock Radar."
+  },
+  "navWatches": {
+    "message": "Pantauan"
+  },
+  "navSettings": {
+    "message": "Tetapan"
+  },
+  "navLicense": {
+    "message": "Lesen"
+  },
+  "emptyTitle": {
+    "message": "Belum ada pantauan"
+  },
+  "emptyText": {
+    "message": "Buka halaman produk, klik ikon Restock Radar, kemudian tekan Pantau halaman ini."
+  },
+  "settingsSound": {
+    "message": "Bunyi amaran"
+  },
+  "settingsSoundHint": {
+    "message": "Mainkan loceng apabila produk yang dipantau kembali ada stok."
+  },
+  "settingsPack": {
+    "message": "Pek bunyi"
+  },
+  "settingsPackHint": {
+    "message": "Pilih bunyi amaran. Lebih banyak pek dibuka dengan Pro."
+  },
+  "packDefault": {
+    "message": "Loceng lalai"
+  },
+  "licenseTab": {
+    "message": "Lesen"
+  },
+  "licenseHeading": {
+    "message": "Pelan anda"
+  },
+  "licenseKeyLabel": {
+    "message": "Kunci lesen"
+  },
+  "licenseKeyPh": {
+    "message": "ZOVO-XXXX-XXXX-XXXX"
+  },
+  "verify": {
+    "message": "Sahkan"
+  },
+  "verifying": {
+    "message": "Mengesahkan…"
+  },
+  "verifyOk": {
+    "message": "Pro dibuka. Terima kasih kerana menyokong Zovo."
+  },
+  "verifyBad": {
+    "message": "Kunci itu tidak sah. Semak dan cuba lagi."
+  },
+  "tierFree": {
+    "message": "Pelan percuma"
+  },
+  "tierTrial": {
+    "message": "Percubaan Pro"
+  },
+  "tierPro": {
+    "message": "Pro"
+  },
+  "trialLeft": {
+    "message": "Tinggal $DAYS$ hari lagi dalam percubaan anda",
+    "placeholders": {
+      "days": {
+        "content": "$1",
+        "example": "6"
+      }
+    }
+  },
+  "startTrialCta": {
+    "message": "Mulakan percubaan Pro 7 hari"
+  },
+  "proPitch": {
+    "message": "Pantauan tanpa had, semakan 60 saat, kelajuan setiap pantauan dan pek bunyi."
+  },
+  "getPro": {
+    "message": "Dapatkan Pro. $$99 sekali bayar"
+  },
+  "restoreHint": {
+    "message": "Sudah beli Pro? Tampal kunci anda di atas dan sahkan."
+  },
+  "pauseAction": {
+    "message": "Jeda"
+  },
+  "resumeAction": {
+    "message": "Sambung"
+  },
+  "deleteAction": {
+    "message": "Padam"
+  },
+  "openAction": {
+    "message": "Buka"
+  },
+  "cadenceColLabel": {
+    "message": "Semakan"
+  },
+  "perWatchCadenceHint": {
+    "message": "Kelajuan setiap pantauan ialah kawalan Pro."
+  },
+  "lastChecked": {
+    "message": "disemak $WHEN$",
+    "placeholders": {
+      "when": {
+        "content": "$1",
+        "example": "2 min ago"
+      }
+    }
+  },
+  "relNever": {
+    "message": "belum lagi"
+  },
+  "notifTitle": {
+    "message": "Kembali ada stok: $TITLE$",
+    "placeholders": {
+      "title": {
+        "content": "$1",
+        "example": "GPU model"
+      }
+    }
+  },
+  "onbEyebrow": {
+    "message": "Restock Radar"
+  },
+  "onbTitle": {
+    "message": "Memantau sesuatu produk? Saya akan ping anda sebaik ia kembali."
+  },
+  "onbTrust": {
+    "message": "Percuma. Tanpa akaun. Tanpa penjejakan."
+  },
+  "onbStep1t": {
+    "message": "Buka halaman produk"
+  },
+  "onbStep1b": {
+    "message": "Mana-mana kedai, mana-mana item yang kehabisan stok sekarang."
+  },
+  "onbStep2t": {
+    "message": "Klik Pantau halaman ini"
+  },
+  "onbStep2b": {
+    "message": "Satu ketik dari bar alat. Tanpa daftar, tanpa skrin persediaan."
+  },
+  "onbStep3t": {
+    "message": "Dapat ping saat ia kembali"
+  },
+  "onbStep3b": {
+    "message": "Amaran desktop dan loceng, walaupun tab ditutup."
+  },
+  "onbCta": {
+    "message": "Pantau produk pertama anda"
+  },
+  "onbProLine": {
+    "message": "Percuma sehingga 3 pantauan. Pro membuka pantauan tanpa had, semakan 60 saat dan pek bunyi."
+  },
+  "onbGoPro": {
+    "message": "Lihat Pro"
+  },
+  "onbFooter": {
+    "message": "Dibuat oleh Zovo · zovo.one"
+  },
+  "sbEyebrow": {
+    "message": "Pro"
+  },
+  "sbHeadline": {
+    "message": "Buka Pro. Bayar sekali, milik anda selamanya."
+  },
+  "sbCtaSub": {
+    "message": "Satu bayaran, bukan langganan · jaminan wang dikembalikan 30 hari"
+  },
+  "sbMore": {
+    "message": "Lebih banyak alat"
+  },
+  "sbMoreLink": {
+    "message": "Layari semua alat di zovo.one"
+  },
+  "sbHelp": {
+    "message": "Bantuan"
+  },
+  "sbPrivacy": {
+    "message": "Privasi"
+  }
+}

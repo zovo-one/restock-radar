@@ -1,0 +1,343 @@
+{
+  "extName": {
+    "message": "Restock Radar. తిరిగి స్టాక్‌లోకి వచ్చిన అలర్ట్‌లు",
+    "description": "Extension name, <=75 chars"
+  },
+  "extDesc": {
+    "message": "ఏ ప్రొడక్ట్ పేజీనైనా గమనించి, తిరిగి స్టాక్‌లోకి వచ్చిన క్షణమే డెస్క్‌టాప్ అలర్ట్ పొందండి. ఖాతా లేదు, ట్రాకింగ్ లేదు.",
+    "description": "Extension description, <=132 chars"
+  },
+  "brandName": {
+    "message": "Restock Radar"
+  },
+  "watchThisPage": {
+    "message": "ఈ పేజీని గమనించండి"
+  },
+  "watchAdding": {
+    "message": "జోడిస్తోంది…"
+  },
+  "watchingHere": {
+    "message": "ఈ పేజీని గమనిస్తోంది"
+  },
+  "popupTagline": {
+    "message": "తిరిగి కొనగలిగే క్షణమే డెస్క్‌టాప్ పింగ్ పొందండి."
+  },
+  "notProduct": {
+    "message": "ఇది ప్రొడక్ట్ పేజీలా కనిపించడం లేదు, అయినా మీరు దీన్ని గమనించవచ్చు."
+  },
+  "watching": {
+    "message": "గమనిస్తోంది"
+  },
+  "checkingNow": {
+    "message": "ఇప్పుడు తనిఖీ చేస్తోంది"
+  },
+  "cadenceFree": {
+    "message": "ప్రతి 15 నిమి"
+  },
+  "cadencePro": {
+    "message": "ప్రతి 60సె"
+  },
+  "cadenceChipLabel": {
+    "message": "తనిఖీలు"
+  },
+  "statusOut": {
+    "message": "స్టాక్ లేదు · గమనిస్తోంది"
+  },
+  "statusIn": {
+    "message": "ఇప్పటికే స్టాక్‌లో ఉంది"
+  },
+  "statusTriggered": {
+    "message": "తిరిగి స్టాక్‌లోకి వచ్చింది, పాజ్ చేయబడింది"
+  },
+  "statusPaused": {
+    "message": "పాజ్ చేయబడింది"
+  },
+  "statusError": {
+    "message": "చేరుకోలేకపోతోంది, మళ్ళీ ప్రయత్నిస్తోంది"
+  },
+  "watchesHere": {
+    "message": "ఈ సైట్‌లో గమనిస్తోంది"
+  },
+  "noWatchesHere": {
+    "message": "ఈ సైట్‌లో ఇంకా వాచ్‌లు లేవు."
+  },
+  "manageAll": {
+    "message": "అన్ని వాచ్‌లను నిర్వహించండి"
+  },
+  "pickSoldOut": {
+    "message": "సోల్డ్-అవుట్ బటన్‌ను ఎంచుకోండి"
+  },
+  "permNeeded": {
+    "message": "దీన్ని గమనించడానికి ఈ సైట్‌కు నాకు యాక్సెస్ అవసరం."
+  },
+  "tryAgain": {
+    "message": "మళ్ళీ ప్రయత్నించండి"
+  },
+  "capTitle": {
+    "message": "3లో 3 గమనిస్తోంది"
+  },
+  "capBody": {
+    "message": "Pro అపరిమిత ప్రొడక్ట్‌లను గమనిస్తుంది, ప్రతి 60సెకి తనిఖీ చేస్తుంది, సౌండ్ ప్యాక్‌లను జోడిస్తుంది."
+  },
+  "watchesNoun": {
+    "message": "వాచ్‌లు"
+  },
+  "upgrade": {
+    "message": "అప్‌గ్రేడ్ చేయండి"
+  },
+  "maybeLater": {
+    "message": "బహుశా తర్వాత"
+  },
+  "proLock": {
+    "message": "Pro"
+  },
+  "pwHeadline": {
+    "message": "తదుపరి రీస్టాక్‌ను ఎప్పుడూ మిస్ చేయకండి"
+  },
+  "pwForever": {
+    "message": "ఒకే చెల్లింపు Restock Radar Proను శాశ్వతంగా అన్‌లాక్ చేస్తుంది."
+  },
+  "proUnlock1": {
+    "message": "కేవలం 3 కాదు, అపరిమిత ప్రొడక్ట్‌లను గమనించండి"
+  },
+  "proUnlock2": {
+    "message": "60-సెకన్ల తనిఖీలు, ఫ్రీ కంటే 15x వేగంగా"
+  },
+  "proUnlock3": {
+    "message": "ప్రతి-వాచ్ వేగ నియంత్రణ"
+  },
+  "proUnlock4": {
+    "message": "సౌండ్ ప్యాక్‌లు మరియు ప్రతి-వాచ్ చరిత్ర"
+  },
+  "pwCompareHead": {
+    "message": "ఫ్రీ vs Pro"
+  },
+  "pwRowWatches": {
+    "message": "యాక్టివ్ వాచ్‌లు"
+  },
+  "pwRowCadence": {
+    "message": "తనిఖీ వేగం"
+  },
+  "pwRowSound": {
+    "message": "అలర్ట్ సౌండ్‌లు"
+  },
+  "pwFreeWatches": {
+    "message": "3"
+  },
+  "pwProWatches": {
+    "message": "అపరిమితం"
+  },
+  "pwFreeCadence": {
+    "message": "15 నిమి"
+  },
+  "pwProCadence": {
+    "message": "60 సెక"
+  },
+  "pwFreeSound": {
+    "message": "1 చైమ్"
+  },
+  "pwProSound": {
+    "message": "సౌండ్ ప్యాక్‌లు"
+  },
+  "priceLine": {
+    "message": "$$99 జీవితకాలం · ఒకే చెల్లింపు, సబ్‌స్క్రిప్షన్ కాదు"
+  },
+  "guaranteeLine": {
+    "message": "30-రోజుల మనీ-బ్యాక్ గ్యారంటీ. ఖాతా లేదు, జీరో ట్రాకింగ్."
+  },
+  "startTrialNoCard": {
+    "message": "7-రోజుల ఉచిత ట్రయల్ ప్రారంభించండి, కార్డ్ అవసరం లేదు"
+  },
+  "getProCta": {
+    "message": "Pro పొందండి. $$99 జీవితకాలం"
+  },
+  "dashboardTitle": {
+    "message": "మీ వాచ్‌లు"
+  },
+  "optionsSubtitle": {
+    "message": "Restock Radar గమనిస్తున్న ప్రతిదీ."
+  },
+  "navWatches": {
+    "message": "వాచ్‌లు"
+  },
+  "navSettings": {
+    "message": "సెట్టింగ్‌లు"
+  },
+  "navLicense": {
+    "message": "లైసెన్స్"
+  },
+  "emptyTitle": {
+    "message": "ఇంకా వాచ్‌లు లేవు"
+  },
+  "emptyText": {
+    "message": "ప్రొడక్ట్ పేజీని తెరిచి, Restock Radar ఐకాన్‌పై క్లిక్ చేసి, ఈ పేజీని గమనించండి నొక్కండి."
+  },
+  "settingsSound": {
+    "message": "అలర్ట్ సౌండ్"
+  },
+  "settingsSoundHint": {
+    "message": "గమనిస్తున్న ప్రొడక్ట్ తిరిగి స్టాక్‌లోకి వచ్చినప్పుడు చైమ్ ప్లే చేయండి."
+  },
+  "settingsPack": {
+    "message": "సౌండ్ ప్యాక్"
+  },
+  "settingsPackHint": {
+    "message": "అలర్ట్ సౌండ్‌ను ఎంచుకోండి. Proతో మరిన్ని ప్యాక్‌లు అన్‌లాక్ అవుతాయి."
+  },
+  "packDefault": {
+    "message": "డిఫాల్ట్ చైమ్"
+  },
+  "licenseTab": {
+    "message": "లైసెన్స్"
+  },
+  "licenseHeading": {
+    "message": "మీ ప్లాన్"
+  },
+  "licenseKeyLabel": {
+    "message": "లైసెన్స్ కీ"
+  },
+  "licenseKeyPh": {
+    "message": "ZOVO-XXXX-XXXX-XXXX"
+  },
+  "verify": {
+    "message": "ధృవీకరించండి"
+  },
+  "verifying": {
+    "message": "ధృవీకరిస్తోంది…"
+  },
+  "verifyOk": {
+    "message": "Pro అన్‌లాక్ అయింది. Zovoకు మద్దతు ఇచ్చినందుకు ధన్యవాదాలు."
+  },
+  "verifyBad": {
+    "message": "ఆ కీ సరిపోలలేదు. దాన్ని తనిఖీ చేసి మళ్ళీ ప్రయత్నించండి."
+  },
+  "tierFree": {
+    "message": "ఫ్రీ ప్లాన్"
+  },
+  "tierTrial": {
+    "message": "Pro ట్రయల్"
+  },
+  "tierPro": {
+    "message": "Pro"
+  },
+  "trialLeft": {
+    "message": "మీ ట్రయల్‌లో $DAYS$ రోజులు మిగిలి ఉన్నాయి",
+    "placeholders": {
+      "days": {
+        "content": "$1",
+        "example": "6"
+      }
+    }
+  },
+  "startTrialCta": {
+    "message": "7-రోజుల Pro ట్రయల్ ప్రారంభించండి"
+  },
+  "proPitch": {
+    "message": "అపరిమిత వాచ్‌లు, 60-సెకన్ల తనిఖీలు, ప్రతి-వాచ్ వేగం మరియు సౌండ్ ప్యాక్‌లు."
+  },
+  "getPro": {
+    "message": "Pro పొందండి. $$99 ఒకసారి"
+  },
+  "restoreHint": {
+    "message": "ఇప్పటికే Pro కొన్నారా? మీ కీని పైన అతికించి ధృవీకరించండి."
+  },
+  "pauseAction": {
+    "message": "పాజ్ చేయండి"
+  },
+  "resumeAction": {
+    "message": "కొనసాగించండి"
+  },
+  "deleteAction": {
+    "message": "తొలగించండి"
+  },
+  "openAction": {
+    "message": "తెరవండి"
+  },
+  "cadenceColLabel": {
+    "message": "తనిఖీలు"
+  },
+  "perWatchCadenceHint": {
+    "message": "ప్రతి-వాచ్ వేగం అనేది Pro నియంత్రణ."
+  },
+  "lastChecked": {
+    "message": "$WHEN$ తనిఖీ చేయబడింది",
+    "placeholders": {
+      "when": {
+        "content": "$1",
+        "example": "2 min ago"
+      }
+    }
+  },
+  "relNever": {
+    "message": "ఇంకా లేదు"
+  },
+  "notifTitle": {
+    "message": "తిరిగి స్టాక్‌లోకి వచ్చింది: $TITLE$",
+    "placeholders": {
+      "title": {
+        "content": "$1",
+        "example": "GPU model"
+      }
+    }
+  },
+  "onbEyebrow": {
+    "message": "Restock Radar"
+  },
+  "onbTitle": {
+    "message": "ప్రొడక్ట్‌ను గమనిస్తున్నారా? తిరిగి వచ్చిన క్షణమే నేను మీకు పింగ్ చేస్తాను."
+  },
+  "onbTrust": {
+    "message": "ఉచితం. ఖాతా లేదు. ట్రాకింగ్ లేదు."
+  },
+  "onbStep1t": {
+    "message": "ప్రొడక్ట్ పేజీని తెరవండి"
+  },
+  "onbStep1b": {
+    "message": "ఏ స్టోర్‌లోనైనా, ఇప్పుడు సోల్డ్-అవుట్ అయిన ఏ వస్తువునైనా."
+  },
+  "onbStep2t": {
+    "message": "ఈ పేజీని గమనించండి క్లిక్ చేయండి"
+  },
+  "onbStep2b": {
+    "message": "టూల్‌బార్ నుండి ఒక్క ట్యాప్. సైన్-అప్ లేదు, సెటప్ స్క్రీన్ లేదు."
+  },
+  "onbStep3t": {
+    "message": "తిరిగి వచ్చిన క్షణమే పింగ్ పొందండి"
+  },
+  "onbStep3b": {
+    "message": "ట్యాబ్ మూసివేసినా, డెస్క్‌టాప్ అలర్ట్ మరియు చైమ్."
+  },
+  "onbCta": {
+    "message": "మీ మొదటి ప్రొడక్ట్‌ను గమనించండి"
+  },
+  "onbProLine": {
+    "message": "3 వాచ్‌ల వరకు ఉచితం. Pro అపరిమిత వాచ్‌లు, 60-సెకన్ల తనిఖీలు మరియు సౌండ్ ప్యాక్‌లను అన్‌లాక్ చేస్తుంది."
+  },
+  "onbGoPro": {
+    "message": "Pro చూడండి"
+  },
+  "onbFooter": {
+    "message": "Zovo చే తయారు చేయబడింది · zovo.one"
+  },
+  "sbEyebrow": {
+    "message": "Pro"
+  },
+  "sbHeadline": {
+    "message": "Pro అన్‌లాక్ చేయండి. ఒకసారి చెల్లించండి, శాశ్వతంగా మీది."
+  },
+  "sbCtaSub": {
+    "message": "ఒకే చెల్లింపు, సబ్‌స్క్రిప్షన్ కాదు · 30-రోజుల మనీ-బ్యాక్ గ్యారంటీ"
+  },
+  "sbMore": {
+    "message": "మరిన్ని టూల్స్"
+  },
+  "sbMoreLink": {
+    "message": "zovo.oneలో అన్ని టూల్స్‌ను బ్రౌజ్ చేయండి"
+  },
+  "sbHelp": {
+    "message": "సహాయం"
+  },
+  "sbPrivacy": {
+    "message": "గోప్యత"
+  }
+}
